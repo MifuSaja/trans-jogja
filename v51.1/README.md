@@ -9,14 +9,21 @@ Tanggal: 2 Februari 2025.
 
 Catatan Perubahan:
 
-I. Penambahan perhentian bus:
+I. Perubahan jalur untuk:
+    - 12.
+    - 14.
+
+II. Penambahan perhentian bus untuk:
+    - Boulevard UII.
     - SMAN 1 - B.
     - SMPN 11 - B.
 
-II. Perubahan perhentian bus:
+III. Perubahan perhentian bus untuk:
     - SMAN 1 => SMAN 1 - A.
     - SMPN 11 => SMP N 11 - B.
-    
+    - UII - A => UII (Barat Jalan)
+    - UII - B => UII (Timur Jalan)
+
 ==============================================================
 
 -- Language: English--
@@ -25,13 +32,20 @@ Date: Februari 2nd, 2025.
 
 Changelog:
 
-I. Added bus stop:
+I. Changed route:
+    - 12.
+    - 14.
+
+II. Added bus stop:
+    - Boulevard UII.
     - SMAN 1 - B.
     - SMPN 11 - B.
 
-II. Changed bus stop:
+III. Changed bus stop:
     - SMAN 1 => SMAN 1 - A.
     - SMPN 11 => SMP N 11 - B.
+    - UII - A => UII (Barat Jalan)
+    - UII - B => UII (Timur Jalan)
 
 ==============================================================
 

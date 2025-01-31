@@ -51,21 +51,21 @@
 	<StyleMap id="msn_wht-pushpin">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin</styleUrl>
+			<styleUrl>#sn_wht-pushpin4</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin</styleUrl>
+			<styleUrl>#sh_wht-pushpin1</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin0">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin6</styleUrl>
+			<styleUrl>#sn_wht-pushpin2</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin12</styleUrl>
+			<styleUrl>#sh_wht-pushpin3</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin00">
@@ -101,11 +101,11 @@
 	<StyleMap id="msn_wht-pushpin01">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin4</styleUrl>
+			<styleUrl>#sn_wht-pushpin6</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin150</styleUrl>
+			<styleUrl>#sh_wht-pushpin12</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin010">
@@ -161,11 +161,11 @@
 	<StyleMap id="msn_wht-pushpin1">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin7</styleUrl>
+			<styleUrl>#sn_wht-pushpin</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin5</styleUrl>
+			<styleUrl>#sh_wht-pushpin7</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin10">
@@ -371,7 +371,7 @@
 	<StyleMap id="msn_wht-pushpin11">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin2</styleUrl>
+			<styleUrl>#sn_wht-pushpin20</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -386,6 +386,16 @@
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_wht-pushpin22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin111">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin54</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin113">
@@ -501,6 +511,16 @@
 	<StyleMap id="msn_wht-pushpin15">
 		<Pair>
 			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin150">
+		<Pair>
+			<key>normal</key>
 			<styleUrl>#sn_wht-pushpin8</styleUrl>
 		</Pair>
 		<Pair>
@@ -515,7 +535,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin700</styleUrl>
+			<styleUrl>#sh_wht-pushpin7000</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin160">
@@ -595,7 +615,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin10</styleUrl>
+			<styleUrl>#sh_wht-pushpin104</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin18">
@@ -675,13 +695,13 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin3</styleUrl>
+			<styleUrl>#sh_wht-pushpin35</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin20">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin2</styleUrl>
+			<styleUrl>#sn_wht-pushpin20</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -791,7 +811,7 @@
 	<StyleMap id="msn_wht-pushpin240">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin20</styleUrl>
+			<styleUrl>#sn_wht-pushpin201</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -815,7 +835,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin7</styleUrl>
+			<styleUrl>#sh_wht-pushpin70</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin260">
@@ -855,17 +875,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin20</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_wht-pushpin280">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin11</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin04</styleUrl>
+			<styleUrl>#sh_wht-pushpin201</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin29">
@@ -886,16 +896,6 @@
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_wht-pushpin18</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_wht-pushpin30">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin00</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin55</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin300">
@@ -955,7 +955,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin70</styleUrl>
+			<styleUrl>#sh_wht-pushpin700</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin31">
@@ -1001,7 +1001,7 @@
 	<StyleMap id="msn_wht-pushpin32">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin2</styleUrl>
+			<styleUrl>#sn_wht-pushpin20</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -1011,7 +1011,7 @@
 	<StyleMap id="msn_wht-pushpin33">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin2</styleUrl>
+			<styleUrl>#sn_wht-pushpin20</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -1161,7 +1161,7 @@
 	<StyleMap id="msn_wht-pushpin36">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin20</styleUrl>
+			<styleUrl>#sn_wht-pushpin201</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -1171,7 +1171,7 @@
 	<StyleMap id="msn_wht-pushpin37">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin20</styleUrl>
+			<styleUrl>#sn_wht-pushpin201</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -1211,7 +1211,7 @@
 	<StyleMap id="msn_wht-pushpin42">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin2</styleUrl>
+			<styleUrl>#sn_wht-pushpin20</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -1241,7 +1241,7 @@
 	<StyleMap id="msn_wht-pushpin471">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin20</styleUrl>
+			<styleUrl>#sn_wht-pushpin201</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -1251,11 +1251,11 @@
 	<StyleMap id="msn_wht-pushpin5">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin</styleUrl>
+			<styleUrl>#sn_wht-pushpin14</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin0</styleUrl>
+			<styleUrl>#sh_wht-pushpin2</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin50">
@@ -1288,10 +1288,20 @@
 			<styleUrl>#sh_wht-pushpin250</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="msn_wht-pushpin53">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
 	<StyleMap id="msn_wht-pushpin55">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin20</styleUrl>
+			<styleUrl>#sn_wht-pushpin201</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -1318,16 +1328,6 @@
 			<styleUrl>#sh_wht-pushpin28</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_wht-pushpin60">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin01</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin61</styleUrl>
-		</Pair>
-	</StyleMap>
 	<StyleMap id="msn_wht-pushpin600">
 		<Pair>
 			<key>normal</key>
@@ -1341,14 +1341,24 @@
 	<StyleMap id="msn_wht-pushpin7">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin0</styleUrl>
+			<styleUrl>#sn_wht-pushpin11</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin1</styleUrl>
+			<styleUrl>#sh_wht-pushpin</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin70">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin700">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_wht-pushpin9</styleUrl>
@@ -1385,7 +1395,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin54</styleUrl>
+			<styleUrl>#sh_wht-pushpin540</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin81">
@@ -1401,17 +1411,17 @@
 	<StyleMap id="msn_wht-pushpin9">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin</styleUrl>
+			<styleUrl>#sn_wht-pushpin11</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin2</styleUrl>
+			<styleUrl>#sh_wht-pushpin20</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin90">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin20</styleUrl>
+			<styleUrl>#sn_wht-pushpin201</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -1428,47 +1438,17 @@
 			<styleUrl>#sh_wht-pushpin38</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin4">
+	<StyleMap id="msn_ylw-pushpin">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin8</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin5</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin5">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_ylw-pushpin</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin5</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin2</styleUrl>
-		</Pair>
-	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin11</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin11</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_ylw-pushpin</styleUrl>
@@ -1476,6 +1456,16 @@
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_ylw-pushpin9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin11</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin00">
@@ -1486,6 +1476,16 @@
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_ylw-pushpin00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin10">
@@ -1501,11 +1501,21 @@
 	<StyleMap id="msn_ylw-pushpin100">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+			<styleUrl>#sn_ylw-pushpin00</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin12">
@@ -1535,7 +1545,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+			<styleUrl>#sh_ylw-pushpin01</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin3">
@@ -1568,14 +1578,14 @@
 			<styleUrl>#failed1000</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin41">
+	<StyleMap id="msn_ylw-pushpin4">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin12</styleUrl>
+			<styleUrl>#sn_ylw-pushpin8</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin12</styleUrl>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin40">
@@ -1588,6 +1598,26 @@
 			<styleUrl>#sh_ylw-pushpin20</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin41">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin6">
 		<Pair>
 			<key>normal</key>
@@ -1598,16 +1628,6 @@
 			<styleUrl>#sh_ylw-pushpin1</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin7">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin00</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin100</styleUrl>
-		</Pair>
-	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin8">
 		<Pair>
 			<key>normal</key>
@@ -1616,16 +1636,6 @@
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_ylw-pushpin3</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin80">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin10</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin000</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Style id="s_ylw-pushpin">
@@ -1759,18 +1769,6 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="sh_wht-pushpin04">
-		<IconStyle>
-			<scale>1.18182</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
 	<Style id="sh_wht-pushpin1">
 		<IconStyle>
 			<scale>1.3</scale>
@@ -1782,10 +1780,12 @@
 		<LabelStyle>
 			<scale>0.7</scale>
 		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
 	</Style>
 	<Style id="sh_wht-pushpin10">
 		<IconStyle>
-			<scale>1.18182</scale>
+			<scale>1.3</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -1856,6 +1856,18 @@
 		</LabelStyle>
 	</Style>
 	<Style id="sh_wht-pushpin103">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_wht-pushpin104">
 		<IconStyle>
 			<scale>1.18182</scale>
 			<Icon>
@@ -2059,18 +2071,6 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="sh_wht-pushpin150">
-		<IconStyle>
-			<scale>1.18182</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
 	<Style id="sh_wht-pushpin152">
 		<IconStyle>
 			<scale>1.16667</scale>
@@ -2193,7 +2193,7 @@
 	</Style>
 	<Style id="sh_wht-pushpin20">
 		<IconStyle>
-			<scale>1.16667</scale>
+			<scale>1.18182</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -2228,6 +2228,18 @@
 		</LabelStyle>
 	</Style>
 	<Style id="sh_wht-pushpin2001">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_wht-pushpin201">
 		<IconStyle>
 			<scale>1.16667</scale>
 			<Icon>
@@ -2647,6 +2659,18 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
+	<Style id="sh_wht-pushpin35">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
 	<Style id="sh_wht-pushpin350">
 		<IconStyle>
 			<scale>1.16667</scale>
@@ -2913,7 +2937,7 @@
 	</Style>
 	<Style id="sh_wht-pushpin5">
 		<IconStyle>
-			<scale>1.16667</scale>
+			<scale>1.3</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -3031,9 +3055,9 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="sh_wht-pushpin55">
+	<Style id="sh_wht-pushpin540">
 		<IconStyle>
-			<scale>1.18182</scale>
+			<scale>1.16667</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -3082,18 +3106,6 @@
 	<Style id="sh_wht-pushpin60">
 		<IconStyle>
 			<scale>1.16667</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="sh_wht-pushpin61">
-		<IconStyle>
-			<scale>1.3</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -3153,7 +3165,7 @@
 	</Style>
 	<Style id="sh_wht-pushpin7">
 		<IconStyle>
-			<scale>1.16667</scale>
+			<scale>1.18182</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -3176,6 +3188,18 @@
 		</LabelStyle>
 	</Style>
 	<Style id="sh_wht-pushpin700">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_wht-pushpin7000">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -3330,11 +3354,11 @@
 		<BalloonStyle>
 		</BalloonStyle>
 		<LineStyle>
-			<color>ff1bd0c1</color>
+			<color>ff007846</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin2">
+	<Style id="sh_ylw-pushpin10">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -3342,25 +3366,8 @@
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
 		<LineStyle>
-			<color>ffb6b740</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin5">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<LineStyle>
-			<color>ff3e9ebd</color>
+			<color>ff024da1</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
@@ -3373,22 +3380,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff141b9c</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin9">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<LineStyle>
-			<color>ffebcfa0</color>
+			<color>ff1bd0c1</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
@@ -3405,7 +3397,7 @@
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin000">
+	<Style id="sh_ylw-pushpin01">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -3414,7 +3406,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff024da1</color>
+			<color>ff141b9c</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
@@ -3428,19 +3420,6 @@
 		</IconStyle>
 		<LineStyle>
 			<color>ff30c5f8</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin100">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff007846</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
@@ -3483,6 +3462,19 @@
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb6b740</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
 	<Style id="sh_ylw-pushpin20">
 		<IconStyle>
 			<scale>1.3</scale>
@@ -3519,6 +3511,19 @@
 		</IconStyle>
 		<LineStyle>
 			<color>ffda941a</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff3e9ebd</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
@@ -3561,6 +3566,19 @@
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
+	<Style id="sh_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffebcfa0</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
 	<Style id="sn_wht-pushpin">
 		<IconStyle>
 			<Icon>
@@ -3586,6 +3604,7 @@
 	</Style>
 	<Style id="sn_wht-pushpin00">
 		<IconStyle>
+			<scale>1.1</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -3631,18 +3650,6 @@
 	</Style>
 	<Style id="sn_wht-pushpin0010">
 		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="sn_wht-pushpin01">
-		<IconStyle>
-			<scale>1.1</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -3829,6 +3836,17 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
+	<Style id="sn_wht-pushpin14">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
 	<Style id="sn_wht-pushpin16">
 		<IconStyle>
 			<Icon>
@@ -3865,6 +3883,17 @@
 	<Style id="sn_wht-pushpin200">
 		<IconStyle>
 			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_wht-pushpin201">
+		<IconStyle>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -4044,6 +4073,7 @@
 	</Style>
 	<Style id="sn_wht-pushpin4">
 		<IconStyle>
+			<scale>1.1</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -4052,6 +4082,8 @@
 		<LabelStyle>
 			<scale>0.7</scale>
 		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
 	</Style>
 	<Style id="sn_wht-pushpin5">
 		<IconStyle>
@@ -4167,7 +4199,7 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="sn_ylw-pushpin5">
+	<Style id="sn_ylw-pushpin0">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -4178,20 +4210,7 @@
 		<BalloonStyle>
 		</BalloonStyle>
 		<LineStyle>
-			<color>ffb6b740</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin0">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffa6a2f4</color>
+			<color>ff007846</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
@@ -4203,14 +4222,12 @@
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
 		<LineStyle>
 			<color>ffebcfa0</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_ylw-pushpin8">
+	<Style id="sn_ylw-pushpin00">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -4218,25 +4235,8 @@
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
 		<LineStyle>
-			<color>ff3e9ebd</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin2">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<LineStyle>
-			<color>ff1bd0c1</color>
+			<color>ffa6a2f4</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
@@ -4253,19 +4253,6 @@
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_ylw-pushpin00">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff007846</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
 	<Style id="sn_ylw-pushpin1">
 		<IconStyle>
 			<scale>1.1</scale>
@@ -4276,19 +4263,6 @@
 		</IconStyle>
 		<LineStyle>
 			<color>ffda941a</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin10">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff024da1</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
@@ -4315,6 +4289,19 @@
 		</IconStyle>
 		<LineStyle>
 			<color>ff9b3c72</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff1bd0c1</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
@@ -4357,6 +4344,32 @@
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff024da1</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin50">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb6b740</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
 	<Style id="sn_ylw-pushpin6">
 		<IconStyle>
 			<scale>1.1</scale>
@@ -4393,6 +4406,19 @@
 		</IconStyle>
 		<LineStyle>
 			<color>ff66aeff</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff3e9ebd</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
@@ -4799,7 +4825,7 @@
 				<range>168.5974770458351</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -4906,7 +4932,7 @@
 047 =&gt; Bandara Adisutjipto
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<styleUrl>#msn_ylw-pushpin01</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -5578,7 +5604,7 @@
 033 =&gt; Terminal Giwangan
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<styleUrl>#msn_ylw-pushpin11</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -5757,7 +5783,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>12 _ Trans Jogja</name>
+			<name>12 _ Trans Jogja xP</name>
 			<description>! -- AWAL /  START -- !
 
 001 =&gt; Terminal Condongcatur
@@ -5857,11 +5883,11 @@
 048 =&gt; Terminal Coindongcatur
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin80</styleUrl>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
-					110.3959023689948,-7.75650408305617,0 110.3960168130189,-7.756383382675212,0 110.3961850370825,-7.756488030933883,0 110.3958879355691,-7.758065083471728,0 110.395858588241,-7.758114646105378,0 110.3958389394701,-7.758227885230335,0 110.3957728965143,-7.758371446639369,0 110.3957454380193,-7.758525740987059,0 110.3953880767584,-7.759371268300463,0 110.3943587627703,-7.761194807029501,0 110.394252789548,-7.761447861447707,0 110.3938068053258,-7.763274878760491,0 110.3936320277759,-7.763623915077768,0 110.392683802654,-7.765036650183924,0 110.3923513956853,-7.765644485554422,0 110.3913371042383,-7.768242485751188,0 110.3901369006348,-7.770811669109201,0 110.3899921898412,-7.771260111261252,0 110.3898517613277,-7.771948161775756,0 110.3887541943717,-7.777762355669111,0 110.3886637039052,-7.777853300838269,0 110.3885018182907,-7.777850824862959,0 110.3876166668408,-7.777662129776352,0 110.3874605766154,-7.777655805036256,0 110.386280113105,-7.777948447640455,0 110.3860720299284,-7.777924582947056,0 110.3836376937797,-7.777113598531258,0 110.3832924262682,-7.777025670173834,0 110.3824493918533,-7.776939635119452,0 110.38157222568,-7.776776609238458,0 110.3803388296428,-7.776637831189529,0 110.379823333735,-7.776549697957175,0 110.3797798169516,-7.776552567218156,0 110.3795257754514,-7.776396782147941,0 110.3793200432237,-7.776312648995329,0 110.3762884545199,-7.776177059371285,0 110.376181240012,-7.776254017308408,0 110.3758318391005,-7.776210988008522,0 110.3746094120445,-7.77617312473981,0 110.3743922689084,-7.776096346367125,0 110.3744062651979,-7.775872698735346,0 110.376075889785,-7.771853494208857,0 110.376061480877,-7.771761202917013,0 110.3760107534953,-7.771703663072008,0 110.373365205684,-7.770908310897338,0 110.3732139864937,-7.770778342254536,0 110.373205149243,-7.770549028004398,0 110.3745062034843,-7.766964374482563,0 110.37508107322,-7.766220871550538,0 110.3751714719667,-7.765594441559591,0 110.3753361013585,-7.765106578571932,0 110.3755376675784,-7.764914012827357,0 110.3757067727453,-7.764817563504431,0 110.3758433844311,-7.76471261307009,0 110.3759168173278,-7.764598027599349,0 110.3760595842415,-7.764576900219844,0 110.378293278785,-7.765598687924047,0 110.3785116727437,-7.76559566450518,0 110.3786605648003,-7.765509654223243,0 110.3821724294133,-7.757007405463547,0 110.3826017764015,-7.756046012177235,0 110.383137116009,-7.755026390197095,0 110.383455807342,-7.754615553259108,0 110.3901176249109,-7.743211556414813,0 110.3952659982346,-7.734522880655398,0 110.3967456423912,-7.731888309444066,0 110.3975819151595,-7.730521552184393,0 110.3987554619483,-7.728433859624109,0 110.4049377022017,-7.717804453326251,0 110.4054293230999,-7.716890307065441,0 110.4134912303775,-7.702865322673542,0 110.4138379223025,-7.702369347282324,0 110.4142343661367,-7.702013791026049,0 110.4144616633818,-7.701741495660219,0 110.4152615194118,-7.700429121210315,0 110.4172474811213,-7.697036384155832,0 110.4185087153653,-7.694631984170822,0 110.4185607617581,-7.694375467573851,0 110.4187773580105,-7.686952360844656,0 110.4191097735555,-7.684257330214381,0 110.4194552820397,-7.68305361483056,0 110.4194955837675,-7.682755703240047,0 110.4194368526402,-7.682436714206567,0 110.4184466839581,-7.680313021257568,0 110.4174771196557,-7.67839515576338,0 110.4174339338582,-7.67822001017355,0 110.4172047761202,-7.675426242372845,0 110.4172308408725,-7.674781419750184,0 110.4174960258113,-7.670590522349261,0 110.4177053138963,-7.667593984025034,0 110.4178580392194,-7.667402595208489,0 110.4180934500646,-7.667283937575074,0 110.4185284781335,-7.667312948889736,0 110.4187387827731,-7.667240955758454,0 110.4189086125422,-7.667083584693389,0 110.4190219334828,-7.666395281121081,0 110.4190946914812,-7.666327183576567,0 110.4192012850183,-7.666326127909233,0 110.4197911655108,-7.666580797251457,0 110.4197811774455,-7.666743548775907,0 110.4198632785933,-7.666842971060894,0 110.4204766476906,-7.666902830906948,0 110.4206200257929,-7.66705129362606,0 110.4205851460097,-7.667611902015406,0 110.4189273281085,-7.667381733474552,0 110.4181092756991,-7.667332798151013,0 110.4178856726012,-7.667452793671453,0 110.4177640284299,-7.667625382086872,0 110.4175387565127,-7.670594612927219,0 110.4172838434573,-7.674793285845299,0 110.4172604034213,-7.675426403131517,0 110.4174889424178,-7.678207310318612,0 110.4175298383359,-7.678368902201544,0 110.4184855462111,-7.680282160199922,0 110.4194880013791,-7.682417506172802,0 110.4195482988024,-7.682751379177226,0 110.419518653031,-7.683073162951854,0 110.4191606703963,-7.684274014896027,0 110.4188409999815,-7.686953551268283,0 110.4186171177609,-7.69438286262188,0 110.4185664551864,-7.694660040597828,0 110.4173032667835,-7.697074199185285,0 110.4153513090522,-7.700383881598993,0 110.4144851340153,-7.701759629806526,0 110.414263008726,-7.702033209781239,0 110.4138620425476,-7.702390260116271,0 110.4135213805689,-7.70288772910483,0 110.4054646147055,-7.716907726674856,0 110.4049646363915,-7.717823436761764,0 110.3987922098466,-7.728453538165875,0 110.3976111190534,-7.730546634592953,0 110.3967914911647,-7.731915912054943,0 110.3953023096969,-7.734531289248443,0 110.3901468473991,-7.743229871632902,0 110.383486899831,-7.754632884946449,0 110.383226397497,-7.755212672963236,0 110.3826863496641,-7.756128366196159,0 110.3822590452191,-7.757046055312766,0 110.378654683155,-7.765822894467468,0 110.3785712030856,-7.765897352798339,0 110.3784461235557,-7.765910187436885,0 110.3761924552745,-7.765019956802321,0 110.375978161339,-7.764962115118375,0 110.3759239083063,-7.764923782801227,0 110.375878643438,-7.764912842009264,0 110.3755963867982,-7.765013402742593,0 110.3754414254277,-7.765164558586275,0 110.3752705687252,-7.765632347867337,0 110.375135411044,-7.766268620817876,0 110.3745837521231,-7.767021831546039,0 110.373267859584,-7.770569510074361,0 110.3732833451644,-7.770725076834001,0 110.3733973761357,-7.770826502894899,0 110.3760434176333,-7.771620129876365,0 110.3761353188558,-7.771722993178023,0 110.3761453399184,-7.771881750913637,0 110.3744836269732,-7.775901779741977,0 110.3744690419909,-7.775936253589089,0 110.3744641032975,-7.776014051767449,0 110.3746258431169,-7.776074431204029,0 110.3757135087377,-7.776101022001171,0 110.3758846365941,-7.776020211336172,0 110.3758839259788,-7.775932202179168,0 110.3759664520512,-7.775793762205931,0 110.3761760735059,-7.775793300766924,0 110.3762845871423,-7.775913575643273,0 110.3762837909687,-7.77607000150349,0 110.379323025726,-7.77620208157098,0 110.3795882182342,-7.77625931232753,0 110.379836477535,-7.776386885422135,0 110.3805493093228,-7.776541357194896,0 110.3815889857822,-7.776667365232243,0 110.3824589795938,-7.776843223177521,0 110.3833042944093,-7.776929046449807,0 110.3836634519886,-7.777016592157655,0 110.3860898627691,-7.777847721615832,0 110.3862645796222,-7.777866209904621,0 110.3874329858891,-7.777567146470716,0 110.3876199815431,-7.77756248560301,0 110.3885516487651,-7.777773394134277,0 110.3886202955874,-7.777764420386005,0 110.3886555325609,-7.777719681084526,0 110.3897452013745,-7.771921047370816,0 110.3899071681235,-7.771230874767466,0 110.3900510065469,-7.770763112757427,0 110.3912606443287,-7.768205242911197,0 110.3922792522991,-7.765596773224123,0 110.3926084052541,-7.764979269894559,0 110.3935507404211,-7.763568524386922,0 110.393713442998,-7.763226878663241,0 110.3941580447978,-7.761394905895148,0 110.3942656541215,-7.761131565327677,0 110.395304318325,-7.759326354333128,0 110.39561053236,-7.758642054480092,0 110.3957139962472,-7.758251169496349,0 110.3957070387354,-7.758087885833166,0 110.3958766301695,-7.75723830191905,0 110.3958778868027,-7.757081365093035,0 110.3958166760053,-7.75689427420521,0 110.3959023689948,-7.75650408305617,0 
+					110.3959023689948,-7.75650408305617,0 110.3960168130189,-7.756383382675212,0 110.3961850370825,-7.756488030933883,0 110.3958879355691,-7.758065083471728,0 110.395858588241,-7.758114646105378,0 110.3958389394701,-7.758227885230335,0 110.3957728965143,-7.758371446639369,0 110.3957454380193,-7.758525740987059,0 110.3953880767584,-7.759371268300463,0 110.3943587627703,-7.761194807029501,0 110.394252789548,-7.761447861447707,0 110.3938068053258,-7.763274878760491,0 110.3936320277759,-7.763623915077768,0 110.392683802654,-7.765036650183924,0 110.3923513956853,-7.765644485554422,0 110.3913371042383,-7.768242485751188,0 110.3901369006348,-7.770811669109201,0 110.3899921898412,-7.771260111261252,0 110.3898517613277,-7.771948161775756,0 110.3887541943717,-7.777762355669111,0 110.3886637039052,-7.777853300838269,0 110.3885018182907,-7.777850824862959,0 110.3876166668408,-7.777662129776352,0 110.3874605766154,-7.777655805036256,0 110.386280113105,-7.777948447640455,0 110.3860720299284,-7.777924582947056,0 110.3836376937797,-7.777113598531258,0 110.3832924262682,-7.777025670173834,0 110.3824493918533,-7.776939635119452,0 110.38157222568,-7.776776609238458,0 110.3803388296428,-7.776637831189529,0 110.379823333735,-7.776549697957175,0 110.3797798169516,-7.776552567218156,0 110.3795257754514,-7.776396782147941,0 110.3793200432237,-7.776312648995329,0 110.3762884545199,-7.776177059371285,0 110.376181240012,-7.776254017308408,0 110.3758318391005,-7.776210988008522,0 110.3746094120445,-7.77617312473981,0 110.3743922689084,-7.776096346367125,0 110.3744062651979,-7.775872698735346,0 110.376075889785,-7.771853494208857,0 110.376061480877,-7.771761202917013,0 110.3760107534953,-7.771703663072008,0 110.373365205684,-7.770908310897338,0 110.3732139864937,-7.770778342254536,0 110.373205149243,-7.770549028004398,0 110.3745062034843,-7.766964374482563,0 110.37508107322,-7.766220871550538,0 110.3751714719667,-7.765594441559591,0 110.3753361013585,-7.765106578571932,0 110.3755376675784,-7.764914012827357,0 110.3757067727453,-7.764817563504431,0 110.3758433844311,-7.76471261307009,0 110.3759168173278,-7.764598027599349,0 110.3760595842415,-7.764576900219844,0 110.378293278785,-7.765598687924047,0 110.3785116727437,-7.76559566450518,0 110.3786605648003,-7.765509654223243,0 110.3821724294133,-7.757007405463547,0 110.3826017764015,-7.756046012177235,0 110.383137116009,-7.755026390197095,0 110.383455807342,-7.754615553259108,0 110.3901176249109,-7.743211556414813,0 110.3952659982346,-7.734522880655398,0 110.3967456423912,-7.731888309444066,0 110.3975819151595,-7.730521552184393,0 110.3987554619483,-7.728433859624109,0 110.4049377022017,-7.717804453326251,0 110.4054293230999,-7.716890307065441,0 110.4134912303775,-7.702865322673542,0 110.4138379223025,-7.702369347282324,0 110.4142343661367,-7.702013791026049,0 110.4144616633818,-7.701741495660219,0 110.4152615194118,-7.700429121210315,0 110.4172474811213,-7.697036384155832,0 110.4185087153653,-7.694631984170822,0 110.4185607617581,-7.694375467573851,0 110.4187600613815,-7.687613476995215,0 110.4168498327674,-7.68757344775296,0 110.4167457455526,-7.68760178407118,0 110.4167019134323,-7.687536826964877,0 110.4167556436481,-7.687473342849648,0 110.4168507872908,-7.687515614083395,0 110.4187601886097,-7.687546887813346,0 110.4187798643761,-7.686954070151651,0 110.4191097735555,-7.684257330214381,0 110.4194552820397,-7.68305361483056,0 110.4194955837675,-7.682755703240047,0 110.4194368526402,-7.682436714206567,0 110.4184466839581,-7.680313021257568,0 110.4174771196557,-7.67839515576338,0 110.4174339338582,-7.67822001017355,0 110.4172047761202,-7.675426242372845,0 110.4172308408725,-7.674781419750184,0 110.4174960258113,-7.670590522349261,0 110.4177053138963,-7.667593984025034,0 110.4178580392194,-7.667402595208489,0 110.4180934500646,-7.667283937575074,0 110.4185284781335,-7.667312948889736,0 110.4187387827731,-7.667240955758454,0 110.4189086125422,-7.667083584693389,0 110.4190219334828,-7.666395281121081,0 110.4190946914812,-7.666327183576567,0 110.4192012850183,-7.666326127909233,0 110.4197911655108,-7.666580797251457,0 110.4197811774455,-7.666743548775907,0 110.4198632785933,-7.666842971060894,0 110.4204766476906,-7.666902830906948,0 110.4206200257929,-7.66705129362606,0 110.4205851460097,-7.667611902015406,0 110.4189273281085,-7.667381733474552,0 110.4181092756991,-7.667332798151013,0 110.4178856726012,-7.667452793671453,0 110.4177640284299,-7.667625382086872,0 110.4175387565127,-7.670594612927219,0 110.4172838434573,-7.674793285845299,0 110.4172604034213,-7.675426403131517,0 110.4174889424178,-7.678207310318612,0 110.4175298383359,-7.678368902201544,0 110.4184855462111,-7.680282160199922,0 110.4194880013791,-7.682417506172802,0 110.4195482988024,-7.682751379177226,0 110.419518653031,-7.683073162951854,0 110.4191606703963,-7.684274014896027,0 110.4188390099447,-7.686957057528737,0 110.4188220559983,-7.687623758711887,0 110.4168499786746,-7.687582541890417,0 110.416741296143,-7.687614002067874,0 110.416688269314,-7.687533399347258,0 110.4167529550221,-7.687461816172956,0 110.4168521890102,-7.687506542362792,0 110.4188287591349,-7.687538788343227,0 110.4188313551346,-7.687628561472096,0 110.4188318351801,-7.687624751242752,0 110.4188209620229,-7.687634719089639,0 110.4186171177609,-7.69438286262188,0 110.4185664551864,-7.694660040597828,0 110.4173032667835,-7.697074199185285,0 110.4153513090522,-7.700383881598993,0 110.4144851340153,-7.701759629806526,0 110.414263008726,-7.702033209781239,0 110.4138620425476,-7.702390260116271,0 110.4135213805689,-7.70288772910483,0 110.4054646147055,-7.716907726674856,0 110.4049646363915,-7.717823436761764,0 110.3987922098466,-7.728453538165875,0 110.3976111190534,-7.730546634592953,0 110.3967914911647,-7.731915912054943,0 110.3953023096969,-7.734531289248443,0 110.3901468473991,-7.743229871632902,0 110.383486899831,-7.754632884946449,0 110.383226397497,-7.755212672963236,0 110.3826863496641,-7.756128366196159,0 110.3822590452191,-7.757046055312766,0 110.378654683155,-7.765822894467468,0 110.3785712030856,-7.765897352798339,0 110.3784461235557,-7.765910187436885,0 110.3761924552745,-7.765019956802321,0 110.375978161339,-7.764962115118375,0 110.3759239083063,-7.764923782801227,0 110.375878643438,-7.764912842009264,0 110.3755963867982,-7.765013402742593,0 110.3754414254277,-7.765164558586275,0 110.3752705687252,-7.765632347867337,0 110.375135411044,-7.766268620817876,0 110.3745837521231,-7.767021831546039,0 110.373267859584,-7.770569510074361,0 110.3732833451644,-7.770725076834001,0 110.3733973761357,-7.770826502894899,0 110.3760434176333,-7.771620129876365,0 110.3761353188558,-7.771722993178023,0 110.3761453399184,-7.771881750913637,0 110.3744836269732,-7.775901779741977,0 110.3744690419909,-7.775936253589089,0 110.3744641032975,-7.776014051767449,0 110.3746258431169,-7.776074431204029,0 110.3757135087377,-7.776101022001171,0 110.3758846365941,-7.776020211336172,0 110.3758839259788,-7.775932202179168,0 110.3759664520512,-7.775793762205931,0 110.3761760735059,-7.775793300766924,0 110.3762845871423,-7.775913575643273,0 110.3762837909687,-7.77607000150349,0 110.379323025726,-7.77620208157098,0 110.3795882182342,-7.77625931232753,0 110.379836477535,-7.776386885422135,0 110.3805493093228,-7.776541357194896,0 110.3815889857822,-7.776667365232243,0 110.3824589795938,-7.776843223177521,0 110.3833042944093,-7.776929046449807,0 110.3836634519886,-7.777016592157655,0 110.3860898627691,-7.777847721615832,0 110.3862645796222,-7.777866209904621,0 110.3874329858891,-7.777567146470716,0 110.3876199815431,-7.77756248560301,0 110.3885516487651,-7.777773394134277,0 110.3886202955874,-7.777764420386005,0 110.3886555325609,-7.777719681084526,0 110.3897452013745,-7.771921047370816,0 110.3899071681235,-7.771230874767466,0 110.3900510065469,-7.770763112757427,0 110.3912606443287,-7.768205242911197,0 110.3922792522991,-7.765596773224123,0 110.3926084052541,-7.764979269894559,0 110.3935507404211,-7.763568524386922,0 110.393713442998,-7.763226878663241,0 110.3941580447978,-7.761394905895148,0 110.3942656541215,-7.761131565327677,0 110.395304318325,-7.759326354333128,0 110.39561053236,-7.758642054480092,0 110.3957139962472,-7.758251169496349,0 110.3957070387354,-7.758087885833166,0 110.3958766301695,-7.75723830191905,0 110.3958778868027,-7.757081365093035,0 110.3958166760053,-7.75689427420521,0 110.3959023689948,-7.75650408305617,0 
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -5969,7 +5995,6 @@
  
 ! -- AKHIR /  END -- !</description>
 			<styleUrl>#msn_ylw-pushpin4</styleUrl>
-			<gx:balloonVisibility>1</gx:balloonVisibility>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -5978,7 +6003,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>14 _ Trans Jogja</name>
+			<name>14 _ Trans Jogja xP</name>
 			<description>! -- AWAL /  START -- !
 
 001 =&gt; Bandarra Adisutjjipto
@@ -6130,11 +6155,11 @@
 074 =&gt; Bandara Adisutjipto
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin7</styleUrl>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
-					110.4357558219712,-7.784473184844743,0 110.4355816283035,-7.784471831753912,0 110.4354622334144,-7.784533022225268,0 110.4353754781569,-7.784539260862862,0 110.4353544547256,-7.784444456483212,0 110.4354029982576,-7.784362112726271,0 110.4356562057155,-7.784243262184614,0 110.4364279114903,-7.784296610256028,0 110.4365867023088,-7.784171097059277,0 110.4366319143759,-7.783815235167779,0 110.4364660774948,-7.783670443899159,0 110.4360390076916,-7.783663332535901,0 110.4358546782994,-7.783534339871379,0 110.429966663348,-7.783508187468143,0 110.429939509296,-7.783496005364737,0 110.4298080495452,-7.783348047131614,0 110.4297924910057,-7.783121678658405,0 110.4309959930644,-7.770641741207576,0 110.4313688348445,-7.768044640726255,0 110.4313796700486,-7.767651370713811,0 110.4313100230025,-7.767241623944044,0 110.4311627973301,-7.766856223801264,0 110.4309466664527,-7.766509138685002,0 110.4306580231201,-7.766188278076994,0 110.4302916911719,-7.765940885896285,0 110.4297882191753,-7.765741086693791,0 110.4247356185158,-7.764704081252635,0 110.4247516812105,-7.764620901113293,0 110.4292909040884,-7.765563179633686,0 110.4294134989158,-7.765529449777561,0 110.4298433379365,-7.765622731315569,0 110.43035826766,-7.765819246881287,0 110.4307688483049,-7.766108038520343,0 110.4309784760959,-7.766243911461397,0 110.4310938977642,-7.766297062041301,0 110.4312604450216,-7.766324407601719,0 110.4313057240178,-7.766015868969953,0 110.4314250813837,-7.765427397488389,0 110.4327034138165,-7.761520639512552,0 110.4330731452506,-7.760229035942118,0 110.4342369510711,-7.752671701578905,0 110.4344138271196,-7.751217399677329,0 110.4345608100019,-7.750303421474347,0 110.4345821719996,-7.749992711766174,0 110.4340978568814,-7.745705451778816,0 110.4340670458375,-7.744892620704599,0 110.434395480055,-7.739766529210148,0 110.4346371938587,-7.735061878430175,0 110.4349913154208,-7.728408020048529,0 110.4350421039698,-7.726892618052936,0 110.4351289448241,-7.725204846959794,0 110.4350242794667,-7.724452265233613,0 110.4350453902485,-7.724207070447966,0 110.4354517882522,-7.723182931866997,0 110.4356263988707,-7.722845406208275,0 110.4357167214786,-7.722762241914717,0 110.438259043008,-7.722301394745368,0 110.4383366562356,-7.722175617059825,0 110.4381711173775,-7.718919847136036,0 110.438179188196,-7.718803939390861,0 110.4382474225859,-7.718725143895957,0 110.4408246351616,-7.717585089115024,0 110.4409166770618,-7.717494603987959,0 110.4413510962597,-7.716057724492495,0 110.4415252057777,-7.715851081962452,0 110.4415739354679,-7.715699662349157,0 110.4415520920814,-7.715325713275802,0 110.4416348658197,-7.714996276702076,0 110.4418705819959,-7.71458243450336,0 110.4422073540934,-7.714004333440426,0 110.4424815860173,-7.713325635853291,0 110.4426163673469,-7.713210522883394,0 110.4427686445914,-7.713195262696843,0 110.4478002002555,-7.713695564283741,0 110.4479001912625,-7.71365389825384,0 110.4479545438601,-7.713574000616624,0 110.4482848179174,-7.712479579971321,0 110.44843518293,-7.712251323474472,0 110.448613874929,-7.712052322909853,0 110.4486826075516,-7.711813750983815,0 110.4491135300782,-7.709522387998498,0 110.4491134567317,-7.709355335731108,0 110.4486259208717,-7.706506801337889,0 110.4481490812567,-7.703855434469109,0 110.447767848008,-7.702097321673849,0 110.447722164827,-7.702037421153719,0 110.4476752451669,-7.702028742354403,0 110.4470847654597,-7.702171257831264,0 110.4470250999682,-7.702211009250841,0 110.4469201571594,-7.702312519979076,0 110.4468157181723,-7.702383038037156,0 110.4462083099846,-7.702595655361788,0 110.4460441227095,-7.702635521971543,0 110.4452499479586,-7.702718995419025,0 110.4450774758603,-7.702763851229686,0 110.4428656461279,-7.703684030105764,0 110.440659300323,-7.704713631540316,0 110.4404746132648,-7.704777404794985,0 110.439641558961,-7.705014492156875,0 110.4394105768536,-7.705057073860156,0 110.4391439326493,-7.705048237189,0 110.438535768556,-7.70489830809135,0 110.4382711237869,-7.704869020185846,0 110.4333704398967,-7.704851431607264,0 110.4313525467732,-7.704855994021594,0 110.4296740463321,-7.704886511205596,0 110.4288973263528,-7.70481084596788,0 110.4263747019853,-7.704175141053938,0 110.4243172330696,-7.703631393731393,0 110.4224726760786,-7.703163382632215,0 110.4221357360065,-7.702989269759275,0 110.4199623061055,-7.702074576806769,0 110.418932501905,-7.701854591999324,0 110.4152422128876,-7.700484243668134,0 110.4172535419457,-7.697046883818874,0 110.4185176375351,-7.694635316600134,0 110.4185691571113,-7.694373601374,0 110.4187889429027,-7.68695362380345,0 110.4191193119454,-7.684259303857161,0 110.4194659234799,-7.683058124725151,0 110.4195069956345,-7.682753960560037,0 110.4194501824237,-7.682435147590943,0 110.4184540094334,-7.680310704952545,0 110.4174847934797,-7.67839041666685,0 110.4174428559453,-7.678213846962623,0 110.4172149179066,-7.675423460057297,0 110.4172331832361,-7.674779212650915,0 110.4175039140934,-7.670589368396829,0 110.4177130984786,-7.667596457643244,0 110.4178645007284,-7.667407227529935,0 110.4180940275817,-7.667291868795263,0 110.4185291850676,-7.667318945314147,0 110.4187448794964,-7.667247284617986,0 110.4189151201415,-7.667089584628473,0 110.4190288970647,-7.666400907536433,0 110.4190974760943,-7.666335151727719,0 110.4191987496484,-7.666335007784508,0 110.4197824549378,-7.666587905952468,0 110.4197722534598,-7.666745259420011,0 110.4198584119881,-7.666852314773163,0 110.4204716666507,-7.666910592647507,0 110.4206122718544,-7.667055463855395,0 110.4205755105492,-7.667602716638884,0 110.4189259905954,-7.66737538377496,0 110.4181080065821,-7.667325955691601,0 110.4178817653069,-7.667445594496396,0 110.4177548646446,-7.667620476573438,0 110.4175317071555,-7.670590272945674,0 110.4172680036371,-7.674784560804394,0 110.4172492238983,-7.675426066009511,0 110.4174803188466,-7.678208748290284,0 110.4175219784748,-7.678375456081603,0 110.4184803697741,-7.680292667256976,0 110.4194797008002,-7.682424060579568,0 110.4195382609719,-7.682752227892997,0 110.419508165238,-7.683069944593576,0 110.4191520253515,-7.684269803496912,0 110.4188294577705,-7.686953423994544,0 110.4186098074123,-7.694378796701095,0 110.4185587637238,-7.694654299212121,0 110.4172936514764,-7.697071464479852,0 110.415296806417,-7.700448928978305,0 110.4189430885078,-7.701825926801086,0 110.4199755615622,-7.702038858013459,0 110.4221556761766,-7.70294885792024,0 110.4224903872221,-7.703126040500744,0 110.4243314809101,-7.703589972144353,0 110.4263846832972,-7.704131974274739,0 110.4289060882245,-7.704773757110117,0 110.4296788785718,-7.704844253901387,0 110.4313564709287,-7.704810584011091,0 110.4333749778174,-7.704804904630519,0 110.4382779503291,-7.704832607478371,0 110.4385442518114,-7.704865727419664,0 110.4391487874375,-7.705010416689745,0 110.4394046551918,-7.705019015903204,0 110.4396360806855,-7.704980075000606,0 110.4404701535076,-7.704738714026184,0 110.4406481435635,-7.704676274059532,0 110.4428512043811,-7.703649539719213,0 110.4450672620366,-7.702732112301605,0 110.4452471126451,-7.702681645329125,0 110.4460414518849,-7.702600574310958,0 110.4462044109587,-7.702562061905561,0 110.4468011450364,-7.702346558941775,0 110.4469031462047,-7.702269011995787,0 110.4470020365573,-7.702174518925957,0 110.4470679268384,-7.702129885214845,0 110.4476707998498,-7.701984502570782,0 110.4477414523504,-7.70200584446564,0 110.4477952440677,-7.70208479684033,0 110.4481766829726,-7.7038484148269,0 110.4486546941829,-7.706500528859616,0 110.4491485761403,-7.709352461008608,0 110.4491399092722,-7.709528152940529,0 110.4487099768674,-7.711822869586864,0 110.4486366186555,-7.712069670120646,0 110.4484540351864,-7.71226953851162,0 110.4483102813514,-7.712498492950091,0 110.4479825391188,-7.713593364365199,0 110.4479159143996,-7.713681929773969,0 110.4477931389825,-7.713733658788999,0 110.4427693985101,-7.713224292932788,0 110.4426253178938,-7.713246306450383,0 110.4425053897374,-7.713341782343557,0 110.4422357468205,-7.71402419760003,0 110.441892417282,-7.714599989004366,0 110.4416602438731,-7.715012995683614,0 110.4415831909496,-7.71533454076746,0 110.4416055866163,-7.715711904735096,0 110.4415496920019,-7.715874864106706,0 110.4413718063354,-7.716078977022769,0 110.4409424691856,-7.717518115253859,0 110.440840325106,-7.717620199031588,0 110.4382678944596,-7.718751917734134,0 110.4382099132087,-7.71882172218266,0 110.4382010227388,-7.718924070345543,0 110.4383702968835,-7.722188606296388,0 110.4382713284617,-7.722342073104804,0 110.4357431117145,-7.722795411041123,0 110.4356520050445,-7.722877642284662,0 110.4354748067205,-7.723189950961293,0 110.4350734294012,-7.72421574676967,0 110.4350517092492,-7.724455937940146,0 110.4351615243395,-7.725204146385406,0 110.4350827295033,-7.726897543453594,0 110.4350248581725,-7.728407804615938,0 110.4346686823885,-7.735070356131666,0 110.4344310759949,-7.739784080172353,0 110.434145338123,-7.744895620679043,0 110.4341512489118,-7.745717329528007,0 110.4346212538334,-7.749996832289638,0 110.4346011615209,-7.750318984840292,0 110.4344793786707,-7.751236450688003,0 110.434296239659,-7.752691086468523,0 110.4331424234853,-7.760249827474463,0 110.4327569992686,-7.761545940444537,0 110.4314925205805,-7.765450163276427,0 110.4313666850947,-7.766026277845696,0 110.4313218920347,-7.766333239949791,0 110.4312957128091,-7.76683039387819,0 110.4314461138947,-7.767251610811892,0 110.4314904163911,-7.767657126002817,0 110.4314631584822,-7.768076552481872,0 110.4310607468597,-7.770654526924373,0 110.4298680703516,-7.783126239927649,0 110.4298973900021,-7.783286811917306,0 110.4299890544211,-7.783397145550057,0 110.4301290702043,-7.783461989287893,0 110.4377931082455,-7.783470001237554,0 110.438021524347,-7.783626328714571,0 110.4379040024774,-7.784688814021284,0 110.4374241534601,-7.784651313815355,0 110.4371348770699,-7.784593262543473,0 110.4357558219712,-7.784473184844743,0 
+					110.4357558219712,-7.784473184844743,0 110.4355816283035,-7.784471831753912,0 110.4354622334144,-7.784533022225268,0 110.4353754781569,-7.784539260862862,0 110.4353544547256,-7.784444456483212,0 110.4354029982576,-7.784362112726271,0 110.4356562057155,-7.784243262184614,0 110.4364279114903,-7.784296610256028,0 110.4365867023088,-7.784171097059277,0 110.4366319143759,-7.783815235167779,0 110.4364660774948,-7.783670443899159,0 110.4360390076916,-7.783663332535901,0 110.4358546782994,-7.783534339871379,0 110.429966663348,-7.783508187468143,0 110.429939509296,-7.783496005364737,0 110.4298080495452,-7.783348047131614,0 110.4297924910057,-7.783121678658405,0 110.4309959930644,-7.770641741207576,0 110.4313688348445,-7.768044640726255,0 110.4313796700486,-7.767651370713811,0 110.4313100230025,-7.767241623944044,0 110.4311627973301,-7.766856223801264,0 110.4309466664527,-7.766509138685002,0 110.4306580231201,-7.766188278076994,0 110.4302916911719,-7.765940885896285,0 110.4297882191753,-7.765741086693791,0 110.4247356185158,-7.764704081252635,0 110.4247516812105,-7.764620901113293,0 110.4292909040884,-7.765563179633686,0 110.4294134989158,-7.765529449777561,0 110.4298433379365,-7.765622731315569,0 110.43035826766,-7.765819246881287,0 110.4307688483049,-7.766108038520343,0 110.4309784760959,-7.766243911461397,0 110.4310938977642,-7.766297062041301,0 110.4312604450216,-7.766324407601719,0 110.4313057240178,-7.766015868969953,0 110.4314250813837,-7.765427397488389,0 110.4327034138165,-7.761520639512552,0 110.4330731452506,-7.760229035942118,0 110.4342369510711,-7.752671701578905,0 110.4344138271196,-7.751217399677329,0 110.4345608100019,-7.750303421474347,0 110.4345821719996,-7.749992711766174,0 110.4340978568814,-7.745705451778816,0 110.4340670458375,-7.744892620704599,0 110.434395480055,-7.739766529210148,0 110.4346371938587,-7.735061878430175,0 110.4349913154208,-7.728408020048529,0 110.4350421039698,-7.726892618052936,0 110.4351289448241,-7.725204846959794,0 110.4350242794667,-7.724452265233613,0 110.4350453902485,-7.724207070447966,0 110.4354517882522,-7.723182931866997,0 110.4356263988707,-7.722845406208275,0 110.4357167214786,-7.722762241914717,0 110.438259043008,-7.722301394745368,0 110.4383366562356,-7.722175617059825,0 110.4381711173775,-7.718919847136036,0 110.438179188196,-7.718803939390861,0 110.4382474225859,-7.718725143895957,0 110.4408246351616,-7.717585089115024,0 110.4409166770618,-7.717494603987959,0 110.4413510962597,-7.716057724492495,0 110.4415252057777,-7.715851081962452,0 110.4415739354679,-7.715699662349157,0 110.4415520920814,-7.715325713275802,0 110.4416348658197,-7.714996276702076,0 110.4418705819959,-7.71458243450336,0 110.4422073540934,-7.714004333440426,0 110.4424815860173,-7.713325635853291,0 110.4426163673469,-7.713210522883394,0 110.4427686445914,-7.713195262696843,0 110.4478002002555,-7.713695564283741,0 110.4479001912625,-7.71365389825384,0 110.4479545438601,-7.713574000616624,0 110.4482848179174,-7.712479579971321,0 110.44843518293,-7.712251323474472,0 110.448613874929,-7.712052322909853,0 110.4486826075516,-7.711813750983815,0 110.4491135300782,-7.709522387998498,0 110.4491134567317,-7.709355335731108,0 110.4486259208717,-7.706506801337889,0 110.4481490812567,-7.703855434469109,0 110.447767848008,-7.702097321673849,0 110.447722164827,-7.702037421153719,0 110.4476752451669,-7.702028742354403,0 110.4470847654597,-7.702171257831264,0 110.4470250999682,-7.702211009250841,0 110.4469201571594,-7.702312519979076,0 110.4468157181723,-7.702383038037156,0 110.4462083099846,-7.702595655361788,0 110.4460441227095,-7.702635521971543,0 110.4452499479586,-7.702718995419025,0 110.4450774758603,-7.702763851229686,0 110.4428656461279,-7.703684030105764,0 110.440659300323,-7.704713631540316,0 110.4404746132648,-7.704777404794985,0 110.439641558961,-7.705014492156875,0 110.4394105768536,-7.705057073860156,0 110.4391439326493,-7.705048237189,0 110.438535768556,-7.70489830809135,0 110.4382711237869,-7.704869020185846,0 110.4333704398967,-7.704851431607264,0 110.4313525467732,-7.704855994021594,0 110.4296740463321,-7.704886511205596,0 110.4288973263528,-7.70481084596788,0 110.4263747019853,-7.704175141053938,0 110.4243172330696,-7.703631393731393,0 110.4224726760786,-7.703163382632215,0 110.4221357360065,-7.702989269759275,0 110.4199623061055,-7.702074576806769,0 110.418932501905,-7.701854591999324,0 110.4152422128876,-7.700484243668134,0 110.4172535419457,-7.697046883818874,0 110.4185176375351,-7.694635316600134,0 110.4185691571113,-7.694373601374,0 110.4187697322011,-7.687646827905052,0 110.4168535863873,-7.687603976542379,0 110.4167379144322,-7.687641760517832,0 110.4166657880815,-7.68752894693896,0 110.4167462913711,-7.687435191216418,0 110.4168559489409,-7.687483975408258,0 110.4187490925578,-7.687520051805643,0 110.4187690226203,-7.686957938527172,0 110.4191193119454,-7.684259303857161,0 110.4194659234799,-7.683058124725151,0 110.4195069956345,-7.682753960560037,0 110.4194501824237,-7.682435147590943,0 110.4184540094334,-7.680310704952545,0 110.4174847934797,-7.67839041666685,0 110.4174428559453,-7.678213846962623,0 110.4172149179066,-7.675423460057297,0 110.4172331832361,-7.674779212650915,0 110.4175039140934,-7.670589368396829,0 110.4177130984786,-7.667596457643244,0 110.4178645007284,-7.667407227529935,0 110.4180940275817,-7.667291868795263,0 110.4185291850676,-7.667318945314147,0 110.4187448794964,-7.667247284617986,0 110.4189151201415,-7.667089584628473,0 110.4190288970647,-7.666400907536433,0 110.4190974760943,-7.666335151727719,0 110.4191987496484,-7.666335007784508,0 110.4197824549378,-7.666587905952468,0 110.4197722534598,-7.666745259420011,0 110.4198584119881,-7.666852314773163,0 110.4204716666507,-7.666910592647507,0 110.4206122718544,-7.667055463855395,0 110.4205755105492,-7.667602716638884,0 110.4189259905954,-7.66737538377496,0 110.4181080065821,-7.667325955691601,0 110.4178817653069,-7.667445594496396,0 110.4177548646446,-7.667620476573438,0 110.4175317071555,-7.670590272945674,0 110.4172680036371,-7.674784560804394,0 110.4172492238983,-7.675426066009511,0 110.4174803188466,-7.678208748290284,0 110.4175219784748,-7.678375456081603,0 110.4184803697741,-7.680292667256976,0 110.4194797008002,-7.682424060579568,0 110.4195382609719,-7.682752227892997,0 110.419508165238,-7.683069944593576,0 110.4191520253515,-7.684269803496912,0 110.4188278530248,-7.68695732302578,0 110.4188106846446,-7.687637631281322,0 110.4168524705691,-7.687593335857329,0 110.4167375206494,-7.687627034942362,0 110.4166773036266,-7.687532118608776,0 110.4167503490985,-7.687447897058884,0 110.4168531433205,-7.687496249780172,0 110.4188438508323,-7.687530920243849,0 110.4188425212187,-7.687628959846883,0 110.4188287084912,-7.687639684800597,0 110.4186098074123,-7.694378796701095,0 110.4185587637238,-7.694654299212121,0 110.4172936514764,-7.697071464479852,0 110.415296806417,-7.700448928978305,0 110.4189430885078,-7.701825926801086,0 110.4199755615622,-7.702038858013459,0 110.4221556761766,-7.70294885792024,0 110.4224903872221,-7.703126040500744,0 110.4243314809101,-7.703589972144353,0 110.4263846832972,-7.704131974274739,0 110.4289060882245,-7.704773757110117,0 110.4296788785718,-7.704844253901387,0 110.4313564709287,-7.704810584011091,0 110.4333749778174,-7.704804904630519,0 110.4382779503291,-7.704832607478371,0 110.4385442518114,-7.704865727419664,0 110.4391487874375,-7.705010416689745,0 110.4394046551918,-7.705019015903204,0 110.4396360806855,-7.704980075000606,0 110.4404701535076,-7.704738714026184,0 110.4406481435635,-7.704676274059532,0 110.4428512043811,-7.703649539719213,0 110.4450672620366,-7.702732112301605,0 110.4452471126451,-7.702681645329125,0 110.4460414518849,-7.702600574310958,0 110.4462044109587,-7.702562061905561,0 110.4468011450364,-7.702346558941775,0 110.4469031462047,-7.702269011995787,0 110.4470020365573,-7.702174518925957,0 110.4470679268384,-7.702129885214845,0 110.4476707998498,-7.701984502570782,0 110.4477414523504,-7.70200584446564,0 110.4477952440677,-7.70208479684033,0 110.4481766829726,-7.7038484148269,0 110.4486546941829,-7.706500528859616,0 110.4491485761403,-7.709352461008608,0 110.4491399092722,-7.709528152940529,0 110.4487099768674,-7.711822869586864,0 110.4486366186555,-7.712069670120646,0 110.4484540351864,-7.71226953851162,0 110.4483102813514,-7.712498492950091,0 110.4479825391188,-7.713593364365199,0 110.4479159143996,-7.713681929773969,0 110.4477931389825,-7.713733658788999,0 110.4427693985101,-7.713224292932788,0 110.4426253178938,-7.713246306450383,0 110.4425053897374,-7.713341782343557,0 110.4422357468205,-7.71402419760003,0 110.441892417282,-7.714599989004366,0 110.4416602438731,-7.715012995683614,0 110.4415831909496,-7.71533454076746,0 110.4416055866163,-7.715711904735096,0 110.4415496920019,-7.715874864106706,0 110.4413718063354,-7.716078977022769,0 110.4409424691856,-7.717518115253859,0 110.440840325106,-7.717620199031588,0 110.4382678944596,-7.718751917734134,0 110.4382099132087,-7.71882172218266,0 110.4382010227388,-7.718924070345543,0 110.4383702968835,-7.722188606296388,0 110.4382713284617,-7.722342073104804,0 110.4357431117145,-7.722795411041123,0 110.4356520050445,-7.722877642284662,0 110.4354748067205,-7.723189950961293,0 110.4350734294012,-7.72421574676967,0 110.4350517092492,-7.724455937940146,0 110.4351615243395,-7.725204146385406,0 110.4350827295033,-7.726897543453594,0 110.4350248581725,-7.728407804615938,0 110.4346686823885,-7.735070356131666,0 110.4344310759949,-7.739784080172353,0 110.434145338123,-7.744895620679043,0 110.4341512489118,-7.745717329528007,0 110.4346212538334,-7.749996832289638,0 110.4346011615209,-7.750318984840292,0 110.4344793786707,-7.751236450688003,0 110.434296239659,-7.752691086468523,0 110.4331424234853,-7.760249827474463,0 110.4327569992686,-7.761545940444537,0 110.4314925205805,-7.765450163276427,0 110.4313666850947,-7.766026277845696,0 110.4313218920347,-7.766333239949791,0 110.4312957128091,-7.76683039387819,0 110.4314461138947,-7.767251610811892,0 110.4314904163911,-7.767657126002817,0 110.4314631584822,-7.768076552481872,0 110.4310607468597,-7.770654526924373,0 110.4298680703516,-7.783126239927649,0 110.4298973900021,-7.783286811917306,0 110.4299890544211,-7.783397145550057,0 110.4301290702043,-7.783461989287893,0 110.4377931082455,-7.783470001237554,0 110.438021524347,-7.783626328714571,0 110.4379040024774,-7.784688814021284,0 110.4374241534601,-7.784651313815355,0 110.4371348770699,-7.784593262543473,0 110.4357558219712,-7.784473184844743,0 
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -6453,7 +6478,7 @@ Tujuan / Destination =&gt; Janti Bawah</description>
 				<range>208.2199700041754</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin1</styleUrl>
+			<styleUrl>#msn_wht-pushpin111</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4024384970305,-7.783186272776979,0</coordinates>
@@ -7000,6 +7025,41 @@ Tujuan / Destination =&gt; SMKN 3</description>
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Boulevard UII</name>
+			<description>12 _ Trans Jogja
+
+Tujuan / Destination =&gt; UII (Barat Jalan)
+
+
+12 _ Trans Jogja
+
+Tujuan / Destination =&gt; UII (Timur Jalan)
+
+
+14 _ Trans Jogja
+
+Tujuan / Destination =&gt; UII (Barat Jalan)
+
+
+14 _ Trans Jogja
+
+Tujuan / Destination =&gt; UII (Timur Jalan)</description>
+			<LookAt>
+				<longitude>110.4169862198922</longitude>
+				<latitude>-7.687425454539722</latitude>
+				<altitude>0</altitude>
+				<heading>1.055506017095384</heading>
+				<tilt>28.67292939924777</tilt>
+				<range>219.1253383804005</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>110.4172730164303,-7.687506019665772,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>BRI Bantul</name>
 			<description>15 _ Trans Jogja
 
@@ -7088,7 +7148,7 @@ Tujuan / Destination =&gt; Ambarukmo - B</description>
 				<range>415.3125862646385</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin1</styleUrl>
+			<styleUrl>#msn_wht-pushpin111</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.393893044921,-7.783094179431649,0</coordinates>
@@ -7407,7 +7467,12 @@ Tujuan / Destination =&gt; Jogokariyan - A</description>
 		</Placemark>
 		<Placemark>
 			<name>Dusun Kledokan - A</name>
-			<description>14 _ Trans Jogja
+			<description>12 _ Trans Jogja
+
+Tujuan / Destination =&gt; RS Panti Nugroho
+
+
+14 _ Trans Jogja
 
 Tujuan / Destination =&gt; RS Panti Nugroho</description>
 			<LookAt>
@@ -7419,7 +7484,7 @@ Tujuan / Destination =&gt; RS Panti Nugroho</description>
 				<range>219.6261092070482</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin280</styleUrl>
+			<styleUrl>#msn_wht-pushpin1</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4173659407891,-7.672637127187174,0</coordinates>
@@ -7427,7 +7492,12 @@ Tujuan / Destination =&gt; RS Panti Nugroho</description>
 		</Placemark>
 		<Placemark>
 			<name>Dusun Kledokan - B</name>
-			<description>14 _ Trans Jogja
+			<description>12 _ Trans Jogja
+
+Tujuan / Destination =&gt; Raminten - B
+
+
+14 _ Trans Jogja
 
 Tujuan / Destination =&gt; Raminten - B</description>
 			<LookAt>
@@ -7439,7 +7509,7 @@ Tujuan / Destination =&gt; Raminten - B</description>
 				<range>219.6261092070482</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin280</styleUrl>
+			<styleUrl>#msn_wht-pushpin1</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4174025497431,-7.672725639345671,0</coordinates>
@@ -7769,7 +7839,7 @@ Tujuan / Destination =&gt; LPP</description>
 				<range>129.8637648421048</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin1</styleUrl>
+			<styleUrl>#msn_wht-pushpin111</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3927095003862,-7.783187389397349,0</coordinates>
@@ -8323,7 +8393,7 @@ Tujuan / Destination =&gt; Janti Utara</description>
 				<range>98.21525832506784</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin1</styleUrl>
+			<styleUrl>#msn_wht-pushpin111</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4104819020574,-7.785771783797726,0</coordinates>
@@ -8377,7 +8447,7 @@ Tujuan / Destination =&gt; Transmart</description>
 				<range>76.14593173388438</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin1</styleUrl>
+			<styleUrl>#msn_wht-pushpin111</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4116721844196,-7.783211372389565,0</coordinates>
@@ -8490,7 +8560,7 @@ Tujuan / Destination =&gt; Mangkubumi 1</description>
 				<range>200.1609002484614</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<styleUrl>#msn_wht-pushpin7</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3695503467615,-7.782987636501905,0</coordinates>
@@ -10253,7 +10323,7 @@ Tujuan / Destination =&gt; Superindo Urip Sumoharjo</description>
 				<range>173.8815727765833</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin1</styleUrl>
+			<styleUrl>#msn_wht-pushpin111</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3861367329788,-7.783111464344003,0</coordinates>
@@ -10343,7 +10413,7 @@ Tujuan / Destination =&gt; Bandara Adisujtipto</description>
 				<range>305.6338175915633</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin1</styleUrl>
+			<styleUrl>#msn_wht-pushpin111</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4309894596263,-7.783405950187866,0</coordinates>
@@ -10452,7 +10522,7 @@ Tujuan / Destination =&gt; Malioboro 2</description>
 				<range>268.1945226758477</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<styleUrl>#msn_wht-pushpin7</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3661219733453,-7.790849355492073,0</coordinates>
@@ -10512,7 +10582,7 @@ Tujuan / Destination =&gt; Malioboro 3</description>
 				<range>276.0271634063338</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<styleUrl>#msn_wht-pushpin7</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3655917053972,-7.795218989194843,0</coordinates>
@@ -10726,7 +10796,7 @@ Tujuan / Destination =&gt; Mangkubumi 2</description>
 				<range>165.146542131834</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<styleUrl>#msn_wht-pushpin7</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3668631453825,-7.784762988708513,0</coordinates>
@@ -10761,7 +10831,7 @@ Tujuan / Destination =&gt; Malioboro 1</description>
 				<range>165.1465421334056</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<styleUrl>#msn_wht-pushpin7</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3664996371065,-7.787674480326208,0</coordinates>
@@ -11006,7 +11076,7 @@ Tujuan / Destination =&gt; Tejokusuman</description>
 				<range>85.87472224538487</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin15</styleUrl>
+			<styleUrl>#msn_wht-pushpin150</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3509511223963,-7.807874951280417,0</coordinates>
@@ -12734,7 +12804,7 @@ Tujuan / Destination =&gt; Pasar Jangkang - B</description>
 			<name>Raminten - A</name>
 			<description>12 _ Trans Jogja
 
-Tujuan / Destination =&gt; RS Panti Nugroho
+Tujuan / Destination =&gt; Dusun Kledokan - A
 
 
 14 _ Trans Jogja
@@ -12749,7 +12819,7 @@ Tujuan / Destination =&gt; Dusun Kledokan - A</description>
 				<range>182.9197227903793</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin3001</styleUrl>
+			<styleUrl>#msn_wht-pushpin1</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4172606210448,-7.675976456338613,0</coordinates>
@@ -12759,7 +12829,7 @@ Tujuan / Destination =&gt; Dusun Kledokan - A</description>
 			<name>Raminten - B</name>
 			<description>12 _ Trans Jogja
 
-Tujuan / Destination =&gt; UII - B
+Tujuan / Destination =&gt; Simpang Degolan - B
 
 
 14 _ Trans Jogja
@@ -12774,7 +12844,7 @@ Tujuan / Destination =&gt; Simpang Degolan - B</description>
 				<range>182.9197227903793</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin3001</styleUrl>
+			<styleUrl>#msn_wht-pushpin1</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4173087469003,-7.676149992187693,0</coordinates>
@@ -12814,7 +12884,7 @@ Tujuan / Destination =&gt; Jend. Sudirman - A</description>
 				<range>182.1896309022347</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<styleUrl>#msn_wht-pushpin7</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3780171349039,-7.783037414855128,0</coordinates>
@@ -13321,7 +13391,12 @@ Tujuan / Destination =&gt; Super Dazzle</description>
 		</Placemark>
 		<Placemark>
 			<name>SD Percobaan 3 Pakem</name>
-			<description>14 _ Trans Jogja
+			<description>12 _ Trans Jogja
+
+Tujuan / Destination =&gt; SMPN 4 Pakem
+
+
+14 _ Trans Jogja
 
 Tujuan / Destination =&gt; SMPN 4 Pakem</description>
 			<LookAt>
@@ -13333,7 +13408,7 @@ Tujuan / Destination =&gt; SMPN 4 Pakem</description>
 				<range>229.2877080152822</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin30</styleUrl>
+			<styleUrl>#msn_wht-pushpin5</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4176957338322,-7.668404040378884,0</coordinates>
@@ -13731,7 +13806,12 @@ Tujuan / Destination =&gt;</description>
 		</Placemark>
 		<Placemark>
 			<name>Simpang Besi Jakal - A</name>
-			<description>14 _ Trans Jogja
+			<description>12 _ Trans Jogja
+
+Tujuan / Destination =&gt; YAKKUM - A
+
+
+14 _ Trans Jogja
 
 Tujuan / Destination =&gt; YAKKUM - A</description>
 			<LookAt>
@@ -13743,7 +13823,7 @@ Tujuan / Destination =&gt; YAKKUM - A</description>
 				<range>200.0594446648673</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin3001</styleUrl>
+			<styleUrl>#msn_wht-pushpin5</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4153884203116,-7.70021012336186,0</coordinates>
@@ -13751,9 +13831,14 @@ Tujuan / Destination =&gt; YAKKUM - A</description>
 		</Placemark>
 		<Placemark>
 			<name>Simpang Besi Jakal - B</name>
-			<description>14 _ Trans Jogja
+			<description>12 _ Trans Jogja
 
-Tujuan / Destination =&gt; Wedangan Kampoeng - B</description>
+Tujuan / Destination =&gt; Wedangan Kampoeng - B
+
+
+14 _ Trans Jogja
+
+Tujuan / Destination =&gt; RSU Gramedika - B</description>
 			<LookAt>
 				<longitude>110.4156178352302</longitude>
 				<latitude>-7.700226634096727</latitude>
@@ -13763,7 +13848,7 @@ Tujuan / Destination =&gt; Wedangan Kampoeng - B</description>
 				<range>200.0594446648673</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin3001</styleUrl>
+			<styleUrl>#msn_wht-pushpin5</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4154444404505,-7.700218051229169,0</coordinates>
@@ -13771,7 +13856,12 @@ Tujuan / Destination =&gt; Wedangan Kampoeng - B</description>
 		</Placemark>
 		<Placemark>
 			<name>Simpang Degolan - A</name>
-			<description>14 _ Trans Jogja
+			<description>12 _ Trans Jogja
+
+Tujuan / Destination =&gt; Raminten - A
+
+
+14 _ Trans Jogja
 
 Tujuan / Destination =&gt; Raminten - A</description>
 			<LookAt>
@@ -13783,7 +13873,7 @@ Tujuan / Destination =&gt; Raminten - A</description>
 				<range>252.8351023730304</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin280</styleUrl>
+			<styleUrl>#msn_wht-pushpin1</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4191706854421,-7.684066784093043,0</coordinates>
@@ -13791,9 +13881,14 @@ Tujuan / Destination =&gt; Raminten - A</description>
 		</Placemark>
 		<Placemark>
 			<name>Simpang Degolan - B</name>
-			<description>14 _ Trans Jogja
+			<description>12 _ Trans Jogja
 
-Tujuan / Destination =&gt; UII - B</description>
+Tujuan / Destination =&gt; Boulevard UII
+
+
+14 _ Trans Jogja
+
+Tujuan / Destination =&gt; Boulevard UII</description>
 			<LookAt>
 				<longitude>110.4193122780977</longitude>
 				<latitude>-7.684111042966395</latitude>
@@ -13803,7 +13898,7 @@ Tujuan / Destination =&gt; UII - B</description>
 				<range>252.8351023730304</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin280</styleUrl>
+			<styleUrl>#msn_wht-pushpin1</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4192060852389,-7.684105202587231,0</coordinates>
@@ -14797,7 +14892,7 @@ Tujuan / Destination =&gt; Jl. Mataram</description>
 				<range>83.97826935504767</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin70</styleUrl>
+			<styleUrl>#msn_wht-pushpin700</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3777844577984,-7.795696560817533,0</coordinates>
@@ -15047,7 +15142,7 @@ Tujuan / Destination =&gt; Puskesmas Ngaglik - B</description>
 			<name>SMPN 4 Pakem</name>
 			<description>12 _ Trans Jogja
 
-Tujuan / Destination =&gt; Raminten - B
+Tujuan / Destination =&gt; Dusun Kledokan - B
 
 
 14 _ Trans Jogja
@@ -15062,7 +15157,7 @@ Tujuan / Destination =&gt; Dusun Kledokan - B</description>
 				<range>142.4062907824225</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin60</styleUrl>
+			<styleUrl>#msn_wht-pushpin15</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4176423080247,-7.669214695216644,0</coordinates>
@@ -15225,7 +15320,7 @@ Tujuan / Destination =&gt; Gereja Pugeran</description>
 				<range>347.9790434618906</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin0</styleUrl>
+			<styleUrl>#msn_wht-pushpin01</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.355174031219,-7.821685761741659,0</coordinates>
@@ -15568,7 +15663,7 @@ Tujuan / Destination =&gt; RS Bethesda</description>
 				<range>188.9568908290368</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<styleUrl>#msn_wht-pushpin7</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3823328991022,-7.783093866456439,0</coordinates>
@@ -15613,7 +15708,7 @@ Tujuan / Destination =&gt; Jl. Mataram</description>
 				<range>324.538946312754</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin7</styleUrl>
+			<styleUrl>#msn_wht-pushpin70</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3693373157747,-7.799273487951733,0</coordinates>
@@ -15751,7 +15846,7 @@ Tujuan / Destination =&gt; Suryotomo</description>
 				<range>101.494670884839</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin5</styleUrl>
+			<styleUrl>#msn_wht-pushpin53</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3671524536062,-7.801415825155418,0</coordinates>
@@ -16287,7 +16382,8 @@ Tujuan / Destination =&gt; Jogja City Mall - A</description>
 			<name>Terminal Pakem</name>
 			<description>12 _ Trans Jogja
 
-Tujuan / Destination =&gt; SMPN 4 Pakem
+Tujuan / Destination =&gt;  SD Percobaan 3 Pakem
+
 
 14 _ Trans Jogja
 
@@ -16301,7 +16397,7 @@ Tujuan / Destination =&gt; SD Percobaan 3 Pakem</description>
 				<range>210.7585822075878</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin01</styleUrl>
+			<styleUrl>#msn_wht-pushpin5</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4199875071032,-7.666864975262388,0</coordinates>
@@ -16557,7 +16653,7 @@ Tujuan / Destination =&gt; Maguwo Sambilegi</description>
 				<range>202.944264964151</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin1</styleUrl>
+			<styleUrl>#msn_wht-pushpin111</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.420174346762,-7.783291312210946,0</coordinates>
@@ -16749,10 +16845,10 @@ Tujuan / Destination =&gt; Terminal Giwangan</description>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>UII - A</name>
+			<name>UII (Barat Jalan)</name>
 			<description>12 _ Trans Jogja
 
-Tujuan / Destination =&gt; Raminten - A
+Tujuan / Destination =&gt; Simpang Degolan - A
 
 
 14 _ Trans Jogja
@@ -16767,14 +16863,14 @@ Tujuan / Destination =&gt; Simpang Degolan - A</description>
 				<range>259.2184138550172</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin3001</styleUrl>
+			<styleUrl>#msn_wht-pushpin1</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4187784889417,-7.687324092885454,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>UII - B</name>
+			<name>UII (Timur Jalan)</name>
 			<description>12 _ Trans Jogja
 
 Tujuan / Destination =&gt; YAKKUM - B
@@ -16792,7 +16888,7 @@ Tujuan / Destination =&gt; YAKKUM - B</description>
 				<range>259.2184138550172</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin3001</styleUrl>
+			<styleUrl>#msn_wht-pushpin0</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4188049726004,-7.68778022910464,0</coordinates>
@@ -17230,7 +17326,7 @@ Tujuan / Destination =&gt; Wedangan Kampoeng - A</description>
 			<name>Wedangan Kampoeng - A</name>
 			<description>12 _ Trans Jogja
 
-Tujuan / Destination =&gt; YAKKUM - A</description>
+Tujuan / Destination =&gt; Simpang Besi Jakal - A</description>
 			<LookAt>
 				<longitude>110.4137923891864</longitude>
 				<latitude>-7.702692517678511</latitude>
@@ -17240,7 +17336,7 @@ Tujuan / Destination =&gt; YAKKUM - A</description>
 				<range>208.3119538625762</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin3001</styleUrl>
+			<styleUrl>#msn_wht-pushpin5</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4135812889479,-7.702735880752195,0</coordinates>
@@ -17429,12 +17525,12 @@ Tujuan / Destination =&gt; UAD Jl. Pramuka</description>
 			<name>YAKKUM - A</name>
 			<description>12 _ Trans Jogja
 
-Tujuan / Destination =&gt; UII - A
+Tujuan / Destination =&gt; Boulevard UII
 
 
 14 _ Trans Jogja
 
-Tujuan / Destination =&gt; UII - A</description>
+Tujuan / Destination =&gt; Boulevard UII</description>
 			<LookAt>
 				<longitude>110.4182785632986</longitude>
 				<latitude>-7.69541242204699</latitude>
@@ -17444,7 +17540,7 @@ Tujuan / Destination =&gt; UII - A</description>
 				<range>202.1399020654536</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin3001</styleUrl>
+			<styleUrl>#msn_wht-pushpin1</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4180166251701,-7.69559246380335,0</coordinates>
