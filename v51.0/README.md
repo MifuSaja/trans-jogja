@@ -27,10 +27,10 @@ III. Penonaktifan jalur untuk:
     - 6B.
     - 7.
 
-IV. Penambahan tempat pemberhentian bus:
+IV. Penambahan perhentian bus:
     - Hotel Abadi.
 
-V. Penonaktifan tempat pemberhentian bus:
+V. Penonaktifan perhentian bus:
     - Ketandan.
     - Ki Penjawi - A.
     - Ki Penjawi - B.
