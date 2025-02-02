@@ -1,5 +1,4 @@
-# trans-jogja
-Trans Jogja - v52.0
+# Trans Jogja - v52.0
 
 ==============================================================
 
@@ -7,21 +6,21 @@ Bahasa: Indonesia
 
 Tanggal: 2 Februari 2025.
 
-Catatan Perubahan:
+## Catatan Perubahan:
 
 I. Perubahan jalur untuk:
-* 5A.
-* 12.
-* 14.
+* 5A
+* 12
+* 14
 
 II. Penambahan perhentian bus untuk:
-* Boulevard UII.
-* SMAN 1 - B.
-* SMPN 11 - B.
+* Boulevard UII
+* SMAN 1 - B
+* SMPN 11 - B
 
 III. Perubahan perhentian bus untuk:
-* SMAN 1 => SMAN 1 - A.
-* SMPN 11 => SMP N 11 - B.
+* SMAN 1 => SMAN 1 - A
+* SMPN 11 => SMP N 11 - B
 * UII - A => UII (Barat Jalan)
 * UII - B => UII (Timur Jalan)
 
@@ -33,21 +32,21 @@ Language: English
 
 Date: Februari 3rd, 2025.
 
-Changelog:
+## Changelog:
 
 I. Changed route:
-* 5A.
-* 12.
-* 14.
+* 5A
+* 12
+* 14
 
 II. Added bus stop:
-* Boulevard UII.
-* SMAN 1 - B.
-* SMPN 11 - B.
+* Boulevard UII
+* SMAN 1 - B
+* SMPN 11 - B
 
 III. Changed bus stop:
-* SMAN 1 => SMAN 1 - A.
-* SMPN 11 => SMP N 11 - B.
+* SMAN 1 => SMAN 1 - A
+* SMPN 11 => SMP N 11 - B
 * UII - A => UII (Barat Jalan)
 * UII - B => UII (Timur Jalan)
 
