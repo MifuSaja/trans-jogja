@@ -1,12 +1,10 @@
 # Trans Jogja - v52.0
 
-==============================================================
-
 Bahasa: Indonesia
 
-Tanggal: 2 Februari 2025.
+Tanggal: 3 Februari 2025.
 
-## Catatan Perubahan:
+__Catatan Perubahan:__
 
 I. Perubahan jalur untuk:
 * 5A
@@ -32,7 +30,7 @@ Language: English
 
 Date: Februari 3rd, 2025.
 
-## Changelog:
+__Changelog:__
 
 I. Changed route:
 * 5A
@@ -52,7 +50,7 @@ III. Changed bus stop:
 
 IV. Fixed description for several bus stops.
 
-==============================================================
+--------------------------------------------------------------
 
 Github Repository: https://github.com/MifuSaja/trans-jogja
 

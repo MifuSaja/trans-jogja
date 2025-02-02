@@ -1,12 +1,10 @@
 # Trans Jogja - v51.0
 
-==============================================================
-
 Bahasa: Indonesia
 
 Tanggal: 1 Februari 2025.
 
-## Catatan Perubahan:
+__Catatan Perubahan:__
 
 I. Penambahan jalur untuk:
 * EV1
@@ -47,7 +45,7 @@ Language: English
 
 Date: Februari 1st, 2025.
 
-## Changelog:
+__Changelog:__
 
 I. Added route:
 * EV1
@@ -82,7 +80,7 @@ V. Deactivated bus stop:
 * Wisma Martha - A
 * Wisma Martha - B
 
-==============================================================
+--------------------------------------------------------------
 
 Github Repository: https://github.com/MifuSaja/trans-jogja
 
