@@ -1,5 +1,4 @@
-# trans-jogja
-Trans Jogja - v51.0
+# Trans Jogja - v51.0
 
 ==============================================================
 
@@ -7,7 +6,7 @@ Bahasa: Indonesia
 
 Tanggal: 1 Februari 2025.
 
-Catatan Perubahan:
+## Catatan Perubahan:
 
 I. Penambahan jalur untuk:
 - EV1.
@@ -48,40 +47,40 @@ Language: English
 
 Date: Februari 1st, 2025.
 
-Changelog:
+## Changelog:
 
 I. Added route:
-- EV1.
-- 6.
+* EV1.
+* 6.
 
 II. Changed route:
-- 1A.
-- 1B.
-- 4A.
-- 8.
-- 9.
-- 11.
-- 13.
+* 1A.
+* 1B.
+* 4A.
+* 8.
+* 9.
+* 11.
+* 13.
 
 III. Deactivated route:
-- 6A.
-- 6B.
-- 7.
+* 6A.
+* 6B.
+* 7.
 
 IV. Added bus stop:
-- Hotel Abadi.
+* Hotel Abadi.
 
 V. Deactivated bus stop:
-- Ketandan.
-- Ki Penjawi - A.
-- Ki Penjawi - B.
-- Polsek Banguntapan.
-- SD Rejowinangun - A.
-- SD Rejowinangun - B.
-- Superindo Sonosewu.    
-- UPY PGRI.
-- Wisma Martha - A.
-- Wisma Martha - B.
+* Ketandan.
+* Ki Penjawi - A.
+* Ki Penjawi - B.
+* Polsek Banguntapan.
+* SD Rejowinangun - A.
+* SD Rejowinangun - B.
+* Superindo Sonosewu.    
+* UPY PGRI.
+* Wisma Martha - A.
+* Wisma Martha - B.
 
 ==============================================================
 
