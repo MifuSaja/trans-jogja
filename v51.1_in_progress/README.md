@@ -10,6 +10,7 @@ Tanggal: 2 Februari 2025.
 Catatan Perubahan:
 
 I. Perubahan jalur untuk:
+    - 5A.
     - 12.
     - 14.
 
@@ -24,6 +25,8 @@ III. Perubahan perhentian bus untuk:
     - UII - A => UII (Barat Jalan)
     - UII - B => UII (Timur Jalan)
 
+IV. Penyesuaian deskripsi untuk beberapa perhentian bus.
+
 ==============================================================
 
 -- Language: English--
@@ -33,6 +36,7 @@ Date: Februari 2nd, 2025.
 Changelog:
 
 I. Changed route:
+    - 5A.
     - 12.
     - 14.
 
@@ -46,6 +50,8 @@ III. Changed bus stop:
     - SMPN 11 => SMP N 11 - B.
     - UII - A => UII (Barat Jalan)
     - UII - B => UII (Timur Jalan)
+
+IV. Fixed description for several bus stops.
 
 ==============================================================
 
