@@ -47,11 +47,11 @@ Date: Februari 1st, 2025.
 
 __Changelog:__
 
-I. Added route:
+I. Added routes:
 * EV1
 * 6
 
-II. Changed route:
+II. Changed routes:
 * 1A
 * 1B
 * 4A
@@ -60,7 +60,7 @@ II. Changed route:
 * 11
 * 13
 
-III. Deactivated route:
+III. Deactivated routes:
 * 6A
 * 6B
 * 7
@@ -68,7 +68,7 @@ III. Deactivated route:
 IV. Added bus stop:
 * Hotel Abadi
 
-V. Deactivated bus stop:
+V. Deactivated bus stops:
 * Ketandan
 * Ki Penjawi - A
 * Ki Penjawi - B
