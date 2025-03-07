@@ -48,66 +48,6 @@
 			<styleUrl>#sh_wht-pushpin41</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_wht-pushpin14">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin3</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin6</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_wht-pushpin16">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin3</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin13</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_wht-pushpin17">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin3</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin8</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_wht-pushpin11">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin3</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin10</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_wht-pushpin0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin3</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin3</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_wht-pushpin8">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin3</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin9</styleUrl>
-		</Pair>
-	</StyleMap>
 	<StyleMap id="msn_wht-pushpin">
 		<Pair>
 			<key>normal</key>
@@ -118,84 +58,14 @@
 			<styleUrl>#sh_wht-pushpin47</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_wht-pushpin3">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin2</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin12</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_wht-pushpin4">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin5</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_wht-pushpin6">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_wht-pushpin12">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin4</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_wht-pushpin7">
+	<StyleMap id="msn_wht-pushpin0">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_wht-pushpin3</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin18</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_wht-pushpin2">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin31</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_wht-pushpin13">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin16</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_wht-pushpin1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin3</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin2</styleUrl>
+			<styleUrl>#sh_wht-pushpin3</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin00">
@@ -261,11 +131,21 @@
 	<StyleMap id="msn_wht-pushpin0012">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin0000</styleUrl>
+			<styleUrl>#sn_wht-pushpin00000</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_wht-pushpin43</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin00120">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin0000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin430</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin0013">
@@ -348,6 +228,16 @@
 			<styleUrl>#sh_wht-pushpin35</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="msn_wht-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
 	<StyleMap id="msn_wht-pushpin10">
 		<Pair>
 			<key>normal</key>
@@ -356,16 +246,6 @@
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_wht-pushpin71</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_wht-pushpin101">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin1000</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin200</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin100">
@@ -468,6 +348,16 @@
 			<styleUrl>#sh_wht-pushpin111</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="msn_wht-pushpin101">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin1000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin200</styleUrl>
+		</Pair>
+	</StyleMap>
 	<StyleMap id="msn_wht-pushpin1010">
 		<Pair>
 			<key>normal</key>
@@ -548,6 +438,16 @@
 			<styleUrl>#sh_wht-pushpin90</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="msn_wht-pushpin11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
 	<StyleMap id="msn_wht-pushpin110">
 		<Pair>
 			<key>normal</key>
@@ -598,6 +498,16 @@
 			<styleUrl>#sh_wht-pushpin60</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="msn_wht-pushpin12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
 	<StyleMap id="msn_wht-pushpin120">
 		<Pair>
 			<key>normal</key>
@@ -638,6 +548,16 @@
 			<styleUrl>#sh_wht-pushpin300</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="msn_wht-pushpin13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin16</styleUrl>
+		</Pair>
+	</StyleMap>
 	<StyleMap id="msn_wht-pushpin130">
 		<Pair>
 			<key>normal</key>
@@ -646,6 +566,16 @@
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_wht-pushpin17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin6</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin140">
@@ -698,6 +628,16 @@
 			<styleUrl>#sh_wht-pushpin15</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="msn_wht-pushpin16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin13</styleUrl>
+		</Pair>
+	</StyleMap>
 	<StyleMap id="msn_wht-pushpin160">
 		<Pair>
 			<key>normal</key>
@@ -746,6 +686,16 @@
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_wht-pushpin91</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin8</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin170">
@@ -866,6 +816,16 @@
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_wht-pushpin10100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin31</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin200">
@@ -1026,6 +986,16 @@
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_wht-pushpin510</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin12</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin300">
@@ -1298,6 +1268,16 @@
 			<styleUrl>#sh_wht-pushpin2000</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="msn_wht-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
 	<StyleMap id="msn_wht-pushpin40">
 		<Pair>
 			<key>normal</key>
@@ -1428,6 +1408,16 @@
 			<styleUrl>#sh_wht-pushpin002</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="msn_wht-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
 	<StyleMap id="msn_wht-pushpin60">
 		<Pair>
 			<key>normal</key>
@@ -1446,6 +1436,16 @@
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_wht-pushpin241</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin18</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin70">
@@ -1488,6 +1488,16 @@
 			<styleUrl>#sh_wht-pushpin00</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="msn_wht-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin9</styleUrl>
+		</Pair>
+	</StyleMap>
 	<StyleMap id="msn_wht-pushpin80">
 		<Pair>
 			<key>normal</key>
@@ -1528,64 +1538,104 @@
 			<styleUrl>#sh_wht-pushpin38</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin">
+	<StyleMap id="msn_ylw-pushpin0">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin1">
+	<StyleMap id="msn_ylw-pushpin2">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin3</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin4">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_ylw-pushpin</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin7</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin10">
+	<StyleMap id="msn_ylw-pushpin6">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_ylw-pushpin9</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+			<styleUrl>#sh_ylw-pushpin9</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin100">
+	<StyleMap id="msn_ylw-pushpin4">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin20</styleUrl>
+			<styleUrl>#sn_ylw-pushpin7</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin40</styleUrl>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin11">
@@ -1598,34 +1648,14 @@
 			<styleUrl>#sh_ylw-pushpin21</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin2">
+	<StyleMap id="msn_ylw-pushpin30">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+			<styleUrl>#sn_ylw-pushpin70</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin10</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin20">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin01</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin01</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin3">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin7</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+			<styleUrl>#sh_ylw-pushpin50</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin300000">
@@ -1651,54 +1681,34 @@
 	<StyleMap id="msn_ylw-pushpin40">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+			<styleUrl>#sh_ylw-pushpin00</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin400">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin60</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin20</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin41">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_ylw-pushpin50</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin101</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin410">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin8</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin50</styleUrl>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin5">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+			<styleUrl>#sn_ylw-pushpin31</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_ylw-pushpin6</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin6">
+	<StyleMap id="msn_ylw-pushpin60">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_ylw-pushpin30</styleUrl>
@@ -1711,7 +1721,7 @@
 	<StyleMap id="msn_ylw-pushpin8">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+			<styleUrl>#sn_ylw-pushpin20</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -1739,7 +1749,7 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="sh_wht-pushpin16">
+	<Style id="sh_wht-pushpin">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -1750,136 +1760,6 @@
 		<LabelStyle>
 			<scale>0.7</scale>
 		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_wht-pushpin13">
-		<IconStyle>
-			<scale>1.18182</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-	</Style>
-	<Style id="sh_wht-pushpin31">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-	</Style>
-	<Style id="sh_wht-pushpin6">
-		<IconStyle>
-			<scale>1.18182</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-	</Style>
-	<Style id="sh_wht-pushpin18">
-		<IconStyle>
-			<scale>1.16667</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-	</Style>
-	<Style id="sh_wht-pushpin2">
-		<IconStyle>
-			<scale>1.16667</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-	</Style>
-	<Style id="sh_wht-pushpin8">
-		<IconStyle>
-			<scale>1.16667</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-	</Style>
-	<Style id="sh_wht-pushpin10">
-		<IconStyle>
-			<scale>1.18182</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-	</Style>
-	<Style id="sh_wht-pushpin12">
-		<IconStyle>
-			<scale>1.18182</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-	</Style>
-	<Style id="sh_wht-pushpin4">
-		<IconStyle>
-			<scale>1.18182</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
 	</Style>
 	<Style id="sh_wht-pushpin0">
 		<IconStyle>
@@ -1892,66 +1772,6 @@
 		<LabelStyle>
 			<scale>0.7</scale>
 		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-	</Style>
-	<Style id="sh_wht-pushpin9">
-		<IconStyle>
-			<scale>1.16667</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-	</Style>
-	<Style id="sh_wht-pushpin47">
-		<IconStyle>
-			<scale>1.18182</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_wht-pushpin3">
-		<IconStyle>
-			<scale>1.18182</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-	</Style>
-	<Style id="sh_wht-pushpin">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
 	</Style>
 	<Style id="sh_wht-pushpin00">
 		<IconStyle>
@@ -2076,6 +1896,18 @@
 	<Style id="sh_wht-pushpin1">
 		<IconStyle>
 			<scale>1.16667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_wht-pushpin10">
+		<IconStyle>
+			<scale>1.18182</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -2289,7 +2121,7 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="sh_wht-pushpin120">
+	<Style id="sh_wht-pushpin12">
 		<IconStyle>
 			<scale>1.18182</scale>
 			<Icon>
@@ -2301,7 +2133,7 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="sh_wht-pushpin1201">
+	<Style id="sh_wht-pushpin120">
 		<IconStyle>
 			<scale>1.18182</scale>
 			<Icon>
@@ -2325,9 +2157,33 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
+	<Style id="sh_wht-pushpin1201">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
 	<Style id="sh_wht-pushpin122">
 		<IconStyle>
 			<scale>1.16667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_wht-pushpin13">
+		<IconStyle>
+			<scale>1.18182</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -2421,6 +2277,18 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
+	<Style id="sh_wht-pushpin16">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
 	<Style id="sh_wht-pushpin160">
 		<IconStyle>
 			<scale>1.18182</scale>
@@ -2469,6 +2337,18 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
+	<Style id="sh_wht-pushpin18">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
 	<Style id="sh_wht-pushpin180">
 		<IconStyle>
 			<scale>1.18182</scale>
@@ -2482,6 +2362,18 @@
 		</LabelStyle>
 	</Style>
 	<Style id="sh_wht-pushpin19">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_wht-pushpin2">
 		<IconStyle>
 			<scale>1.16667</scale>
 			<Icon>
@@ -2805,6 +2697,18 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
+	<Style id="sh_wht-pushpin3">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
 	<Style id="sh_wht-pushpin30">
 		<IconStyle>
 			<scale>1.3</scale>
@@ -2832,6 +2736,18 @@
 	<Style id="sh_wht-pushpin301">
 		<IconStyle>
 			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_wht-pushpin31">
+		<IconStyle>
+			<scale>1.3</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -3009,7 +2925,7 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="sh_wht-pushpin44">
+	<Style id="sh_wht-pushpin4">
 		<IconStyle>
 			<scale>1.18182</scale>
 			<Icon>
@@ -3141,6 +3057,30 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
+	<Style id="sh_wht-pushpin430">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_wht-pushpin44">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
 	<Style id="sh_wht-pushpin45">
 		<IconStyle>
 			<scale>1.16667</scale>
@@ -3154,6 +3094,18 @@
 		</LabelStyle>
 	</Style>
 	<Style id="sh_wht-pushpin46">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_wht-pushpin47">
 		<IconStyle>
 			<scale>1.18182</scale>
 			<Icon>
@@ -3321,7 +3273,7 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="sh_wht-pushpin61">
+	<Style id="sh_wht-pushpin6">
 		<IconStyle>
 			<scale>1.18182</scale>
 			<Icon>
@@ -3336,6 +3288,18 @@
 	<Style id="sh_wht-pushpin60">
 		<IconStyle>
 			<scale>1.16667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_wht-pushpin61">
+		<IconStyle>
+			<scale>1.18182</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -3465,6 +3429,18 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
+	<Style id="sh_wht-pushpin8">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
 	<Style id="sh_wht-pushpin80">
 		<IconStyle>
 			<scale>1.16667</scale>
@@ -3492,6 +3468,18 @@
 	<Style id="sh_wht-pushpin81">
 		<IconStyle>
 			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_wht-pushpin9">
+		<IconStyle>
+			<scale>1.16667</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -3573,7 +3561,7 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin">
+	<Style id="sh_ylw-pushpin7">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -3584,35 +3572,7 @@
 		<BalloonStyle>
 		</BalloonStyle>
 		<LineStyle>
-			<color>ffda941a</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin3">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<LineStyle>
-			<color>ffa6a2f4</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin1">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff006ce4</color>
+			<color>ff141b9c</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
@@ -3625,11 +3585,11 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ffdda0c3</color>
+			<color>ff006ce4</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin01">
+	<Style id="sh_ylw-pushpin">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -3637,8 +3597,55 @@
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
 		<LineStyle>
-			<color>ff141b9c</color>
+			<color>ff66aeff</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff9b3c72</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffdda0c3</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff3e9ebd</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
@@ -3650,12 +3657,44 @@
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
 		<LineStyle>
-			<color>ff66aeff</color>
+			<color>ffa5d5c1</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin101">
+	<Style id="sh_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff08ac67</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff38425c</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin00">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -3664,7 +3703,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff08ac67</color>
+			<color>ffda941a</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
@@ -3694,19 +3733,6 @@
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin20">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffa5d5c1</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
 	<Style id="sh_ylw-pushpin21">
 		<IconStyle>
 			<scale>1.3</scale>
@@ -3717,6 +3743,19 @@
 		</IconStyle>
 		<LineStyle>
 			<color>ffb6b740</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa6a2f4</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
@@ -3733,32 +3772,6 @@
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin40">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff9b3c72</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin5">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffebcfa0</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
 	<Style id="sh_ylw-pushpin50">
 		<IconStyle>
 			<scale>1.3</scale>
@@ -3768,7 +3781,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff3e9ebd</color>
+			<color>ffebcfa0</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
@@ -3785,19 +3798,6 @@
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin7">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff38425c</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
 	<Style id="sh_ylw-pushpin8">
 		<IconStyle>
 			<scale>1.3</scale>
@@ -3811,46 +3811,6 @@
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_wht-pushpin2">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-	</Style>
-	<Style id="sn_wht-pushpin5">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-	</Style>
-	<Style id="sn_wht-pushpin3">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-	</Style>
 	<Style id="sn_wht-pushpin">
 		<IconStyle>
 			<scale>1.1</scale>
@@ -3862,10 +3822,6 @@
 		<LabelStyle>
 			<scale>0.7</scale>
 		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<ListStyle>
-		</ListStyle>
 	</Style>
 	<Style id="sn_wht-pushpin0">
 		<IconStyle>
@@ -3877,22 +3833,6 @@
 		<LabelStyle>
 			<scale>0.7</scale>
 		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-	</Style>
-	<Style id="sn_wht-pushpin1">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
 	</Style>
 	<Style id="sn_wht-pushpin00">
 		<IconStyle>
@@ -3909,6 +3849,17 @@
 	<Style id="sn_wht-pushpin000">
 		<IconStyle>
 			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_wht-pushpin00000">
+		<IconStyle>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -3987,6 +3938,18 @@
 	</Style>
 	<Style id="sn_wht-pushpin011">
 		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_wht-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -4162,6 +4125,17 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
+	<Style id="sn_wht-pushpin2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
 	<Style id="sn_wht-pushpin20">
 		<IconStyle>
 			<Icon>
@@ -4254,6 +4228,17 @@
 		</LabelStyle>
 	</Style>
 	<Style id="sn_wht-pushpin25">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_wht-pushpin3">
 		<IconStyle>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
@@ -4364,6 +4349,18 @@
 		</LabelStyle>
 	</Style>
 	<Style id="sn_wht-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_wht-pushpin5">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -4497,12 +4494,14 @@
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
 		<LineStyle>
-			<color>ff38425c</color>
+			<color>ff9b3c72</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_ylw-pushpin1">
+	<Style id="sn_ylw-pushpin3">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -4513,7 +4512,95 @@
 		<BalloonStyle>
 		</BalloonStyle>
 		<LineStyle>
-			<color>ffda941a</color>
+			<color>ff66aeff</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff08ac67</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff3e9ebd</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff38425c</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffa5d5c1</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff141b9c</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff006ce4</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
@@ -4528,11 +4615,24 @@
 		<BalloonStyle>
 		</BalloonStyle>
 		<LineStyle>
+			<color>ffdda0c3</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
 			<color>ffa6a2f4</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_ylw-pushpin01">
+	<Style id="sn_ylw-pushpin1">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -4541,33 +4641,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff141b9c</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin10">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff006ce4</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin2">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff007846</color>
+			<color>ffda941a</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
@@ -4580,11 +4654,11 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff9b3c72</color>
+			<color>ff007846</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_ylw-pushpin3">
+	<Style id="sn_ylw-pushpin31">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -4610,32 +4684,6 @@
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_ylw-pushpin4">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff66aeff</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin5">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff9f5d2c</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
 	<Style id="sn_ylw-pushpin50">
 		<IconStyle>
 			<scale>1.1</scale>
@@ -4645,7 +4693,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff08ac67</color>
+			<color>ff9f5d2c</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
@@ -4675,20 +4723,7 @@
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_ylw-pushpin60">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffa5d5c1</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin7">
+	<Style id="sn_ylw-pushpin70">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -4698,32 +4733,6 @@
 		</IconStyle>
 		<LineStyle>
 			<color>ffebcfa0</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin8">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff3e9ebd</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin9">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffdda0c3</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
@@ -5035,7 +5044,7 @@
 048 =&gt; Terminal Condongcatur
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<styleUrl>#msn_ylw-pushpin40</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -5044,94 +5053,102 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>x2B _ Trans Jogja</name>
+			<name>2B _ Trans Jogja</name>
 			<description>! -- AWAL / START -- !
 
 001 =&gt; Terminal Condongcatur
 
-002 =&gt; Susteran Novisiat
+002 =&gt; SPBU Concat - B
 
-003 =&gt; Sanata Dharma
+003 =&gt; Prayan - B
 
-004 =&gt; Samirono
+004 =&gt; Susteran Novisiat
 
-005 =&gt; Kosudgama - B
+005 =&gt; Sanata Dharma
 
-006 =&gt; RS Panti Rapih
+006 =&gt; Samirono
 
-007 =&gt; Korem, Cik Di Tiro
+007 =&gt; Kosudgama - B
 
-008 =&gt; Kridosono
+008 =&gt; RS Panti Rapih
 
-009 =&gt; SMP Kanisius Gayam - B
+009 =&gt; Cik Di Tiro
 
-010 =&gt; Mandala Krida - B
+010 =&gt; Kridosono
 
-011 =&gt; Among Rogo - B
+011 =&gt; SMP Kanisius Gayam - B
 
-012 =&gt; SGM Kusumanegara - A
+012 =&gt; Mandala Krida - B
 
-013 =&gt; Gembira Loka - A
+013 =&gt; Among Rogo - B
 
-014 =&gt; Banguntapan - B
+014 =&gt; Makam Gajah - A
 
-015 =&gt; Poltekkes BSI
+015 =&gt; SGM Kusumanegara - A
 
-016 =&gt; Kehutanan - B
+016 =&gt; Gembira Loka - A
 
-017 =&gt; SMPN 9 - B
+017 =&gt; Banguntapan - B
 
-018 =&gt; Basen
+018 =&gt; Poltekkes BSI
 
-019 =&gt; Gambiran - B
+019 =&gt; Kehutanan - B
 
-020 =&gt; Veteran
+020 =&gt; SMPN 9 - B
 
-021 =&gt; XT Square
+021 =&gt; Basen
 
-022 =&gt; Pasar Sepeda 
+022 =&gt; Perintis Kemerdekaan - B
 
-023 =&gt; Museum Perjuangan
+023 =&gt; Gambiran - B
 
-024 =&gt; Purawisata - B
+024 =&gt; Veteran
 
-025 =&gt; Katamso
+025 =&gt; XT Square
 
-026 =&gt; Senopati
+026 =&gt; Pasar Sepeda 
 
-027 =&gt; KHA Dahlan - A
+027 =&gt; Museum Perjuangan
 
-028 =&gt; Ngabean
+028 =&gt; Purawisata - B
 
-029 =&gt; Pasar Serangan
+029 =&gt; Katamso
 
-030 =&gt; SMAN 1 - A
+030 =&gt; Senopati
 
-031 =&gt; SMPN 11 - A
+031 =&gt; KHA Dahlan - A
 
-032 =&gt; Perpusda
+032 =&gt; Ngabean
 
-033 =&gt; SMPN 14
+033 =&gt; Pasar Serangan
 
-034 =&gt; Hotel Utara
+034 =&gt; SMAN 1 - A
 
-035 =&gt; Borobudur Plaza
+035 =&gt; SMPN 11 - A
 
-036 =&gt; SMKN 3
+036 =&gt; Perpusda
 
-037 =&gt; AM Sangaji - B
+037 =&gt; SMPN 14
 
-038 =&gt; Karangjati - B
+038 =&gt; Hotel Utara
 
-039 =&gt; Monjali - B
+039 =&gt; Borobudur Plaza
 
-040 =&gt; Termnial Jombor
+040 =&gt; SMKN 3
 
-041 =&gt; Monjali - A
+041 =&gt; AM Sangaji - B
 
-042 =&gt; Kentunngan
+042 =&gt; Karangjati - B
 
-043 =&gt; Terminal Condongcatur
+043 =&gt; Monjali - B
+
+044 =&gt; Termnial Jombor
+
+045 =&gt; Monjali - A
+
+046 =&gt; Kentunngan
+
+047 =&gt; Terminal Condongcatur
 
 ! -- AKHIR /  END -- !</description>
 			<LookAt>
@@ -5143,8 +5160,7 @@
 				<range>168.5974770458351</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_ylw-pushpin3</styleUrl>
-			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<styleUrl>#msn_ylw-pushpin30</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -5153,105 +5169,109 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>x3A _ Trans Jogja</name>
+			<name>3A _ Trans Jogja</name>
 			<description>! -- AWAL /  START -- !
 
 001 =&gt; Bandara Adisutjipto
 
-002 =&gt; Disnakertas - A
+002 =&gt; KKP Yogyakarta
 
-003 =&gt; Instiper - A
+003 =&gt; Disnakertas - A
 
-004 =&gt; Polsek Depok Timur - A
+004 =&gt; Instiper - A
 
-005 =&gt; UPN Veteran
+005 =&gt; Polsek Depok Timur - A
 
-006 =&gt; Pakuwon Mall - A
+006 =&gt; UPN Veteran
 
-007 =&gt; Terminal Condongcatur
+007 =&gt; Pakuwon Mall - A
 
-008 =&gt; Manggung
+008 =&gt; Terminal Condongcatur
 
-009 =&gt; McD Jakal
+009 =&gt; Manggung
 
-010 =&gt; Biologi UGM
+010 =&gt; McD Jakal
 
-011 =&gt; RS Sardjito - A
+011 =&gt; Biologi UGM
 
-012 =&gt; FKG UGM - A
+012 =&gt; RS Sardjito - A
 
-013 =&gt; Kopma UGM
+013 =&gt; FKG UGM - A
 
-014 =&gt; RS Panti Rapih
+014 =&gt; Kopma UGM
 
-015 =&gt; Korem, Cik Di Tiro
+015 =&gt; RS Panti Rapih
 
-016 =&gt; Kridosono
+016 =&gt; Cik Di Tiro
 
-017 =&gt; Malioboro 1
+017 =&gt; Kridosono
 
-018 =&gt; Malioboro 2
+018 =&gt; Malioboro 1
 
-019 =&gt; Malioboro 3
+019 =&gt; Malioboro 2
 
-020 =&gt; KHA Dahlan - A
+020 =&gt; Malioboro 3
 
-021 =&gt; Ngabean
+021 =&gt; KHA Dahlan - A
 
-022 =&gt; Tamansari
+022 =&gt; Ngabean
 
-023 =&gt; Jokteng Kulon
+023 =&gt; Tamansari
 
-024 =&gt; Plengkung Gading - A
+024 =&gt; Jokteng Kulon
 
-025 =&gt; Pujokusuman
+025 =&gt; Plengkung Gading - A
 
-026 =&gt; Lowanu - A
+026 =&gt; Pujokusuman
 
-027 =&gt; UNU
+027 =&gt; Lowanu - A
 
-028 =&gt; Widya Wiwaha - A
+028 =&gt; UNU
 
-029 =&gt; Wirosaban
+029 =&gt; Widya Wiwaha - A
 
-030 =&gt; Tegal Turi - A
+030 =&gt; Wirosaban
 
-031 =&gt; Gudang SGM - B
+031 =&gt; Tegal Turi - A
 
-032 =&gt; Pasar Giwangan - B
+032 =&gt; Gudang SGM - B
 
-033 =&gt; Terminal Giwangan
+033 =&gt; Pasar Giwangan - B
 
-034 =&gt; Pasar Giwangan - A
+034 =&gt; Terminal Giwangan
 
-035 =&gt; Gudang SGM - A
+035 =&gt; Pasar Giwangan - A
 
-036 =&gt; Tegal Gendu - A
+036 =&gt; Gudang SGM - A
 
-037 =&gt; Lap. Karang - A
+037 =&gt; Tegal Gendu - A
 
-038 =&gt; SMAN 5
+038 =&gt; Lap. Karang - A
 
-039 =&gt; Kehutanan - A
+039 =&gt; SMAN 5
 
-040 =&gt; Pillar
+040 =&gt; Kehutanan - A
 
-041 =&gt; Banguntapan - A
+041 =&gt; Pillar
 
-042 =&gt; JEC
+042 =&gt; Banguntapan - A
 
-043 =&gt; Blok O
+043 =&gt; JEC
 
-044 =&gt; Janti Utara
+044 =&gt; Blok O
 
-045 =&gt; Transmart
+045 =&gt; Janti Utara
 
-046 =&gt; Maguwo Sambilegi
+046 =&gt; Transmart
 
-047 =&gt; Bandara Adisutjipto
+047 =&gt; Maguwo Sambilegi
+
+048 =&gt; Kanwil DJPb
+
+049 =&gt; Bandara Adisutjipto
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -5260,7 +5280,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>x3B _ Trans Jogja</name>
+			<name>3B _ Trans Jogja</name>
 			<description>! -- AWAL /  START -- !
 
 001 =&gt;  Terminal Giwangan
@@ -5305,69 +5325,73 @@
 
 021 =&gt; SMPN 14
 
-022 =&gt; Jend. Sudirman - B
+022 =&gt; Pasar Kranggan Selatan
 
-023 =&gt; Dr. Yap
+023 =&gt; Jend. Sudirman - B
 
-024 =&gt; SMPN 1
+024 =&gt; Dr. Yap
 
-025 =&gt; Vokasi UGM
+025 =&gt; SMPN 1
 
-026 =&gt; FKG UGM - B
+026 =&gt; Vokasi UGM
 
-027 =&gt; RS Sardjito - B
+027 =&gt; FKG UGM - B
 
-028 =&gt; MM UGM
+028 =&gt; RS Sardjito - B
 
-029 =&gt; Hotel Vidi
+029 =&gt; MM UGM
 
-030 =&gt; Kentungan
+030 =&gt; Hotel Vidi
 
-031 =&gt; Terminal Condongcatur
+031 =&gt; Kentungan
 
-032 =&gt; Pakuwon Mall - B
+032 =&gt; Terminal Condongcatur
 
-033 =&gt; RS JIH
+033=&gt; Pakuwon Mall - B
 
-034 =&gt; Stikes Guna Bangsa
+034 =&gt; RS JIH
 
-035 =&gt; Polsek Depok Timur - B
+035 =&gt; Stikes Guna Bangsa
 
-036 =&gt; Instiper - B
+036 =&gt; Polsek Depok Timur - B
 
-037 =&gt; SMKN 1 Depok
+037 =&gt; Instiper - B
 
-038 =&gt; Binamarga
+038 =&gt; SMKN 1 Depok - Ring Road Utara
 
-039 =&gt; Maguwo Sambilegi
+039 =&gt; Binamarga
 
-040 =&gt; Bandara Adisutjipto
+040 =&gt; Maguwo Sambilegi
 
-041 =&gt; Hyundai
+041 =&gt; Bandara Adisutjipto
 
-042 =&gt; Jayakarta
+042 =&gt; Hyundai
 
-043 =&gt; RS Harjolukito
+043 =&gt; Jayakarta
 
-044 =&gt; Wonocatur
+044 =&gt; RS Harjolukito
 
-045 =&gt; BKPM
+045 =&gt; Wonocatur
 
-046 =&gt; Banguntapan - B
+046 =&gt; BKPM
 
-047 =&gt; Kehutanan - B
+047 =&gt; Banguntapan - B
 
-048 =&gt; Pegadaian
+048 =&gt; Poltekkes BSI
 
-049 =&gt; Lap. Karang - B
+049 =&gt; Kehutanan - B
 
-050 =&gt; Tegal Gendu - B
+050 =&gt; Pegadaian
 
-051 =&gt; Gudang SGM - B
+051 =&gt; Lap. Karang - B
 
-052 =&gt; Pasar Giwangan - B
+052 =&gt; Tegal Gendu - B
 
-053 =&gt; Terminal Giwangan
+053 =&gt; Gudang SGM - B
+
+054 =&gt; Pasar Giwangan - B
+
+055 =&gt; Terminal Giwangan
 
 ! -- AKHIR /  END -- !</description>
 			<styleUrl>#msn_ylw-pushpin2</styleUrl>
@@ -5394,7 +5418,7 @@
 
 006 =&gt; Pasar Sepeda
 
-007 =&gt; Nyutran (Tamansiswa) 
+007 =&gt; Nyutran Tamansiswa
 
 008 =&gt; Lapas Wirogunan - A
 
@@ -5428,7 +5452,7 @@
 
 023 =&gt; RS Panti Rapih
 
-024 =&gt; Korem, Cik Di Tiro
+024 =&gt; Cik Di Tiro
 
 025 =&gt; Kridosono
 
@@ -5459,7 +5483,7 @@
 038 =&gt; Terminal Giwangan
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin41</styleUrl>
+			<styleUrl>#msn_ylw-pushpin6</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -5521,7 +5545,7 @@
 
 025 =&gt; Lapas Wirogunan - B
 
-026 =&gt; STSRD Visi (Tamansiswa)
+026 =&gt; STSRD Visi Tamansiswa
 
 027 =&gt; STIE Kerjasama
 
@@ -5534,7 +5558,7 @@
 031 =&gt; Terminal Giwangan
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin400</styleUrl>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -5560,7 +5584,7 @@
 
 007 =&gt; RS Panti Rapih
 
-008 =&gt; Korem, Cik Di Tiro
+008 =&gt; Cik Di Tiro
 
 009 =&gt; Kridosono
 
@@ -5570,7 +5594,7 @@
 
 012 =&gt; Ambarukmo - B
 
-013 =&gt; Janti Bawah
+013 =&gt; Janti Selatan
 
 014 =&gt; Janti Utara
 
@@ -5601,7 +5625,7 @@
 027 =&gt; Terminal Jombor
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin100</styleUrl>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -5610,7 +5634,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>x5B _ Trans Jogja</name>
+			<name>5B _ Trans Jogja</name>
 			<description>! -- AWAL /  START -- !
 
 001 =&gt; Terminal Jombor
@@ -5645,44 +5669,46 @@
 
 016 =&gt;Transmart
 
-017 =&gt; Maguwo Sambilegi
+017 =&gt; Kanwil DJPb
 
-018 =&gt; Bandara Adisutjipto
+018 =&gt; Maguwo Sambilegi
 
-019 =&gt; Hyundai
+019 =&gt; Bandara Adisutjipto
 
-020 =&gt; Jayakarta
+020 =&gt; Hyundai
 
-021 =&gt; Janti Bawah
+021 =&gt; Jayakarta
 
-022 =&gt; Ambarukmo - A
+022 =&gt; Janti Selatan
 
-023 =&gt; Gedung Wanita
+023 =&gt; Ambarukmo - A
 
-024 =&gt; LPP
+024 =&gt; Gedung Wanita
 
-025 =&gt; RS Bethesda
+025 =&gt; LPP
 
-026 =&gt; Kridosono
+026 =&gt; RS Bethesda
 
-027 =&gt; Dr. Yap
+027 =&gt; Kridosono
 
-028 =&gt; SMPN 1
+028 =&gt; Dr. Yap
 
-029 =&gt; SMPN 6
+029 =&gt; SMPN 1
 
-030 =&gt; Karangwaru - B
+030 =&gt; SMPN 6
 
-031 =&gt; TVRI - B
+031 =&gt; Karangwaru - B
 
-032 =&gt; Jogja City Mall - B
+032 =&gt; TVRI - B
 
-033 =&gt; MMTC Yogyakarta
+033 =&gt; Jogja City Mall - B
 
-034 =&gt; Terminal Jombor
+034 =&gt; MMTC Yogyakarta
+
+035 =&gt; Terminal Jombor
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<styleUrl>#msn_ylw-pushpin7</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -5691,7 +5717,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>x6 _ Trans Jogja</name>
+			<name>6 _ Trans Jogja</name>
 			<description>! -- AWAL /  START -- !
 
 001 =&gt; Park and Ride Gamping
@@ -5700,70 +5726,72 @@
 
 003 =&gt; Pasar Gamping
 
-004 =&gt; UMY - B
+004 =&gt; Universitas BSI - B
 
-005 =&gt; Tamantirto - B
+005 =&gt; UMY - B
 
-006 =&gt; Universitas Alma Ata
+006 =&gt; Tamantirto - B
 
-007 =&gt; Lap. Kasihan - B
+007 =&gt; Universitas Alma Ata
 
-008 =&gt; Simpang Diklat DIY - B
+008 =&gt; Lap. Kasihan - B
 
-009 =&gt; Madukismo - B
+009 =&gt; Simpang Diklat DIY - B
 
-010 =&gt; SMK Seni - B
+010 =&gt; Madukismo - B
 
-011 =&gt; Pasar Legi - B
+011 =&gt; SMK Seni - B
 
-012 =&gt; Mualiimin - A
+012 =&gt; Pasar Legi - B
 
-013 =&gt; Tejokusuman
+013 =&gt; Mualiimin - A
 
-014 =&gt; Ngabean
+014 =&gt; Tejokusuman
 
-015 =&gt; KHA Dahlan - B
+015 =&gt; Ngabean
 
-016 =&gt; Taman Pintar
+016 =&gt; KHA Dahlan - B
 
-017 =&gt; Suryotomo
+017 =&gt; Taman Pintar
 
-018 =&gt; Jl. Mataram
+018 =&gt; Suryotomo
 
-019 =&gt; Teras 2
+019 =&gt; Jl. Mataram
 
-020 =&gt; Malioboro 1
+020 =&gt; Teras 2
 
-021 =&gt; Malioboro 2
+021 =&gt; Malioboro 1
 
-022 =&gt; Malioboro 3
+022 =&gt; Malioboro 2
 
-023 =&gt; KHA Dahlan - A
+023 =&gt; Malioboro 3
 
-024 =&gt; Ngabean
+024 =&gt; KHA Dahlan - A
 
-025 =&gt; Mualimin - B
+025 =&gt; Ngabean
 
-026 =&gt; Pasar Legi - A
+026 =&gt; Mualimin - B
 
-027 =&gt; SMK Seni - A
+027 =&gt; Pasar Legi - A
 
-028 =&gt; Madukismo - A
+028 =&gt; SMK Seni - A
 
-029 =&gt; Simpang Diklat DIY - A
+029 =&gt; Madukismo - A
 
-030 =&gt; Lap. Kasihan - A
+030 =&gt; Simpang Diklat DIY - A
 
-031 =&gt; Tamantirto - A
+031 =&gt; Lap. Kasihan - A
 
-032 =&gt; UMY - A
+032 =&gt; Tamantirto - A
 
-033 =&gt; Universitas BSI
+033 =&gt; UMY - A
 
-034 =&gt; Park and Ride Gamping
+034 =&gt; Universitas BSI - A
+
+035 =&gt; Park and Ride Gamping
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -5846,7 +5874,7 @@
 035 =&gt; Terminal Jombor
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin40</styleUrl>
+			<styleUrl>#msn_ylw-pushpin400</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -6014,7 +6042,7 @@
 038 =&gt; Park and Ride Gamping
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin6</styleUrl>
+			<styleUrl>#msn_ylw-pushpin60</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -6213,7 +6241,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>13 _ Trans Jogja</name>
+			<name>x13 _ Trans Jogja</name>
 			<description>! -- AWAL /  START -- !
 
 001 =&gt; Pusat Kuliner Belut Godean
@@ -6315,7 +6343,7 @@
 049 =&gt; Pusat Kuliner Beltut Godean
  
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin410</styleUrl>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -6485,7 +6513,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>15 _ Trans Jogja</name>
+			<name>x15 _ Trans Jogja</name>
 			<description>! -- AWAL /  START -- !
 
 001 =&gt; Terminal Palbapang
@@ -6579,7 +6607,7 @@
 045 =&gt; Terminal Palbapang
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin20</styleUrl>
+			<styleUrl>#msn_ylw-pushpin12</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -10518,7 +10546,7 @@ Tujuan / Destination =&gt; Museum Biologi</description>
 				<range>101.3916414552036</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin0012</styleUrl>
+			<styleUrl>#msn_wht-pushpin00120</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3782486388699,-7.803958170810162,0</coordinates>
@@ -11799,7 +11827,7 @@ Tujuan / Destination =&gt; Toko Saerah - B</description>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Nyutran (Tamansiswa)</name>
+			<name>Nyutran Tamansiswa</name>
 			<description>4A _ Trans Jogja
 
 Tujuan / Destination =&gt; Lapas Wirogunan - A</description>

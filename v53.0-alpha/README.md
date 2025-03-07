@@ -33,6 +33,7 @@ II. Perubahan perhentian bus untuk:
 * Gereja Pugeran => Gereja Pugeran - A
 * Janti Bawah => Janti Selatan
 * Korem, Cik Di Tiro => Cik Di Tiro
+* Nyutran (Tamansiswa) => Nyutran Tamansiswa
 * RS Bhayangkara => RS Bhayangkara - B
 * SMKN 1 Depok => SMKN 1 Depok - Ring Road Utara
 * SMKN Depok - A => SMKN 1 Depok - Jl. Raya Tajem - A
@@ -84,6 +85,7 @@ II. Changed bus stops:
 * Gereja Pugeran => Gereja Pugeran - A
 * Janti Bawah => Janti Selatan
 * Korem, Cik Di Tiro => Cik Di Tiro
+* Nyutran (Tamansiswa) => Nyutran Tamansiswa
 * RS Bhayangkara => RS Bhayangkara - B
 * SMKN 1 Depok => SMKN 1 Depok - Ring Road Utara
 * SMKN Depok - A => SMKN 1 Depok - Jl. Raya Tajem - A
