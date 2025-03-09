@@ -2,7 +2,7 @@
 
 Bahasa: Indonesia
 
-Tanggal: - Maret 2025.
+Tanggal: 9 Maret 2025.
 
 __Catatan Perubahan:__
 
@@ -27,14 +27,18 @@ I. Penambahan perhentian bus untuk:
 * Universitas BSI - A
 
 II. Perubahan perhentian bus untuk:
+* De Brito => De Britto
 * Druwo => Druwo - A
 * Gajah Makam => Makam Gajah - B
 * Gardu PLN => Gardu PLN - B
 * Gereja Pugeran => Gereja Pugeran - A
 * Janti Bawah => Janti Selatan
 * Korem, Cik Di Tiro => Cik Di Tiro
+* Nogotirto - A => Nogotirto (Metro) - A
+* Nogotirto - B => Nogotirto (Metro) - B
 * Nyutran (Tamansiswa) => Nyutran Tamansiswa
 * RS Bhayangkara => RS Bhayangkara - B
+* SD Percobaan 3 Pakem => SDN Percobaan 3 Pakem
 * SMKN 1 Depok => SMKN 1 Depok - Ring Road Utara
 * SMKN Depok - A => SMKN 1 Depok - Jl. Raya Tajem - A
 * SMKN Depok - B => SMKN 1 Depok - Jl. Raya Tajem - B
@@ -42,19 +46,23 @@ II. Perubahan perhentian bus untuk:
 * SPBU Kaliurang => SPBU Kaliurang - B
 * STSRD Visi (Tamansiswa) => STSRD Visi Tamansiswa
 * Terminal Bangunan => Gardu PLN - A
-* Universitas BSI => Universitas BSI - B
+* Universitas BSI => Universitas BSI - A
 * UNY (Colombo) => UNY Colombo
 * Warung Sego => SPBU Kaliurang - A
 
 III. Penonaktifan perhentian bus untuk:
 * Grand Tjokro
+* Kronggahan - A
+* Kronggahan - B
 * Super Dazzle
+
+IV. Penyesuaian deskripsi untuk beberapa perhentian bus.
 
 --------------------------------------------------------------
 
 Language: English
 
-Date: March - , 2025.
+Date: March 9th , 2025.
 
 __Changelog:__
 
@@ -79,14 +87,18 @@ I. Added bus stops:
 * Universitas BSI - A
 
 II. Changed bus stops:
+* De Brito => De Britto
 * Druwo => Druwo - A
 * Gajah Makam => Makam Gajah - B
 * Gardu PLN => Gardu PLN - B
 * Gereja Pugeran => Gereja Pugeran - A
 * Janti Bawah => Janti Selatan
 * Korem, Cik Di Tiro => Cik Di Tiro
+* Nogotirto - A => Nogotirto (Metro) - A
+* Nogotirto - B => Nogotirto (Metro) - B
 * Nyutran (Tamansiswa) => Nyutran Tamansiswa
 * RS Bhayangkara => RS Bhayangkara - B
+* SD Percobaan 3 Pakem => SDN Percobaan 3 Pakem
 * SMKN 1 Depok => SMKN 1 Depok - Ring Road Utara
 * SMKN Depok - A => SMKN 1 Depok - Jl. Raya Tajem - A
 * SMKN Depok - B => SMKN 1 Depok - Jl. Raya Tajem - B
@@ -94,13 +106,17 @@ II. Changed bus stops:
 * SPBU Kaliurang => SPBU Kaliurang - B
 * STSRD Visi (Tamansiswa) => STSRD Visi Tamansiswa
 * Terminal Bangunan => Gardu PLN - A
-* Universitas BSI => Universitas BSI - B
+* Universitas BSI => Universitas BSI - A
 * UNY (Colombo) => UNY Colombo
 * Warung Sego => SPBU Kaliurang - A
 
 II. Deactivated bus stops:
 * Grand Tjokro
+* Kronggahan - A
+* Kronggahan - B
 * Super Dazzle
+
+IV. Fixed description for several bus stops.
 
 --------------------------------------------------------------
 
