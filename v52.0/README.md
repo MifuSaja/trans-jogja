@@ -28,7 +28,7 @@ IV. Penyesuaian deskripsi untuk beberapa perhentian bus.
 
 Language: English
 
-Date: Februari 3rd, 2025.
+Date: Februari 3, 2025.
 
 __Changelog:__
 

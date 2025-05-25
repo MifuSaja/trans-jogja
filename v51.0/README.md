@@ -43,7 +43,7 @@ V. Penonaktifan perhentian bus untuk:
 
 Language: English
 
-Date: Februari 1st, 2025.
+Date: Februari 1, 2025.
 
 __Changelog:__
 
