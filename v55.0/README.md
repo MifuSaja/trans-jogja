@@ -2,7 +2,7 @@
 
 Bahasa: Indonesia
 
-Tanggal: Juni 2025.
+Tanggal: 29 Juni 2025.
 
 __Catatan Perubahan:__
 
@@ -16,7 +16,7 @@ II. Penyesuaian deskripsi untuk beberapa perhentian bus.
 
 Language: English
 
-Date: June ,2025.
+Date: June 29, 2025.
 
 __Changelog:__
 
