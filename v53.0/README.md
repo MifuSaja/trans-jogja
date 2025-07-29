@@ -110,7 +110,7 @@ II. Changed bus stops:
 * UNY (Colombo) => UNY Colombo
 * Warung Sego => SPBU Kaliurang - A
 
-II. Deactivated bus stops:
+III. Deactivated bus stops:
 * Grand Tjokro
 * Kronggahan - A
 * Kronggahan - B
