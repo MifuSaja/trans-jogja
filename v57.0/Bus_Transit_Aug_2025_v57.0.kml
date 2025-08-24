@@ -31,11 +31,11 @@
 	<StyleMap id="msn_wht-pushpin">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin00</styleUrl>
+			<styleUrl>#sn_wht-pushpin36</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin00</styleUrl>
+			<styleUrl>#sh_wht-pushpin24</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin0">
@@ -45,7 +45,17 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin8</styleUrl>
+			<styleUrl>#sh_wht-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin80</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin000">
@@ -91,11 +101,21 @@
 	<StyleMap id="msn_wht-pushpin0011">
 		<Pair>
 			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin00110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin70</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin00110">
+		<Pair>
+			<key>normal</key>
 			<styleUrl>#sn_wht-pushpin0011</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin7</styleUrl>
+			<styleUrl>#sh_wht-pushpin</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin0012">
@@ -161,7 +181,7 @@
 	<StyleMap id="msn_wht-pushpin010">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin001</styleUrl>
+			<styleUrl>#sn_wht-pushpin0010</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -175,7 +195,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin30</styleUrl>
+			<styleUrl>#sh_wht-pushpin302</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin020">
@@ -188,20 +208,10 @@
 			<styleUrl>#sh_wht-pushpin29</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_wht-pushpin03">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin61</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin51</styleUrl>
-		</Pair>
-	</StyleMap>
 	<StyleMap id="msn_wht-pushpin04">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin25</styleUrl>
+			<styleUrl>#sn_wht-pushpin250</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -211,7 +221,7 @@
 	<StyleMap id="msn_wht-pushpin05">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin4</styleUrl>
+			<styleUrl>#sn_wht-pushpin43</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -225,10 +235,20 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin3</styleUrl>
+			<styleUrl>#sh_wht-pushpin5</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin100">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_wht-pushpin18</styleUrl>
@@ -238,7 +258,7 @@
 			<styleUrl>#sh_wht-pushpin60</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_wht-pushpin100">
+	<StyleMap id="msn_wht-pushpin1000">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_wht-pushpin10000</styleUrl>
@@ -451,11 +471,11 @@
 	<StyleMap id="msn_wht-pushpin11">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin2</styleUrl>
+			<styleUrl>#sn_wht-pushpin33</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin4</styleUrl>
+			<styleUrl>#sh_wht-pushpin1</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin110">
@@ -491,11 +511,11 @@
 	<StyleMap id="msn_wht-pushpin112">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin20</styleUrl>
+			<styleUrl>#sn_wht-pushpin25</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin270</styleUrl>
+			<styleUrl>#sh_wht-pushpin40</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin113">
@@ -505,7 +525,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin34</styleUrl>
+			<styleUrl>#sh_wht-pushpin340</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin114">
@@ -515,7 +535,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin50</styleUrl>
+			<styleUrl>#sh_wht-pushpin503</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin118">
@@ -531,11 +551,11 @@
 	<StyleMap id="msn_wht-pushpin12">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin17</styleUrl>
+			<styleUrl>#sn_wht-pushpin</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin112</styleUrl>
+			<styleUrl>#sh_wht-pushpin22</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin120">
@@ -551,11 +571,11 @@
 	<StyleMap id="msn_wht-pushpin121">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin12</styleUrl>
+			<styleUrl>#sn_wht-pushpin17</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin26</styleUrl>
+			<styleUrl>#sh_wht-pushpin1121</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin1210">
@@ -566,6 +586,16 @@
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_wht-pushpin4001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin1211">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin26</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin1212">
@@ -591,11 +621,11 @@
 	<StyleMap id="msn_wht-pushpin13">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin1</styleUrl>
+			<styleUrl>#sn_wht-pushpin110</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin2</styleUrl>
+			<styleUrl>#sh_wht-pushpin210</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin130">
@@ -621,21 +651,21 @@
 	<StyleMap id="msn_wht-pushpin14">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin15</styleUrl>
+			<styleUrl>#sn_wht-pushpin39</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin150</styleUrl>
+			<styleUrl>#sh_wht-pushpin315</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin140">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin010</styleUrl>
+			<styleUrl>#sn_wht-pushpin15</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin102</styleUrl>
+			<styleUrl>#sh_wht-pushpin150</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin1400">
@@ -655,7 +685,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin24</styleUrl>
+			<styleUrl>#sh_wht-pushpin241</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin142">
@@ -668,7 +698,27 @@
 			<styleUrl>#sh_wht-pushpin601</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="msn_wht-pushpin15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin34</styleUrl>
+		</Pair>
+	</StyleMap>
 	<StyleMap id="msn_wht-pushpin150">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin1500">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_wht-pushpin002</styleUrl>
@@ -681,11 +731,11 @@
 	<StyleMap id="msn_wht-pushpin16">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin72</styleUrl>
+			<styleUrl>#sn_wht-pushpin44</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin221</styleUrl>
+			<styleUrl>#sh_wht-pushpin31</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin160">
@@ -706,16 +756,6 @@
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_wht-pushpin122</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_wht-pushpin161">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin16</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin9</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin1610">
@@ -761,11 +801,11 @@
 	<StyleMap id="msn_wht-pushpin17">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin35</styleUrl>
+			<styleUrl>#sn_wht-pushpin39</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin36</styleUrl>
+			<styleUrl>#sh_wht-pushpin0</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin170">
@@ -811,21 +851,31 @@
 	<StyleMap id="msn_wht-pushpin174">
 		<Pair>
 			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin35</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin36</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin1740">
+		<Pair>
+			<key>normal</key>
 			<styleUrl>#sn_wht-pushpin31</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin802</styleUrl>
+			<styleUrl>#sh_wht-pushpin8020</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin18">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin7</styleUrl>
+			<styleUrl>#sn_wht-pushpin</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin10</styleUrl>
+			<styleUrl>#sh_wht-pushpin2</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin180">
@@ -845,7 +895,17 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin33</styleUrl>
+			<styleUrl>#sh_wht-pushpin330</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin182">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin72</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin10</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin1820">
@@ -865,7 +925,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin12</styleUrl>
+			<styleUrl>#sh_wht-pushpin120</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin190">
@@ -881,7 +941,7 @@
 	<StyleMap id="msn_wht-pushpin19000">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin001</styleUrl>
+			<styleUrl>#sn_wht-pushpin0010</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -911,14 +971,24 @@
 	<StyleMap id="msn_wht-pushpin2">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin3</styleUrl>
+			<styleUrl>#sn_wht-pushpin37</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin0</styleUrl>
+			<styleUrl>#sh_wht-pushpin3</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin47</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin200">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_wht-pushpin161</styleUrl>
@@ -971,11 +1041,11 @@
 	<StyleMap id="msn_wht-pushpin21">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin9</styleUrl>
+			<styleUrl>#sn_wht-pushpin8</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin15</styleUrl>
+			<styleUrl>#sh_wht-pushpin42</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin210">
@@ -986,6 +1056,16 @@
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_wht-pushpin1300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin211">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin15</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin2110">
@@ -1001,7 +1081,7 @@
 	<StyleMap id="msn_wht-pushpin2111">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin33</styleUrl>
+			<styleUrl>#sn_wht-pushpin330</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -1031,11 +1111,11 @@
 	<StyleMap id="msn_wht-pushpin23">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin28</styleUrl>
+			<styleUrl>#sn_wht-pushpin10</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin53</styleUrl>
+			<styleUrl>#sh_wht-pushpin44</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin230">
@@ -1046,6 +1126,16 @@
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_wht-pushpin020</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin231">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin28</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin53</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin24">
@@ -1098,10 +1188,20 @@
 			<styleUrl>#sh_wht-pushpin411</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="msn_wht-pushpin26">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin38</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin41</styleUrl>
+		</Pair>
+	</StyleMap>
 	<StyleMap id="msn_wht-pushpin260">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin001</styleUrl>
+			<styleUrl>#sn_wht-pushpin0010</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -1125,23 +1225,23 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin70</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_wht-pushpin27">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin001</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin390</styleUrl>
+			<styleUrl>#sh_wht-pushpin701</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin28">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin6</styleUrl>
+			<styleUrl>#sn_wht-pushpin30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin04</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin280">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin62</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -1155,7 +1255,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin16</styleUrl>
+			<styleUrl>#sh_wht-pushpin161</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin290">
@@ -1171,21 +1271,21 @@
 	<StyleMap id="msn_wht-pushpin3">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin0</styleUrl>
+			<styleUrl>#sn_wht-pushpin4</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin</styleUrl>
+			<styleUrl>#sh_wht-pushpin27</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin30">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin10</styleUrl>
+			<styleUrl>#sn_wht-pushpin00</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin18</styleUrl>
+			<styleUrl>#sh_wht-pushpin6</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin300">
@@ -1225,7 +1325,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin2100</styleUrl>
+			<styleUrl>#sh_wht-pushpin21000</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin3003">
@@ -1251,7 +1351,7 @@
 	<StyleMap id="msn_wht-pushpin3005">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin001</styleUrl>
+			<styleUrl>#sn_wht-pushpin0010</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -1261,11 +1361,31 @@
 	<StyleMap id="msn_wht-pushpin301">
 		<Pair>
 			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin105</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin180</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin3010">
+		<Pair>
+			<key>normal</key>
 			<styleUrl>#sn_wht-pushpin12</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin31</styleUrl>
+			<styleUrl>#sh_wht-pushpin314</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin46</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin310">
@@ -1325,7 +1445,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin5</styleUrl>
+			<styleUrl>#sh_wht-pushpin50</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin3200">
@@ -1335,7 +1455,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin27</styleUrl>
+			<styleUrl>#sh_wht-pushpin270</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin33">
@@ -1361,7 +1481,7 @@
 	<StyleMap id="msn_wht-pushpin34">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin30</styleUrl>
+			<styleUrl>#sn_wht-pushpin303</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -1385,7 +1505,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin45</styleUrl>
+			<styleUrl>#sh_wht-pushpin450</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin3401">
@@ -1491,6 +1611,26 @@
 	<StyleMap id="msn_wht-pushpin35">
 		<Pair>
 			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin350">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin500</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin351">
+		<Pair>
+			<key>normal</key>
 			<styleUrl>#sn_wht-pushpin12</styleUrl>
 		</Pair>
 		<Pair>
@@ -1498,20 +1638,10 @@
 			<styleUrl>#sh_wht-pushpin002</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_wht-pushpin350">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin50</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin010</styleUrl>
-		</Pair>
-	</StyleMap>
 	<StyleMap id="msn_wht-pushpin36">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin6</styleUrl>
+			<styleUrl>#sn_wht-pushpin62</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -1528,16 +1658,6 @@
 			<styleUrl>#sh_wht-pushpin1200</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_wht-pushpin37">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin201</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin2000</styleUrl>
-		</Pair>
-	</StyleMap>
 	<StyleMap id="msn_wht-pushpin38">
 		<Pair>
 			<key>normal</key>
@@ -1545,7 +1665,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin46</styleUrl>
+			<styleUrl>#sh_wht-pushpin461</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin39">
@@ -1555,20 +1675,30 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin22</styleUrl>
+			<styleUrl>#sh_wht-pushpin221</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin4">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin2</styleUrl>
+			<styleUrl>#sn_wht-pushpin0</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin1</styleUrl>
+			<styleUrl>#sh_wht-pushpin9</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin45</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin400">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_wht-pushpin2100</styleUrl>
@@ -1588,7 +1718,27 @@
 			<styleUrl>#sh_wht-pushpin260</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="msn_wht-pushpin410">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin25</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin112</styleUrl>
+		</Pair>
+	</StyleMap>
 	<StyleMap id="msn_wht-pushpin42">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin420">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_wht-pushpin12</styleUrl>
@@ -1681,7 +1831,7 @@
 	<StyleMap id="msn_wht-pushpin48">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin1</styleUrl>
+			<styleUrl>#sn_wht-pushpin110</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -1695,27 +1845,27 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin120</styleUrl>
+			<styleUrl>#sh_wht-pushpin1202</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin49">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin12</styleUrl>
+			<styleUrl>#sn_wht-pushpin42</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin64</styleUrl>
+			<styleUrl>#sh_wht-pushpin21</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin5">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin5</styleUrl>
+			<styleUrl>#sn_wht-pushpin6</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin113</styleUrl>
+			<styleUrl>#sh_wht-pushpin16</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin50">
@@ -1741,7 +1891,7 @@
 	<StyleMap id="msn_wht-pushpin501">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin14</styleUrl>
+			<styleUrl>#sn_wht-pushpin141</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -1765,13 +1915,13 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin210</styleUrl>
+			<styleUrl>#sh_wht-pushpin2100</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin52">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin001</styleUrl>
+			<styleUrl>#sn_wht-pushpin0010</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -1781,7 +1931,7 @@
 	<StyleMap id="msn_wht-pushpin53">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin6</styleUrl>
+			<styleUrl>#sn_wht-pushpin62</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -1789,6 +1939,16 @@
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin54">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin113</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin540">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_wht-pushpin27</styleUrl>
@@ -1821,11 +1981,11 @@
 	<StyleMap id="msn_wht-pushpin6">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin01</styleUrl>
+			<styleUrl>#sn_wht-pushpin3</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin40</styleUrl>
+			<styleUrl>#sh_wht-pushpin8</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin60">
@@ -1845,30 +2005,50 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin241</styleUrl>
+			<styleUrl>#sh_wht-pushpin2410</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin61">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin400</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_wht-pushpin41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_wht-pushpin18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_wht-pushpin70">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_wht-pushpin161</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin80</styleUrl>
+			<styleUrl>#sh_wht-pushpin802</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_wht-pushpin70">
+	<StyleMap id="msn_wht-pushpin700">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_wht-pushpin31</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin180</styleUrl>
+			<styleUrl>#sh_wht-pushpin1801</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_wht-pushpin700">
+	<StyleMap id="msn_wht-pushpin7000">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_wht-pushpin91</styleUrl>
@@ -1911,7 +2091,7 @@
 	<StyleMap id="msn_wht-pushpin800">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin001</styleUrl>
+			<styleUrl>#sn_wht-pushpin0010</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -1931,11 +2111,11 @@
 	<StyleMap id="msn_wht-pushpin9">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_wht-pushpin</styleUrl>
+			<styleUrl>#sn_wht-pushpin7</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_wht-pushpin6</styleUrl>
+			<styleUrl>#sh_wht-pushpin33</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_wht-pushpin90">
@@ -1968,67 +2148,57 @@
 			<styleUrl>#sh_wht-pushpin380</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin8">
+	<StyleMap id="msn_wht-pushpin92">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+			<styleUrl>#sn_wht-pushpin5</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin14</styleUrl>
+			<styleUrl>#sh_wht-pushpin64</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin1</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin4">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin12</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin5">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin8</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin13</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin13</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin1">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_ylw-pushpin4</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin3">
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin11">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_ylw-pushpin12</styleUrl>
@@ -2038,124 +2208,64 @@
 			<styleUrl>#sh_ylw-pushpin</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin2">
+	<StyleMap id="msn_ylw-pushpin12">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+			<styleUrl>#sn_ylw-pushpin8</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin8</styleUrl>
+			<styleUrl>#sh_ylw-pushpin13</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin9">
+	<StyleMap id="msn_ylw-pushpin13">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+			<styleUrl>#sn_ylw-pushpin13</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+			<styleUrl>#sh_ylw-pushpin12</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin6">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin5</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin5</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin01">
+	<StyleMap id="msn_ylw-pushpin14">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_ylw-pushpin1</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin22</styleUrl>
+			<styleUrl>#sh_ylw-pushpin8</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin00">
+	<StyleMap id="msn_ylw-pushpin15">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin9</styleUrl>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin00</styleUrl>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin010">
+	<StyleMap id="msn_ylw-pushpin2">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin22</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin01</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin11">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin40</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin111</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin10">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin20</styleUrl>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_ylw-pushpin9</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin12">
+	<StyleMap id="msn_ylw-pushpin3">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin000</styleUrl>
+			<styleUrl>#sn_ylw-pushpin11</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin6</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin20">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin00</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin11</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin200">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin6</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin71</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin30">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin80</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin300000">
@@ -2178,27 +2288,57 @@
 			<styleUrl>#failed1000</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin41">
+	<StyleMap id="msn_ylw-pushpin4">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin21</styleUrl>
+			<styleUrl>#sn_ylw-pushpin9</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin21</styleUrl>
+			<styleUrl>#sh_ylw-pushpin11</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin40">
+	<StyleMap id="msn_ylw-pushpin5">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin11</styleUrl>
+			<styleUrl>#sn_ylw-pushpin15</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin000</styleUrl>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin50">
+	<StyleMap id="msn_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin70">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin51</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin41</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin8">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_ylw-pushpin7</styleUrl>
@@ -2208,59 +2348,19 @@
 			<styleUrl>#sh_ylw-pushpin3</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin500">
+	<StyleMap id="msn_ylw-pushpin9">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin0000</styleUrl>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin40</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin60">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin30</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin70</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin7">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin51</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin4</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin80">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin50</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin20</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin90">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin14</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin110</styleUrl>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Style id="sh_wht-pushpin">
 		<IconStyle>
-			<scale>1.3</scale>
+			<scale>1.18182</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -2272,7 +2372,7 @@
 	</Style>
 	<Style id="sh_wht-pushpin0">
 		<IconStyle>
-			<scale>1.3</scale>
+			<scale>1.16667</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -2414,9 +2514,21 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
+	<Style id="sh_wht-pushpin04">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
 	<Style id="sh_wht-pushpin1">
 		<IconStyle>
-			<scale>1.16667</scale>
+			<scale>1.18182</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -2487,18 +2599,6 @@
 		</LabelStyle>
 	</Style>
 	<Style id="sh_wht-pushpin1011">
-		<IconStyle>
-			<scale>1.16667</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="sh_wht-pushpin102">
 		<IconStyle>
 			<scale>1.16667</scale>
 			<Icon>
@@ -2632,7 +2732,7 @@
 	</Style>
 	<Style id="sh_wht-pushpin112">
 		<IconStyle>
-			<scale>1.3</scale>
+			<scale>1.16667</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -2645,6 +2745,18 @@
 	<Style id="sh_wht-pushpin1120">
 		<IconStyle>
 			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_wht-pushpin1121">
+		<IconStyle>
+			<scale>1.3</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -2680,7 +2792,7 @@
 	</Style>
 	<Style id="sh_wht-pushpin12">
 		<IconStyle>
-			<scale>1.16667</scale>
+			<scale>1.3</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -2717,6 +2829,18 @@
 	<Style id="sh_wht-pushpin1201">
 		<IconStyle>
 			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_wht-pushpin1202">
+		<IconStyle>
+			<scale>1.16667</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -2896,7 +3020,7 @@
 	</Style>
 	<Style id="sh_wht-pushpin16">
 		<IconStyle>
-			<scale>1.18182</scale>
+			<scale>1.3</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -2907,6 +3031,18 @@
 		</LabelStyle>
 	</Style>
 	<Style id="sh_wht-pushpin160">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_wht-pushpin161">
 		<IconStyle>
 			<scale>1.18182</scale>
 			<Icon>
@@ -2956,7 +3092,7 @@
 	</Style>
 	<Style id="sh_wht-pushpin18">
 		<IconStyle>
-			<scale>1.16667</scale>
+			<scale>1.18182</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -2981,6 +3117,18 @@
 	<Style id="sh_wht-pushpin1800">
 		<IconStyle>
 			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_wht-pushpin1801">
+		<IconStyle>
+			<scale>1.16667</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -3050,18 +3198,6 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="sh_wht-pushpin2000">
-		<IconStyle>
-			<scale>1.16667</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
 	<Style id="sh_wht-pushpin2001">
 		<IconStyle>
 			<scale>1.16667</scale>
@@ -3110,7 +3246,31 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
+	<Style id="sh_wht-pushpin21">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
 	<Style id="sh_wht-pushpin210">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_wht-pushpin2100">
 		<IconStyle>
 			<scale>1.16667</scale>
 			<Icon>
@@ -3122,7 +3282,7 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="sh_wht-pushpin2100">
+	<Style id="sh_wht-pushpin21000">
 		<IconStyle>
 			<scale>1.16667</scale>
 			<Icon>
@@ -3280,7 +3440,7 @@
 	</Style>
 	<Style id="sh_wht-pushpin24">
 		<IconStyle>
-			<scale>1.18182</scale>
+			<scale>1.3</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -3303,6 +3463,18 @@
 		</LabelStyle>
 	</Style>
 	<Style id="sh_wht-pushpin241">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_wht-pushpin2410">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -3388,7 +3560,7 @@
 	</Style>
 	<Style id="sh_wht-pushpin27">
 		<IconStyle>
-			<scale>1.16667</scale>
+			<scale>1.18182</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -3400,7 +3572,7 @@
 	</Style>
 	<Style id="sh_wht-pushpin270">
 		<IconStyle>
-			<scale>1.18182</scale>
+			<scale>1.16667</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -3484,7 +3656,7 @@
 	</Style>
 	<Style id="sh_wht-pushpin30">
 		<IconStyle>
-			<scale>1.3</scale>
+			<scale>1.18182</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -3518,9 +3690,21 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
+	<Style id="sh_wht-pushpin302">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
 	<Style id="sh_wht-pushpin31">
 		<IconStyle>
-			<scale>1.16667</scale>
+			<scale>1.18182</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -3578,6 +3762,30 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
+	<Style id="sh_wht-pushpin314">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_wht-pushpin315">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
 	<Style id="sh_wht-pushpin32">
 		<IconStyle>
 			<scale>1.18182</scale>
@@ -3604,6 +3812,18 @@
 	</Style>
 	<Style id="sh_wht-pushpin33">
 		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_wht-pushpin330">
+		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
@@ -3615,6 +3835,18 @@
 		</LabelStyle>
 	</Style>
 	<Style id="sh_wht-pushpin34">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_wht-pushpin340">
 		<IconStyle>
 			<scale>1.16667</scale>
 			<Icon>
@@ -3758,18 +3990,6 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="sh_wht-pushpin390">
-		<IconStyle>
-			<scale>1.16667</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
 	<Style id="sh_wht-pushpin4">
 		<IconStyle>
 			<scale>1.18182</scale>
@@ -3783,6 +4003,18 @@
 		</LabelStyle>
 	</Style>
 	<Style id="sh_wht-pushpin40">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_wht-pushpin400">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -3807,6 +4039,18 @@
 		</LabelStyle>
 	</Style>
 	<Style id="sh_wht-pushpin4001">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_wht-pushpin41">
 		<IconStyle>
 			<scale>1.18182</scale>
 			<Icon>
@@ -3878,6 +4122,18 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
+	<Style id="sh_wht-pushpin42">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
 	<Style id="sh_wht-pushpin420">
 		<IconStyle>
 			<scale>1.16667</scale>
@@ -3926,7 +4182,31 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
+	<Style id="sh_wht-pushpin44">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
 	<Style id="sh_wht-pushpin45">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_wht-pushpin450">
 		<IconStyle>
 			<scale>1.16667</scale>
 			<Icon>
@@ -3962,6 +4242,30 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
+	<Style id="sh_wht-pushpin461">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_wht-pushpin47">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
 	<Style id="sh_wht-pushpin48">
 		<IconStyle>
 			<scale>1.16667</scale>
@@ -3976,7 +4280,7 @@
 	</Style>
 	<Style id="sh_wht-pushpin5">
 		<IconStyle>
-			<scale>1.18182</scale>
+			<scale>1.16667</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -3988,7 +4292,7 @@
 	</Style>
 	<Style id="sh_wht-pushpin50">
 		<IconStyle>
-			<scale>1.16667</scale>
+			<scale>1.18182</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -4034,7 +4338,7 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="sh_wht-pushpin51">
+	<Style id="sh_wht-pushpin503">
 		<IconStyle>
 			<scale>1.16667</scale>
 			<Icon>
@@ -4180,7 +4484,7 @@
 	</Style>
 	<Style id="sh_wht-pushpin6">
 		<IconStyle>
-			<scale>1.16667</scale>
+			<scale>1.3</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -4312,7 +4616,7 @@
 	</Style>
 	<Style id="sh_wht-pushpin7">
 		<IconStyle>
-			<scale>1.16667</scale>
+			<scale>1.18182</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -4358,6 +4662,18 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
+	<Style id="sh_wht-pushpin701">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
 	<Style id="sh_wht-pushpin71">
 		<IconStyle>
 			<scale>1.18182</scale>
@@ -4384,7 +4700,7 @@
 	</Style>
 	<Style id="sh_wht-pushpin8">
 		<IconStyle>
-			<scale>1.16667</scale>
+			<scale>1.3</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -4396,7 +4712,7 @@
 	</Style>
 	<Style id="sh_wht-pushpin80">
 		<IconStyle>
-			<scale>1.18182</scale>
+			<scale>1.16667</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -4431,6 +4747,18 @@
 		</LabelStyle>
 	</Style>
 	<Style id="sh_wht-pushpin802">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_wht-pushpin8020">
 		<IconStyle>
 			<scale>1.16667</scale>
 			<Icon>
@@ -4468,7 +4796,7 @@
 	</Style>
 	<Style id="sh_wht-pushpin9">
 		<IconStyle>
-			<scale>1.16667</scale>
+			<scale>1.3</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -4586,192 +4914,7 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin5">
-		<IconStyle>
-			<scale>1.28334</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin7">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin13">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
 	<Style id="sh_ylw-pushpin">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin12">
-		<IconStyle>
-			<scale>1.28334</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin0">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff9f5d2c</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin8">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin14">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin1">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin2">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin01">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff3e9ebd</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin00">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffdda0c3</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin000">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffda941a</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin11">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -4784,124 +4927,7 @@
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin10">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff141b9c</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin111">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffa6a2f4</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin110">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff38425c</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin22">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff30c5f8</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin20">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff9b3c72</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin21">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff1bd0c1</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin3">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffa5d5c1</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin4">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ffb6b740</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin40">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff007846</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin6">
+	<Style id="sh_ylw-pushpin0">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -4914,7 +4940,189 @@
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin71">
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff1bd0c1</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff30c5f8</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffdda0c3</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff9b3c72</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa6a2f4</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin14">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff007846</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin15">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffda941a</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff141b9c</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff3e9ebd</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff38425c</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin41">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffb6b740</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff9f5d2c</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff024da1</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa5d5c1</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin8">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -4927,19 +5135,6 @@
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin70">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff08ac67</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
 	<Style id="sh_ylw-pushpin9">
 		<IconStyle>
 			<scale>1.3</scale>
@@ -4949,7 +5144,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff024da1</color>
+			<color>ff08ac67</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
@@ -5023,6 +5218,18 @@
 	</Style>
 	<Style id="sn_wht-pushpin001">
 		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_wht-pushpin0010">
+		<IconStyle>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -5044,6 +5251,17 @@
 		</LabelStyle>
 	</Style>
 	<Style id="sn_wht-pushpin0011">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_wht-pushpin00110">
 		<IconStyle>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
@@ -5222,7 +5440,29 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
+	<Style id="sn_wht-pushpin105">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
 	<Style id="sn_wht-pushpin11">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_wht-pushpin110">
 		<IconStyle>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
@@ -5336,6 +5576,7 @@
 	</Style>
 	<Style id="sn_wht-pushpin14">
 		<IconStyle>
+			<scale>1.1</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -5346,6 +5587,17 @@
 		</LabelStyle>
 	</Style>
 	<Style id="sn_wht-pushpin140">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_wht-pushpin141">
 		<IconStyle>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
@@ -5438,6 +5690,7 @@
 	</Style>
 	<Style id="sn_wht-pushpin2">
 		<IconStyle>
+			<scale>1.1</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -5560,6 +5813,17 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
+	<Style id="sn_wht-pushpin250">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
 	<Style id="sn_wht-pushpin26">
 		<IconStyle>
 			<scale>1.1</scale>
@@ -5621,6 +5885,7 @@
 	</Style>
 	<Style id="sn_wht-pushpin30">
 		<IconStyle>
+			<scale>1.1</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -5653,6 +5918,17 @@
 		</LabelStyle>
 	</Style>
 	<Style id="sn_wht-pushpin302">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_wht-pushpin303">
 		<IconStyle>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
@@ -5698,6 +5974,17 @@
 		</LabelStyle>
 	</Style>
 	<Style id="sn_wht-pushpin33">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_wht-pushpin330">
 		<IconStyle>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
@@ -5785,9 +6072,53 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="sn_wht-pushpin4">
+	<Style id="sn_wht-pushpin36">
 		<IconStyle>
 			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_wht-pushpin37">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_wht-pushpin38">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_wht-pushpin39">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_wht-pushpin4">
+		<IconStyle>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -5809,7 +6140,29 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="sn_wht-pushpin5">
+	<Style id="sn_wht-pushpin41">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_wht-pushpin42">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_wht-pushpin43">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -5821,7 +6174,41 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
+	<Style id="sn_wht-pushpin44">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_wht-pushpin5">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
 	<Style id="sn_wht-pushpin50">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_wht-pushpin500">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -5847,6 +6234,7 @@
 	</Style>
 	<Style id="sn_wht-pushpin6">
 		<IconStyle>
+			<scale>1.1</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -5867,7 +6255,7 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="sn_wht-pushpin61">
+	<Style id="sn_wht-pushpin62">
 		<IconStyle>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
@@ -5880,7 +6268,6 @@
 	</Style>
 	<Style id="sn_wht-pushpin7">
 		<IconStyle>
-			<scale>1.1</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -5937,6 +6324,19 @@
 	</Style>
 	<Style id="sn_wht-pushpin72">
 		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_wht-pushpin8">
+		<IconStyle>
+			<scale>1.1</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/wht-pushpin.png</href>
 			</Icon>
@@ -5991,175 +6391,7 @@
 			<scale>0.7</scale>
 		</LabelStyle>
 	</Style>
-	<Style id="sn_ylw-pushpin12">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-	</Style>
 	<Style id="sn_ylw-pushpin">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin2">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin5">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin4">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin3">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin0">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin1">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff30c5f8</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin10">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin13">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LabelStyle>
-			<scale>0.7</scale>
-		</LabelStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin00">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff006ce4</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin000">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff66aeff</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin0000">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -6172,7 +6404,33 @@
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_ylw-pushpin14">
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff141b9c</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffebcfa0</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin10">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -6194,11 +6452,11 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ffda941a</color>
+			<color>ff9f5d2c</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_ylw-pushpin22">
+	<Style id="sn_ylw-pushpin12">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -6207,11 +6465,11 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff3e9ebd</color>
+			<color>ff006ce4</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_ylw-pushpin20">
+	<Style id="sn_ylw-pushpin13">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -6220,24 +6478,11 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff024da1</color>
+			<color>ff9b3c72</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_ylw-pushpin21">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff1bd0c1</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin30">
+	<Style id="sn_ylw-pushpin14">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -6250,7 +6495,7 @@
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_ylw-pushpin40">
+	<Style id="sn_ylw-pushpin15">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -6259,7 +6504,59 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ffa6a2f4</color>
+			<color>ff66aeff</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff30c5f8</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffda941a</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffa5d5c1</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff1bd0c1</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
@@ -6276,19 +6573,6 @@
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_ylw-pushpin50">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff9b3c72</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
 	<Style id="sn_ylw-pushpin6">
 		<IconStyle>
 			<scale>1.1</scale>
@@ -6298,7 +6582,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ffebcfa0</color>
+			<color>ff024da1</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
@@ -6311,7 +6595,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ffa5d5c1</color>
+			<color>ff3e9ebd</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
@@ -6324,20 +6608,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff9f5d2c</color>
-			<width>2.5</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin80">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff141b9c</color>
+			<color>ffa6a2f4</color>
 			<width>2.5</width>
 		</LineStyle>
 	</Style>
@@ -6387,83 +6658,87 @@
 
 003 =&gt; KR - B
 
-004 =&gt; Pasar Kalasan - B
+004 =&gt; BPD Kalasan
 
-005 =&gt; RS Bhayangkara - B
+005 =&gt; Pasar Kalasan - B
 
-006 =&gt; Edotel Kalasan - B
+006 =&gt; RS Bhayangkara - B
 
-007 =&gt; Terminal Prambanan
+007 =&gt; Edotel Kalasan - B
 
-008 =&gt; Edotel Kalasan - A
+008 =&gt; Terminal Prambanan
 
-009 =&gt;  RS Bhayangkara - A
+009 =&gt; Edotel Kalasan - A
 
-010 =&gt; Pasar Kalasan - A
+010 =&gt;  RS Bhayangkara - A
 
-011 =&gt; KR - A
+011 =&gt; Pasar Kalasan - A
 
-012 =&gt; Bandara Adisutjipto
+012 =&gt; Cupuwatu
 
-013 =&gt; Hyundai
+013 =&gt; KR - A
 
-014 =&gt; Jayakarta
+014 =&gt; Bandara Adisutjipto
 
-015 =&gt; Janti Selatan
+015 =&gt; Hyundai
 
-016 =&gt; Ambarukmo - A
+016 =&gt; Jayakarta
 
-017 =&gt; Gedung Wanita
+017 =&gt; Janti Selatan
 
-018 =&gt; LPP
+018 =&gt; Ambarukmo - A
 
-019 =&gt; Superindo Urip Sumoharjo
+019 =&gt; Gedung Wanita
 
-020 =&gt; RS Bethesda
+020 =&gt; LPP
 
-021 =&gt; Jend. Sudirman - A
+021 =&gt; Superindo Urip Sumoharjo
 
-022 =&gt; Mangkubumi 1
+022 =&gt; RS Bethesda
 
-023 =&gt; Mangkubumi 2
+023 =&gt; Jend. Sudirman - A
 
-024 =&gt; Malioboro 1
+024 =&gt; Mangkubumi 1
 
-025 =&gt; Malioboro 2
+025 =&gt; Mangkubumi 2
 
-026 =&gt; Malioboro 3
+026 =&gt; Malioboro 1
 
-027 =&gt; Taman Pintar
+027 =&gt; Malioboro 2
 
-028 =&gt; Suryotomo
+028 =&gt; Malioboro 3
 
-029 =&gt; Jl. Mataram
+029 =&gt; Taman Pintar
 
-030 =&gt; Teras 2
+030 =&gt; Suryotomo
 
-031 =&gt; Eks Menara Kopi - A
+031 =&gt; Jl. Mataram
 
-032 =&gt; Kridosono
+032 =&gt; Teras 2
 
-033 =&gt; AA YKPN
+033 =&gt; Eks Menara Kopi - A
 
-034 =&gt; De Britto
+034 =&gt; Kridosono
 
-035 =&gt; Ambarukmo - B
+035 =&gt; AA YKPN
 
-036 =&gt; Janti Selatan
+036 =&gt; De Britto
 
-037 =&gt; Janti Utara
+037 =&gt; Ambarukmo - B
 
-038 =&gt; Transmart
+038 =&gt; Janti Selatan
 
-039 =&gt; Kanwil DJPb
+039 =&gt; Janti Utara
 
-040 =&gt; Maguwo Sambilegi
+040 =&gt; Transmart
 
-041 =&gt; Bandara Adisujtipto
+041 =&gt; Kanwil DJPb
 
-! -- AKHIR /  END -- !</description>
+042 =&gt; Maguwo Sambilegi
+
+043 =&gt; Bandara Adisujtipto
+
+! --AKHIR /  END -- !</description>
 			<styleUrl>#msn_ylw-pushpin300000</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
@@ -6522,7 +6797,7 @@
 
 023 =&gt; Letjen Suprapto
 
-024 =&gt; SD Gedong Tengen
+024 =&gt; SDN Gedong Tengen
 
 025 =&gt; KS Tubun
 
@@ -6557,7 +6832,7 @@
 040 =&gt; Bandara Adisutjipto
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin11</styleUrl>
+			<styleUrl>#msn_ylw-pushpin12</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -6649,7 +6924,7 @@
 
 040 =&gt; Dr. Yap
 
-041 =&gt; SMPN 1
+041 =&gt; SMPN 1 - A
 
 042 =&gt; Kosudgama
 
@@ -6666,7 +6941,7 @@
 048 =&gt; Terminal Condongcatur
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin40</styleUrl>
+			<styleUrl>#msn_ylw-pushpin6</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -6690,87 +6965,89 @@
 
 006 =&gt; Samirono
 
-007 =&gt; Kosudgama - B
+007 =&gt; RS Panti Rapih 
 
-008 =&gt; RS Panti Rapih
+008 =&gt; SMPN 1 - B
 
 009 =&gt; Cik Di Tiro
 
-010 =&gt; Kridosono
+010 =&gt; Bulog
 
-011 =&gt; SMP Kanisius Gayam - B
+011 =&gt; Kridosono
 
-012 =&gt; Mandala Krida - B
+012 =&gt; SMP Kanisius Gayam - B
 
-013 =&gt; Among Rogo - B
+013 =&gt; Mandala Krida - B
 
-014 =&gt; Makam Gajah - A
+014 =&gt; Among Rogo - B
 
-015 =&gt; SGM Kusumanegara - A
+015 =&gt; Makam Gajah - A
 
-016 =&gt; Gembira Loka - A
+016 =&gt; SGM Kusumanegara - A
 
-017 =&gt; Banguntapan - B
+017 =&gt; Gembira Loka - A
 
-018 =&gt; Poltekkes BSI
+018 =&gt; Banguntapan - B
 
-019 =&gt; Kehutanan - B
+019 =&gt; Poltekkes BSI
 
-020 =&gt; SMPN 9 - B
+020 =&gt; Kehutanan - B
 
-021 =&gt; Basen
+021 =&gt; SMPN 9 - B
 
-022 =&gt; Perintis Kemerdekaan - B
+022 =&gt; Basen
 
-023 =&gt; Gambiran - B
+023 =&gt; Perintis Kemerdekaan - B
 
-024 =&gt; Veteran
+024 =&gt; Gambiran - B
 
-025 =&gt; XT Square
+025 =&gt; Veteran
 
-026 =&gt; Pasar Sepeda 
+026 =&gt; XT Square
 
-027 =&gt; Museum Perjuangan
+027 =&gt; Pasar Sepeda 
 
-028 =&gt; Purawisata - B
+028 =&gt; Museum Perjuangan
 
-029 =&gt; Katamso
+029 =&gt; Purawisata - B
 
-030 =&gt; Senopati
+030 =&gt; Katamso
 
-031 =&gt; KHA Dahlan - A
+031 =&gt; Senopati
 
-032 =&gt; Ngabean
+032 =&gt; KHA Dahlan - A
 
-033 =&gt; Pasar Serangan - A
+033 =&gt; Ngabean
 
-034 =&gt; SMAN 1 - A
+034 =&gt; Pasar Serangan - A
 
-035 =&gt; SMPN 11 - A
+035 =&gt; SMAN 1 - A
 
-036 =&gt; Perpusda
+036 =&gt; SMPN 11 - A
 
-037 =&gt; SMPN 14
+037 =&gt; Perpusda
 
-038 =&gt; Hotel Utara
+038 =&gt; SMPN 14
 
-039 =&gt; Borobudur Plaza
+039 =&gt; Hotel Utara
 
-040 =&gt; SMKN 3
+040 =&gt; Borobudur Plaza
 
-041 =&gt; AM Sangaji - B
+041 =&gt; SMKN 3
 
-042 =&gt; Karangjati - B
+042 =&gt; AM Sangaji - B
 
-043 =&gt; Monjali - B
+043 =&gt; Karangjati - B
 
-044 =&gt; Termnial Jombor
+044 =&gt; Monjali - B
 
-045 =&gt; Monjali - A
+045 =&gt; Termnial Jombor
 
-046 =&gt; Kentunngan
+046 =&gt; Monjali - A
 
-047 =&gt; Terminal Condongcatur
+047 =&gt; Kentunngan
+
+048 =&gt; Terminal Condongcatur
 
 ! -- AKHIR /  END -- !</description>
 			<LookAt>
@@ -6782,7 +7059,7 @@
 				<range>168.5974770458351</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_ylw-pushpin200</styleUrl>
+			<styleUrl>#msn_ylw-pushpin14</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -6822,80 +7099,82 @@
 
 014 =&gt; Kopma UGM
 
-015 =&gt; RS Panti Rapih
+015 =&gt; SMPN 1 - B
 
 016 =&gt; Cik Di Tiro
 
-017 =&gt; Kridosono
+017 =&gt; Bulog
 
-018 =&gt; Eks Menara Kopi - B
+018 =&gt; Kridosono
 
-019 =&gt; Malioboro 1
+019 =&gt; Eks Menara Kopi - B
 
-020 =&gt; Malioboro 2
+020 =&gt; Malioboro 1
 
-021 =&gt; Malioboro 3
+021 =&gt; Malioboro 2
 
-022 =&gt; KHA Dahlan - A
+022 =&gt; Malioboro 3
 
-023 =&gt; Ngabean
+023 =&gt; KHA Dahlan - A
 
-024 =&gt; Tamansari
+024 =&gt; Ngabean
 
-025 =&gt; Jokteng Kulon
+025 =&gt; Tamansari
 
-026 =&gt; Plengkung Gading - A
+026 =&gt; Jokteng Kulon
 
-027 =&gt; Pujokusuman
+027 =&gt; Plengkung Gading - A
 
-028 =&gt; Lowanu - A
+028 =&gt; Pujokusuman
 
-029 =&gt; UNU
+029 =&gt; Lowanu - A
 
-030 =&gt; Widya Wiwaha - A
+030 =&gt; UNU
 
-031 =&gt; Wirosaban
+031 =&gt; Widya Wiwaha - A
 
-032 =&gt; Tegal Turi - A
+032 =&gt; Wirosaban
 
-033 =&gt; Gudang SGM - B
+033 =&gt; Tegal Turi - A
 
-034 =&gt; Pasar Giwangan - B
+034 =&gt; Gudang SGM - B
 
-035 =&gt; Terminal Giwangan
+035 =&gt; Pasar Giwangan - B
 
-036 =&gt; Pasar Giwangan - A
+036 =&gt; Terminal Giwangan
 
-037 =&gt; Gudang SGM - A
+037 =&gt; Pasar Giwangan - A
 
-038 =&gt; Tegal Gendu - A
+038 =&gt; Gudang SGM - A
 
-039 =&gt; Lap. Karang - A
+039 =&gt; Tegal Gendu - A
 
-040 =&gt; SMAN 5
+040 =&gt; Lap. Karang - A
 
-041 =&gt; Kehutanan - A
+041 =&gt; SMAN 5
 
-042 =&gt; Pillar
+042 =&gt; Kehutanan - A
 
-043 =&gt; Banguntapan - A
+043 =&gt; Pillar
 
-044 =&gt; JEC
+044 =&gt; Banguntapan - A
 
-045 =&gt; Blok O
+045 =&gt; JEC
 
-046 =&gt; Janti Utara
+046 =&gt; Blok O
 
-047 =&gt; Transmart
+047 =&gt; Janti Utara
 
-048 =&gt; Maguwo Sambilegi
+048 =&gt; Transmart
 
-049 =&gt; Kanwil DJPb
+049 =&gt; Maguwo Sambilegi
 
-050 =&gt; Bandara Adisutjipto
+050 =&gt; Kanwil DJPb
+
+051 =&gt; Bandara Adisutjipto
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin20</styleUrl>
+			<styleUrl>#msn_ylw-pushpin11</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -6909,13 +7188,13 @@
 
 001 =&gt; Terminal Giwangan
 
-002 =&gt; Gudang SGM - A
+002 =&gt; Pasar Giwangan - A
 
-003 =&gt; Pasar Giwangan - A
+003 =&gt; Gudang SGM - A
 
 004 =&gt; Tegal Turi - B
 
-005 =&gt; Sorogenen, Nitikan
+005 =&gt; Nitikan
 
 006 =&gt; Widya Wiwaha - B
 
@@ -6955,7 +7234,7 @@
 
 024 =&gt; Dr. Yap
 
-025 =&gt; SMPN 1
+025 =&gt; SMPN 1 - A
 
 026 =&gt; Vokasi UGM
 
@@ -7018,7 +7297,7 @@
 055 =&gt; Terminal Giwangan
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin12</styleUrl>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -7054,60 +7333,64 @@
 
 012 =&gt; Kridosono
 
-013 =&gt; RS Bethesda
+013 =&gt; UKDW
 
-014 =&gt; Dr. Yap
+014 =&gt; RS Bethesda
 
-015 =&gt; SMPN 1
+015 =&gt; Dr. Yap
 
-016 =&gt; Vokasi UGM
+016 =&gt; SMPN 1 - A
 
-017 =&gt; FKG UGM - B
+017 =&gt; Vokasi UGM
 
-018 =&gt; RS Sardjito - B
+018 =&gt; FKG UGM - B
 
-019 =&gt; MM UGM
+019 =&gt; RS Sardjito - B
 
-020 =&gt; Polsek Bulaksumur - A
+020 =&gt; MM UGM
 
-021 =&gt; Lembah UGM - A
+021 =&gt; Polsek Bulaksumur - A
 
-022 =&gt; Kosudgama - B
+022 =&gt; Lembah UGM - A
 
 023 =&gt; RS Panti Rapih
 
-024 =&gt; Cik Di Tiro
+024 =&gt; SMPN 1 - B
 
-025 =&gt; Kridosono
+025 =&gt; Cik Di Tiro
 
-026 =&gt; AA YKPN
+026 =&gt; Bulog
 
-027 =&gt; De Britto
+027 =&gt; Kridosono
 
-028 =&gt; UIN Sunan Kalijaga - A
+028 =&gt; AA YKPN
 
-029 =&gt; APMD - A
+029 =&gt; De Britto
 
-030 =&gt; SMKN 5 - A
+030 =&gt; UIN Sunan Kalijaga - A
 
-031 =&gt; SGM Kusumanegara - B
+031 =&gt; APMD - A
 
-032 =&gt; UTY Glagahsari - A
+032 =&gt; SMKN 5 - A
 
-033 =&gt; Makam Prajurit
+033 =&gt; SGM Kusumanegara - B
 
-034 =&gt; XT Square
+034 =&gt; UTY Glagahsari - A
 
-035 =&gt; UAD Jl. Pramuka
+035 =&gt; Makam Prajurit
 
-036 =&gt; Gudang SGM - B
+036 =&gt; XT Square
 
-037 =&gt; Pasar Giwangan - B
+037 =&gt; UAD Jl. Pramuka
 
-038 =&gt; Terminal Giwangan
+038 =&gt; Gudang SGM - B
+
+039 =&gt; Pasar Giwangan - B
+
+040 =&gt; Terminal Giwangan
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin60</styleUrl>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -7161,30 +7444,34 @@
 
 021 =&gt; Kopma UGM
 
-022 =&gt; Kridosono
+022 =&gt; PDIN
 
-023 =&gt; Lempuyangan - B
+023 =&gt; Bulog
 
-024 =&gt; Hayam Wuruk - B
+024 =&gt; Kridosono
 
-025 =&gt; Pakualaman
+025 =&gt; Lempuyangan - B
 
-026 =&gt; Lapas Wirogunan - B
+026 =&gt; Hayam Wuruk - B
 
-027 =&gt; STSRD Visi Tamansiswa
+027 =&gt; Pakualaman
 
-028 =&gt; STIE Kerjasama
+028 =&gt; Lapas Wirogunan - B
 
-029 =&gt; UAD Jl. Pramuka
+029 =&gt; STSRD Visi Tamansiswa
 
-030 =&gt; Gudang SGM - B
+030 =&gt; STIE Kerjasama
 
-031 =&gt; Pasar Giwangan - B
+031 =&gt; UAD Jl. Pramuka
 
-032 =&gt; Terminal Giwangan
+032 =&gt; Gudang SGM - B
+
+033 =&gt; Pasar Giwangan - B
+
+034 =&gt; Terminal Giwangan
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin50</styleUrl>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -7208,50 +7495,52 @@
 
 006 =&gt; SMKN 3
 
-007 =&gt; RS Panti Rapih
+007 =&gt; SMPN 1 - B
 
 008 =&gt; Cik Di Tiro
 
-009 =&gt; Kridosono
+009 =&gt; Bulog
 
-010 =&gt; AA YKPN
+010 =&gt; Kridosono
 
-011 =&gt; De Britto
+011 =&gt; AA YKPN
 
-012 =&gt; Ambarukmo - B
+012 =&gt; De Britto
 
-013 =&gt; Janti Selatan
+013 =&gt; Ambarukmo - B
 
-014 =&gt; Janti Utara
+014 =&gt; Janti Selatan
 
-015 =&gt; Sahid J-Walk
+015 =&gt; Janti Utara
 
-016 =&gt; Babarsari - A
+016 =&gt; Sahid J-Walk
 
-017 =&gt; STIE YKPN - A
+017 =&gt; Babarsari - A
 
-018 =&gt; UPN Veteran
+018 =&gt; STIE YKPN - A
 
-019 =&gt; Pakuwon Mall - A
+019 =&gt; UPN Veteran
 
-020 =&gt; Terminal Condongcatur
+020 =&gt; Pakuwon Mall - A
 
-021 =&gt; Manggung
+021 =&gt; Terminal Condongcatur
 
-022 =&gt; McD Jakal
+022 =&gt; Manggung
 
-023 =&gt; FKG UGM - B
+023 =&gt; McD Jakal
 
-024 =&gt; RS Sardjito - B
+024 =&gt; FKG UGM - B
 
-025 =&gt; Teknik UGM - A
+025 =&gt; RS Sardjito - B
 
-026 =&gt; Monjali - B
+026 =&gt; Teknik UGM - A
 
-027 =&gt; Terminal Jombor
+027 =&gt; Monjali - B
+
+028 =&gt; Terminal Jombor
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin80</styleUrl>
+			<styleUrl>#msn_ylw-pushpin13</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -7317,28 +7606,30 @@
 
 027 =&gt; RS Bethesda
 
-028 =&gt; Kridosono
+028 =&gt; Bulog
 
-029 =&gt; Suroto
+029 =&gt; Kridosono
 
-030 =&gt; Dr. Yap
+030 =&gt; Jl. Suroto
 
-031 =&gt; SMPN 1
+031 =&gt; Dr. Yap
 
-032 =&gt; SMPN 6
+032 =&gt; SMPN 1 - A
 
-033 =&gt; Karangwaru - B
+033 =&gt; SMPN 6
 
-034 =&gt; TVRI - B
+034 =&gt; Karangwaru - B
 
-035 =&gt; Jogja City Mall - B
+035 =&gt; TVRI - B
 
-036 =&gt; MMTC Yogyakarta
+036 =&gt; Jogja City Mall - B
 
-037 =&gt; Terminal Jombor
+037 =&gt; MMTC Yogyakarta
+
+038 =&gt; Terminal Jombor
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -7354,7 +7645,7 @@
 
 002 =&gt; PKU Gamping
 
-003 =&gt; Pasar Gamping
+003 =&gt; Pasar Gamping - A
 
 004 =&gt; Universitas BSI - B
 
@@ -7418,10 +7709,12 @@
 
 034 =&gt; Universitas BSI - A
 
-035 =&gt; Park and Ride Gamping
+035 =&gt; Pasar Gamping - B
+
+036 =&gt; Park and Ride Gamping
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin90</styleUrl>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -7441,35 +7734,33 @@
 
 004 =&gt; West Lake - A
 
-005 =&gt; RS Queen Latifa
+005 =&gt; Perumahan Nogotirto
 
-006 =&gt; Perumahan Nogotirto
+006 =&gt; Demak Ijo - A
 
-007 =&gt; Demak Ijo - A
+007 =&gt; Nogotirto (Metro) - A
 
-008 =&gt; Nogotirto (Metro) - A
+008 =&gt; Kantor Pos Demak Ijo - A
 
-009 =&gt; Kantor Pos Demak Ijo - A
+009 =&gt; SDN 1 Demak Ijo - A
 
-010 =&gt; SDN 1 Demak Ijo - A
+010 =&gt; Pasar Tlogorejo - A
 
-011 =&gt; Pasar Tlogorejo - A
+011 =&gt; McD
 
-012 =&gt; McD
+012 =&gt; Mirota Godean - A
 
-013 =&gt; Mirota Godean - A
+013 =&gt; BKD
 
-014 =&gt; BKD
+014 =&gt; Atakrib
 
-015 =&gt; Atakrib
+015 =&gt; Pasar Kranggan Selatan
 
-016 =&gt; Pasar Kranggan Selatan
+016 =&gt; Mangkubumi 1
 
-017 =&gt; Mangkubumi 1
+017 =&gt; Mangkubumi 2
 
-018 =&gt; Mangkubumi 2
-
-019 =&gt; Eks Menara Kopi - A
+018 =&gt; Eks Menara Kopi - A
 
 019 =&gt; Kridosono
 
@@ -7526,7 +7817,7 @@
 045 =&gt; Terminal Jombor
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -7613,7 +7904,7 @@
 037 =&gt; Terminal Giwangan
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin7</styleUrl>
+			<styleUrl>#msn_ylw-pushpin70</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -7629,7 +7920,7 @@
 
 002 =&gt; PKU Gamping
 
-003 =&gt; Pasar Gamping
+003 =&gt; Pasar Gamping - A
 
 004 =&gt; Pelem Guriih - A
 
@@ -7703,10 +7994,12 @@
 
 039 =&gt; Pelem Gurih - B
 
-040 =&gt; Park and Ride Gamping
+040 =&gt; Pasar Gamping - B
+
+041 =&gt; Park and Ride Gamping
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin01</styleUrl>
+			<styleUrl>#msn_ylw-pushpin15</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -7722,76 +8015,86 @@
 
 002 =&gt;  UAD Ring Road Selatan - A
 
-003 =&gt; Pasar Telo - A
+003 =&gt; Wojo - A
 
-004 =&gt; Jogokariyan - A
+004 =&gt; Pasar Telo - A
 
-005 =&gt; Hotel Pramesthi
+005 =&gt; Jogokariyan - A
 
-006 =&gt;  Ruba Graha - A
+006 =&gt; Hotel Pramesthi
 
-007 =&gt; SMAN 7
+007 =&gt;  Ruba Graha - A
 
-008 =&gt; Tejokusuman
+008 =&gt; Suryodiningratan - A
 
-009 =&gt; Ngabean
+009 =&gt; SMAN 7
 
-010 =&gt; Pasar Serangan - A
+010 =&gt; Tejokusuman
 
-011 =&gt; SMAN 1 - A
+011 =&gt; Ngabean
 
-012 =&gt; SMPN 11 - A
+012 =&gt; Pasar Serangan - A
 
-013 =&gt; Perpusda
+013 =&gt; SMAN 1 - A
 
-014 =&gt; SMPN 14
+014 =&gt; SMPN 11 - A
 
-015 =&gt; Pasar Kranggan Selatan
+015 =&gt; Perpusda
 
-016 =&gt; Jend. Sudirman - B
+016 =&gt; SMPN 14
 
-017 =&gt; Dr. Yap
+017 =&gt; Pasar Kranggan Selatan
 
-018 =&gt; SMPN 1
+018 =&gt; Jend. Sudirman - B
 
-019 =&gt; RS Panti Rapih
+019 =&gt; Dr. Yap
 
-020 =&gt; Cik Di Tiro
+020 =&gt; SMPN 1 - A
 
-021 =&gt; Kridosono
+021 =&gt; SMPN 1 - B
 
-022 =&gt; Kotabaru
+022 =&gt; Cik Di Tiro
 
-023 =&gt; Jend. Sudirman - A
+023 =&gt; Bulog
 
-024 =&gt; Diponegoro
+024 =&gt; Kridosono
 
-025 =&gt; Samsat
+025 =&gt; Kotabaru
 
-026 =&gt; SMPN 11 - B
+026 =&gt; Jend. Sudirman - A
 
-027 =&gt; SMAN 1 - B
+027 =&gt; Diponegoro
 
-028 =&gt; Pasar Serangan - B
+028 =&gt; Samsat
 
-029 =&gt; Ngabean
+029 =&gt; SMPN 11 - B
 
-030 =&gt; Tamansari
+030 =&gt; SMAN 1 - B
 
-031 =&gt; Jokteng Kulon
+031 =&gt; Pasar Serangan - B
 
-032 =&gt; Ruba Graha - B
+032 =&gt; Ngabean
 
-033 =&gt; Jogokariyan - B
+033 =&gt; Tamansari
 
-034 =&gt; Pasar Telo - B
+034 =&gt; Jokteng Kulon
 
-035 =&gt; UAD Ring Road Selatan - B
+035 =&gt; Suryodiningratan - B
 
-036 =&gt; Terminal Giwangan
+036 =&gt; Ruba Graha - B
+
+037 =&gt; Jogokariyan - B
+
+038 =&gt; Pasar Telo - B
+
+039 =&gt; Wojo - B
+
+040 =&gt; UAD Ring Road Selatan - B
+
+041 =&gt; Terminal Giwangan
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin41</styleUrl>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -7815,7 +8118,7 @@
 
 006 =&gt; Samirono
 
-007 =&gt; Kosudgama - B
+007 =&gt; RS Panti Rapih
 
 008 =&gt; Vokasi UGM
 
@@ -7867,62 +8170,64 @@
 
 032 =&gt; SMPN 4 Pakem
 
-033 =&gt; Raminten - B
+033 =&gt; Dusun Kledokan
 
-034 =&gt; Simpang Degolan - B
+034 =&gt; Raminten - B
 
-035 =&gt; Boulevard UII
+035 =&gt; Simpang Degolan - B
 
-036 =&gt; UII (Timur Jalan)
+036 =&gt; Boulevard UII
 
-037 =&gt; YAKKUM - B
+037 =&gt; UII (Timur Jalan)
 
-038 =&gt; Simpang Besi Jakal - B
+038 =&gt; YAKKUM - B
 
-039 =&gt; Wedangan Kampoeng - B
+039 =&gt; Simpang Besi Jakal - B
 
-040 =&gt; SPBU Kaliurang - B
+040 =&gt; Wedangan Kampoeng - B
 
-041 =&gt;  SMPN 2 Ngaglik - B
+041 =&gt; SPBU Kaliurang - B
 
-042 =&gt; Puskesmas Ngaglik - B
+042 =&gt;  SMPN 2 Ngaglik - B
 
-043 =&gt; TK BIAS
+043 =&gt; Puskesmas Ngaglik - B
 
-044 =&gt; Simpang Palem Raya - B
+044 =&gt; TK BIAS
 
-045 =&gt; Gardu PLN - B
+045 =&gt; Simpang Palem Raya - B
 
-046 =&gt; Pasar Kolombo - B
+046 =&gt; Gardu PLN - B
 
-047 =&gt; Superindo Jakal - B
+047 =&gt; Pasar Kolombo - B
 
-048 =&gt; McD Jakal
+048 =&gt; Superindo Jakal - B
 
-049 =&gt; Biologi UGM
+049 =&gt; McD Jakal
 
-050 =&gt; RS Sardjito - A
+050 =&gt; Biologi UGM
 
-051 =&gt; FKG UGM - A
+051 =&gt; RS Sardjito - A
 
-052 =&gt; Kopma UGM
+052 =&gt; FKG UGM - A
 
-053 =&gt; Kosudgama - A
+053 =&gt; Kopma UGM
 
-054 =&gt; UNY Colombo
+054 =&gt; Kosudgama
 
-055 =&gt; Plaza UNY
+055 =&gt; UNY Colombo
 
-056 =&gt; Santren
+056 =&gt; Plaza UNY
 
-057=&gt; Prayan - A
+057 =&gt; Santren
 
-058 =&gt; SPBU Concat - A
+058=&gt; Prayan - A
 
-059 =&gt; Terminal Coindongcatur
+059 =&gt; SPBU Concat - A
+
+060 =&gt; Terminal Coindongcatur
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<styleUrl>#msn_ylw-pushpin7</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -7978,64 +8283,66 @@
 
 022 =&gt; Jend. Sudirman - B
 
-023 =&gt; Kridosono
+023 =&gt; Bulog
 
-024 =&gt; Eks Menara Kopi - B
+024 =&gt; Kridosono
 
-025 =&gt; Malioboro 1
+025 =&gt; Eks Menara Kopi - B
 
-026 =&gt; Malioboro 2
+026 =&gt; Malioboro 1
 
-027 =&gt; Malioboro 3
+027 =&gt; Malioboro 2
 
-028 =&gt; KHA Dahlan -  A
+028 =&gt; Malioboro 3
 
-029 =&gt; Ngabean
+029 =&gt; KHA Dahlan -  A
 
-030 =&gt; Pasar Serangan - A
+030 =&gt; Ngabean
 
-031 =&gt; SMAN 1 - A
+031 =&gt; Pasar Serangan - A
 
-032 =&gt; SMPN 11 - A
+032 =&gt; SMAN 1 - A
 
-033 =&gt; Mirota Godean - B
+033 =&gt; SMPN 11 - A
 
-034 =&gt; Dentes Godean
+034 =&gt; Mirota Godean - B
 
-035 =&gt; Pasar Tlogorejo - B
+035 =&gt; Dentes Godean
 
-036 =&gt; SDN 1 Demak Ijo - B
+036 =&gt; Pasar Tlogorejo - B
 
-037 =&gt; Kantor Pos Demak Ijo - B
+037 =&gt; SDN 1 Demak Ijo - B
 
-038 =&gt; Nogotirto (Metro) - B
+038 =&gt; Kantor Pos Demak Ijo - B
 
-039 =&gt; Toko Saerah - B
+039 =&gt; Nogotirto (Metro) - B
 
-040 =&gt; Kantor Kal. Sidoarum - B
+040 =&gt; Toko Saerah - B
 
-041 =&gt; Simpang Bantulan - B
+041 =&gt; Kantor Kal. Sidoarum - B
 
-042 =&gt; Simpang Mungggur - B
+042 =&gt; Simpang Bantulan - B
 
-043 =&gt; Simpang Gesikan - B
+043 =&gt; Simpang Mungggur - B
 
-044 =&gt; Indomaret Klajuran - B
+044 =&gt; Simpang Gesikan - B
 
-045 =&gt; Neutron Godean - B
+045 =&gt; Indomaret Klajuran - B
 
-046 =&gt; Polsek Godean - B
+046 =&gt; Neutron Godean - B
 
-047 =&gt; Koramil Godean - B
+047 =&gt; Polsek Godean - B
 
-048 =&gt; Simpang Mandungan (Iwak Kalen) - B
+048 =&gt; Koramil Godean - B
 
-049 =&gt; Kantor Kap. Godean - B
+049 =&gt; Simpang Mandungan (Iwak Kalen) - B
 
-050 =&gt; Pusat Kuliner Belut Godean
+050 =&gt; Kantor Kap. Godean - B
+
+051 =&gt; Pusat Kuliner Belut Godean
  
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin010</styleUrl>
+			<styleUrl>#msn_ylw-pushpin8</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -8091,7 +8398,7 @@
 
 022 =&gt; SMAN 2 Ngaglik - A
 
-023 =&gt; Simpang Losari (Cozy) - A
+023 =&gt; Simpang Losari - A
 
 024 =&gt; SPBU Mindi - A
 
@@ -8149,7 +8456,7 @@
 
 051 =&gt; SPBU Mindi - B
 
-052 =&gt; Simpang Losarri (Cozy) - B
+052 =&gt; Simpang Losarri - B
 
 053 =&gt; SMAN 2 Ngaglik - B
 
@@ -8200,7 +8507,7 @@
 076 =&gt; Bandara Adisutjipto
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin500</styleUrl>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -8226,7 +8533,7 @@
 
 007 =&gt; BRI Bantul
 
-008 =&gt; Karanggede
+008 =&gt; SMPN 2 Bantul - A
 
 009 =&gt; Kantor Kal. Pendowoharjo - A
 
@@ -8286,7 +8593,7 @@
 
 037 =&gt; Kantor Kal. Pendowoharjo - B
 
-038 =&gt; SMPN 2 Bantul
+038 =&gt; SMPN 2 Bantul - B
 
 039 =&gt; Kantor Kap. Bantul
 
@@ -8305,7 +8612,7 @@
 046 =&gt; Terminal Palbapang
 
 ! -- AKHIR /  END -- !</description>
-			<styleUrl>#msn_ylw-pushpin30</styleUrl>
+			<styleUrl>#msn_ylw-pushpin9</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -8393,368 +8700,6 @@
 				<maxSnippetLines>2</maxSnippetLines>
 			</ListStyle>
 		</Style>
-		<Placemark>
-			<name>00-C-Karanggede</name>
-			<description>15 _ Trans Jogja
-
-Tujuan / Destination =&gt; Kantor Kal. Pendowoharjo - A</description>
-			<LookAt>
-				<longitude>110.3361473216855</longitude>
-				<latitude>-7.874597309860776</latitude>
-				<altitude>0</altitude>
-				<heading>1.043770562664724</heading>
-				<tilt>0</tilt>
-				<range>220.359019227162</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_ylw-pushpin2</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>110.3358229308734,-7.87433153514455,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>01-N</name>
-			<LookAt>
-				<longitude>110.3236308649434</longitude>
-				<latitude>-7.800701212369427</latitude>
-				<altitude>0</altitude>
-				<heading>1.323568025156939</heading>
-				<tilt>26.04484453423123</tilt>
-				<range>203.2006040322537</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_ylw-pushpin3</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>110.3235507619767,-7.800741538173228,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>02-X-RS Queen Latifa</name>
-			<LookAt>
-				<longitude>110.3362008874178</longitude>
-				<latitude>-7.763199568908871</latitude>
-				<altitude>0</altitude>
-				<heading>108.8796315691826</heading>
-				<tilt>45.78053600655392</tilt>
-				<range>144.9291449723686</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_ylw-pushpin9</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>110.3363548923545,-7.763117060478833,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>03-C-SMPN 2 Bantul</name>
-			<description>15 _ Trans Jogja
-
-Tujuan / Destination =&gt; Kantor Kap. Bantul</description>
-			<LookAt>
-				<longitude>110.3362051620116</longitude>
-				<latitude>-7.874729405886111</latitude>
-				<altitude>0</altitude>
-				<heading>1.043762637186317</heading>
-				<tilt>0</tilt>
-				<range>220.3590192255043</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_ylw-pushpin8</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>110.3357432343284,-7.874908182520206,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>04-N</name>
-			<LookAt>
-				<longitude>110.4564877813582</longitude>
-				<latitude>-7.778341424376221</latitude>
-				<altitude>0</altitude>
-				<heading>-0.01048772588553857</heading>
-				<tilt>23.74128538007243</tilt>
-				<range>260.5133819881473</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_ylw-pushpin4</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>110.4560561675706,-7.778556076734876,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>05-C-Pasar Gamping</name>
-			<description>6 _ Trans Jogja
-
-Tujuan / Destination =&gt; Universitas BSI - B
-
-
-10 _ Trans Jogja
-
-Tujuan / Destination =&gt; Pelem Gurih - A</description>
-			<LookAt>
-				<longitude>110.3240914974764</longitude>
-				<latitude>-7.800587599062182</latitude>
-				<altitude>0</altitude>
-				<heading>0.006585175366694365</heading>
-				<tilt>21.62754098966401</tilt>
-				<range>196.6654476784685</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_ylw-pushpin0</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>110.3238105498283,-7.800627092999474,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>06-N</name>
-			<LookAt>
-				<longitude>110.4564796768085</longitude>
-				<latitude>-7.778378062930937</latitude>
-				<altitude>0</altitude>
-				<heading>-0.01048662927224856</heading>
-				<tilt>23.74128538007243</tilt>
-				<range>260.5133819862854</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_ylw-pushpin6</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>110.4561736375259,-7.778594441158798,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>07-N</name>
-			<LookAt>
-				<longitude>110.3749431905832</longitude>
-				<latitude>-7.784739312920798</latitude>
-				<altitude>0</altitude>
-				<heading>0.0001616190335084062</heading>
-				<tilt>30.00083438492223</tilt>
-				<range>184.8862365172996</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_ylw-pushpin1</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>110.3747078903986,-7.784968473259686,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>08-N</name>
-			<LookAt>
-				<longitude>110.3725752479478</longitude>
-				<latitude>-7.782114498902589</latitude>
-				<altitude>0</altitude>
-				<heading>145.7477864651737</heading>
-				<tilt>45.00062283118255</tilt>
-				<range>105.6206302341495</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_ylw-pushpin1</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>110.372528443687,-7.782018971329573,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>09-D-UKDW</name>
-			<description>2A _ Trans Jogja
-
-Tujuan / Destination =&gt; RS Bethesda</description>
-			<LookAt>
-				<longitude>110.3788509691111</longitude>
-				<latitude>-7.785493059094287</latitude>
-				<altitude>0</altitude>
-				<heading>-2.566735740922169</heading>
-				<tilt>11.90921644755564</tilt>
-				<range>242.7825144277194</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_ylw-pushpin9</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>110.3788426606391,-7.78552369956898,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>10-C-SD Gedong Tengen</name>
-			<description>1B _ Trans Jogja
-
-Tujuan / Destination =&gt; KS Tubun</description>
-			<LookAt>
-				<longitude>110.357567370817</longitude>
-				<latitude>-7.792379611177384</latitude>
-				<altitude>0</altitude>
-				<heading>1.369688485055543</heading>
-				<tilt>28.24457896036964</tilt>
-				<range>336.4356345103715</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_ylw-pushpin9</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>110.3569330463859,-7.792654845865781,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>11-C-Kosudgama - B</name>
-			<description>2B _ Trans Jogja
-
-Tujuan / Destination =&gt; RS Panti Rapih
-
-
-4A _ Trans Jogja
-
-Tujuan / Destination =&gt; RS Panti Rapih
-
-
-12 _ Trans Jogja
-
-Tujuan / Destination =&gt; Vokasi UGM</description>
-			<LookAt>
-				<longitude>110.3780804293299</longitude>
-				<latitude>-7.776143692985225</latitude>
-				<altitude>0</altitude>
-				<heading>-0.001267701628741458</heading>
-				<tilt>29.8829742322147</tilt>
-				<range>173.370506305261</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_ylw-pushpin9</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>110.378220285927,-7.776250787835195,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>12-C-Kosudgama - A</name>
-			<description>2A _ Trans Jogja
-
-Tujuan / Destination =&gt; UNY Colombo
-
-
-12 _ Trans Jogja
-
-Tujuan / Destination =&gt; UNY Colombo</description>
-			<LookAt>
-				<longitude>110.3782276939789</longitude>
-				<latitude>-7.776135773417171</latitude>
-				<altitude>0</altitude>
-				<heading>-0.001287627291888073</heading>
-				<tilt>29.88297439022664</tilt>
-				<range>173.4058974477955</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_ylw-pushpin9</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>110.3786103224876,-7.776170307629101,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>13-C-RS Panti Rapih</name>
-			<description>2B _ Trans Jogja
-
-Tujuan / Destination =&gt; Cik Di Tiro
-
-
-3A _ Trans Jogja
-
-Tujuan / Destination =&gt; Cik Di Tiro
-
-
-4A _ Trans Jogja
-
-Tujuan / Destination =&gt; Cik Di Tiro
-
-
-5A _ Trans Jogja
-
-Tujuan / Destination =&gt; Cik Di Tiro
-
-
-11 _ Trans Jogja
-
-Tujuan / Destination =&gt; Cik Di Tiro</description>
-			<LookAt>
-				<longitude>110.3757991801962</longitude>
-				<latitude>-7.777504629488567</latitude>
-				<altitude>0</altitude>
-				<heading>-0.003359365781036536</heading>
-				<tilt>23.99559451686653</tilt>
-				<range>194.5716906194419</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>110.3758496606723,-7.777807424326472,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>14-C-SMPN 1</name>
-			<description>2A _ Trans Jogja
-
-Tujuan / Destination =&gt; Kosudgama - A
-
-
-3B _ Trans Jogja
-
-Tujuan / Destination =&gt; Vokasi UGM
-
-
-4A _ Trans Jogja
-
-Tujuan / Destination =&gt; Vokasi UGM
-
-
-5B _ Trans Jogja
-
-Tujuan / Destination =&gt; SMPN 6
-
-
-11 _ Trans Jogja
-
-Tujuan / Destination =&gt; RS Panti Rapih</description>
-			<LookAt>
-				<longitude>110.3757797057396</longitude>
-				<latitude>-7.777541121462714</latitude>
-				<altitude>0</altitude>
-				<heading>-0.002825759102656331</heading>
-				<tilt>25.10132974327226</tilt>
-				<range>169.2600282503139</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>110.3758107782883,-7.77746825657524,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>15-C-Suroto</name>
-			<description>5B _ Trans Jogja
-
-Tujuan / Destination =&gt; Dr. Yap</description>
-			<LookAt>
-				<longitude>110.3747056023859</longitude>
-				<latitude>-7.784388558503259</latitude>
-				<altitude>0</altitude>
-				<heading>1.374539474418953</heading>
-				<tilt>28.65336582222281</tilt>
-				<range>200.1033072300557</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>110.3746714807051,-7.784523554531208,0</coordinates>
-			</Point>
-		</Placemark>
 		<Placemark>
 			<name>AA YKPN</name>
 			<description>1A _ Trans Jogja
@@ -9088,7 +9033,7 @@ Tujuan / Destination =&gt; Hyundai
 
 ! -- BERANGKAT / DEPARTURE -- ! 
 
-Tujuan / Destination =&gt; Disnakertrans - A
+Tujuan / Destination =&gt; KKP Yogyakarta
 
 
 3B _ Trans Jogja
@@ -9115,7 +9060,7 @@ Tujuan / Destination =&gt; KKP Yogyakarta</description>
 				<range>250.3623655790336</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin1061</styleUrl>
+			<styleUrl>#msn_wht-pushpin17</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4357118521903,-7.784496875236842,0</coordinates>
@@ -9362,7 +9307,7 @@ Tujuan / Destination =&gt; Atakrib</description>
 				<range>92.11110648159168</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin12</styleUrl>
+			<styleUrl>#msn_wht-pushpin121</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3561939451921,-7.78246479988358,0</coordinates>
@@ -9479,10 +9424,30 @@ Tujuan / Destination =&gt; UII (Timur Jalan)</description>
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>BPD Kalasan</name>
+			<description>1A _ Trans Jogja
+
+Tujuan / Destination =&gt; Pasar Kalasan - B</description>
+			<LookAt>
+				<longitude>110.4564877813582</longitude>
+				<latitude>-7.778341424376221</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01048772588553857</heading>
+				<tilt>23.74128538007243</tilt>
+				<range>260.5133819881473</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin14</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>110.4560561675706,-7.778556076734876,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>BRI Bantul</name>
 			<description>15 _ Trans Jogja
 
-Tujuan / Destination =&gt; Karanggede</description>
+Tujuan / Destination =&gt; SMPN 2 Bantul - A</description>
 			<LookAt>
 				<longitude>110.3329490948383</longitude>
 				<latitude>-7.881781178239581</latitude>
@@ -9492,7 +9457,7 @@ Tujuan / Destination =&gt; Karanggede</description>
 				<range>355.9943681104727</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin10020</styleUrl>
+			<styleUrl>#msn_wht-pushpin6</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.332318295976,-7.881989739844836,0</coordinates>
@@ -9539,30 +9504,85 @@ Tujuan / Destination =&gt; UNRIYO - B</description>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Cik Di Tiro</name>
+			<name>Bulog</name>
 			<description>2B _ Trans Jogja
 
-Tujuan / Destination =&gt; Kridosono
+Tujuan / Destination =&gt; Kridsono
 
 
 3A _ Trans Jogja
 
-Tujuan / Destination =&gt; Kridosono
+Tujuan / Destination =&gt; Kridsono
 
 
 4A _ Trans Jogja
 
-Tujuan / Destination =&gt; Kridosono
+Tujuan / Destination =&gt; Kridsono
+
+
+4B _ Trans Jogja
+
+Tujuan / Destination =&gt; Kridsono
 
 
 5A _ Trans Jogja
 
-Tujuan / Destination =&gt; Kridosono
+Tujuan / Destination =&gt; Kridsono
+
+
+5B _ Trans Jogja
+
+Tujuan / Destination =&gt; Kridsono
 
 
 11 _ Trans Jogja
 
-Tujuan / Destination =&gt; Kridosono</description>
+Tujuan / Destination =&gt; Kridsono
+
+
+13 _ Trans Jogja
+
+Tujuan / Destination =&gt; Kridsono</description>
+			<LookAt>
+				<longitude>110.3749431905832</longitude>
+				<latitude>-7.784739312920798</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001616190335084062</heading>
+				<tilt>30.00083438492223</tilt>
+				<range>184.8862365172996</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin49</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>110.3747078903986,-7.784968473259686,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cik Di Tiro</name>
+			<description>2B _ Trans Jogja
+
+Tujuan / Destination =&gt; Bulog
+
+
+3A _ Trans Jogja
+
+Tujuan / Destination =&gt; Bulog
+
+
+4A _ Trans Jogja
+
+Tujuan / Destination =&gt; Bulog
+
+
+5A _ Trans Jogja
+
+Tujuan / Destination =&gt; Bulog
+
+
+11 _ Trans Jogja
+
+Tujuan / Destination =&gt; Bulog</description>
 			<LookAt>
 				<longitude>110.3749662931668</longitude>
 				<latitude>-7.782361957682916</latitude>
@@ -9572,10 +9592,30 @@ Tujuan / Destination =&gt; Kridosono</description>
 				<range>92.14721313703789</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin49</styleUrl>
+			<styleUrl>#msn_wht-pushpin31</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3751039267179,-7.782356981091502,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cupuwatu</name>
+			<description>1A _ Trans Jogja
+
+Tujuan / Destination =&gt; KR - A</description>
+			<LookAt>
+				<longitude>110.4564796768085</longitude>
+				<latitude>-7.778378062930937</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01048662927224856</heading>
+				<tilt>23.74128538007243</tilt>
+				<range>260.5133819862854</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin14</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>110.4561736375259,-7.778594441158799,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -9622,7 +9662,7 @@ Tujuan / Destination =&gt; McD</description>
 				<range>84.52423831482014</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin40</styleUrl>
+			<styleUrl>#msn_wht-pushpin400</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3320082068989,-7.776496315213651,0</coordinates>
@@ -9858,27 +9898,27 @@ Tujuan / Destination =&gt; Pasar Niten - B</description>
 			<name>Dr. Yap</name>
 			<description>2A _ Trans Jogja
 
-Tujuan / Destination =&gt; SMPN 1
+Tujuan / Destination =&gt; SMPN 1 - A
 
 
 3B _ Trans Jogja
 
-Tujuan / Destination =&gt; SMPN 1
+Tujuan / Destination =&gt; SMPN 1 - A
 
 
 4A _ Trans Jogja
 
-Tujuan / Destination =&gt; SMPN 1
+Tujuan / Destination =&gt; SMPN 1 - A
 
 
 5B _ Trans Jogja
 
-Tujuan / Destination =&gt; SMPN 1
+Tujuan / Destination =&gt; SMPN 1 - A
 
 
 11 _ Trans Jogja
 
-Tujuan / Destination =&gt; SMPN 1</description>
+Tujuan / Destination =&gt; SMPN 1 - A</description>
 			<LookAt>
 				<longitude>110.3752052481147</longitude>
 				<latitude>-7.781114714259552</latitude>
@@ -10018,7 +10058,7 @@ Tujuan / Destination =&gt; RS Bhayangkara - A</description>
 				<range>431.1427265645224</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin54</styleUrl>
+			<styleUrl>#msn_wht-pushpin540</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4826509564291,-7.756753562176333,0</coordinates>
@@ -10113,7 +10153,7 @@ Tujuan / Destination =&gt; Kridosono</description>
 				<range>97.86732459160369</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<styleUrl>#msn_wht-pushpin150</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3701306436945,-7.789248165699828,0</coordinates>
@@ -10617,7 +10657,7 @@ Tujuan / Destination =&gt; Museum Bahari</description>
 				<range>155.0527029556154</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin11</styleUrl>
+			<styleUrl>#msn_wht-pushpin112</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3514994307522,-7.802065902874477,0</coordinates>
@@ -10637,7 +10677,7 @@ Tujuan / Destination =&gt; Jogokariyan - B</description>
 				<range>149.8584181037866</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin28</styleUrl>
+			<styleUrl>#msn_wht-pushpin280</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3683944199677,-7.815674757904296,0</coordinates>
@@ -11099,7 +11139,7 @@ Tujuan / Destination =&gt; Diponegoro</description>
 				<range>200.1609002484614</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin20</styleUrl>
+			<styleUrl>#msn_wht-pushpin200</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3695503467615,-7.782987636501905,0</coordinates>
@@ -11169,7 +11209,7 @@ Tujuan / Destination =&gt; Teras 2</description>
 				<range>234.5521389672381</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin7</styleUrl>
+			<styleUrl>#msn_wht-pushpin70</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3680595692046,-7.794209492698625,0</coordinates>
@@ -11227,6 +11267,26 @@ Tujuan / Destination =&gt; Simpang Kabunan - B</description>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4419171811613,-7.714560851223359,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jl. Suroto</name>
+			<description>5B _ Trans Jogja
+
+Tujuan / Destination =&gt; Dr. Yap</description>
+			<LookAt>
+				<longitude>110.3747056023859</longitude>
+				<latitude>-7.784388558503259</latitude>
+				<altitude>0</altitude>
+				<heading>1.374539474418953</heading>
+				<tilt>28.65336582222281</tilt>
+				<range>200.1033072300557</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin18</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>110.3746714807051,-7.784523554531208,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -11328,7 +11388,7 @@ Tujuan / Destination =&gt; Purawisata - A</description>
 				<range>178.5615093919608</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin23</styleUrl>
+			<styleUrl>#msn_wht-pushpin231</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3693016824951,-7.806218137285512,0</coordinates>
@@ -11398,7 +11458,7 @@ Tujuan / Destination =&gt; Plengkung Gading - A
 
 11 _ Trans Jogja
 
-Tujuan / Destination =&gt; Ruba Graha - B</description>
+Tujuan / Destination =&gt; Suryodiningratan - B</description>
 			<LookAt>
 				<longitude>110.3573783936831</longitude>
 				<latitude>-7.812927789457216</latitude>
@@ -11408,7 +11468,7 @@ Tujuan / Destination =&gt; Ruba Graha - B</description>
 				<range>180.8993159874032</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin27</styleUrl>
+			<styleUrl>#msn_wht-pushpin0013</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3573457352515,-7.813247010420418,0</coordinates>
@@ -11463,7 +11523,7 @@ Tujuan / Destination =&gt; Kantor Kesbangpol - A</description>
 			<name>Kantor Kal. Pendowoharjo - B</name>
 			<description>15 _ Trans Jogja
 
-Tujuan / Destination =&gt; SMPN 2 Bantul</description>
+Tujuan / Destination =&gt; SMPN 2 Bantul - B</description>
 			<LookAt>
 				<longitude>110.3396655674399</longitude>
 				<latitude>-7.863890664626281</latitude>
@@ -11473,7 +11533,7 @@ Tujuan / Destination =&gt; SMPN 2 Bantul</description>
 				<range>293.6999486427657</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin10020</styleUrl>
+			<styleUrl>#msn_wht-pushpin11</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3395026999057,-7.863684657970809,0</coordinates>
@@ -11713,7 +11773,7 @@ Tujuan / Destination =&gt; Kantor Kal. Pendowoharjo - B</description>
 				<range>177.0957178445375</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin10020</styleUrl>
+			<styleUrl>#msn_wht-pushpin4</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.34138014991,-7.856744316401182,0</coordinates>
@@ -12051,7 +12111,7 @@ Tujuan / Destination =&gt; Pasar Serangan - A</description>
 				<range>130.5417602677423</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin0</styleUrl>
+			<styleUrl>#msn_wht-pushpin00</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3601332458649,-7.801281410428291,0</coordinates>
@@ -12109,7 +12169,12 @@ Tujuan / Destination =&gt; Bhayangkara</description>
 		</Placemark>
 		<Placemark>
 			<name>KKP Yogyakarta</name>
-			<description>14 _ Trans Jogja
+			<description>3A_ Trans Jogja
+
+Tujuan / Destination =&gt; Disnakertrans - A
+
+
+14 _ Trans Jogja
 
 Tujuan / Destination =&gt; Disnakertrans - A</description>
 			<LookAt>
@@ -12121,7 +12186,7 @@ Tujuan / Destination =&gt; Disnakertrans - A</description>
 				<range>129.0989089714014</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin3005</styleUrl>
+			<styleUrl>#msn_wht-pushpin2</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4298947038487,-7.782053361232953,0</coordinates>
@@ -12151,17 +12216,17 @@ Tujuan / Destination =&gt; RS Hardjolukito</description>
 			<name>Kopma UGM</name>
 			<description>3A _ Trans Jogja
 
-Tujuan / Destination =&gt; RS Panti Rapih
+Tujuan / Destination =&gt; SMPN 1 - B
 
 
 4B _ Trans Jogja
 
-Tujuan / Destination =&gt; Kridosono
+Tujuan / Destination =&gt; PDIN
 
 
 12 _ Trans Jogja
 
-Tujuan / Destination =&gt; Kosudgama - A</description>
+Tujuan / Destination =&gt; Kosudgama</description>
 			<LookAt>
 				<longitude>110.3751246328501</longitude>
 				<latitude>-7.774205080515418</latitude>
@@ -12171,7 +12236,7 @@ Tujuan / Destination =&gt; Kosudgama - A</description>
 				<range>116.2411921804735</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin12500</styleUrl>
+			<styleUrl>#msn_wht-pushpin40</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.375122427873,-7.774326485153363,0</coordinates>
@@ -12233,6 +12298,31 @@ Tujuan / Destination =&gt; Simpang Mandungan (Iwak Kalen) - B</description>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3068132700207,-7.771066834056486,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kosudgama</name>
+			<description>2A _ Trans Jogja
+
+Tujuan / Destination =&gt; UNY Colombo
+
+
+12 _ Trans Jogja
+
+Tujuan / Destination =&gt; UNY Colombo</description>
+			<LookAt>
+				<longitude>110.3782276939789</longitude>
+				<latitude>-7.776135773417171</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001287627291888073</heading>
+				<tilt>29.88297439022664</tilt>
+				<range>173.4058974477955</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>110.3786103224876,-7.776170307629101,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -12299,7 +12389,7 @@ Tujuan / Destination =&gt; Bandara Adisutjipto</description>
 			<name>KR - B</name>
 			<description>1A _ Trans Jogja
 
-Tujuan / Destination =&gt; Pasar Kalasan - B</description>
+Tujuan / Destination =&gt; BPD Kalasan</description>
 			<LookAt>
 				<longitude>110.4490617731503</longitude>
 				<latitude>-7.782262914643193</latitude>
@@ -12309,7 +12399,7 @@ Tujuan / Destination =&gt; Pasar Kalasan - B</description>
 				<range>294.2500425932399</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin10001</styleUrl>
+			<styleUrl>#msn_wht-pushpin35</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4487230798708,-7.782553626048058,0</coordinates>
@@ -12339,7 +12429,7 @@ Tujuan / Destination =&gt; Eks Menara Kopi - B
 
 4A _ Trans Jogja
 
-Tujuan / Destination =&gt; RS Bethesda
+Tujuan / Destination =&gt; UKDW
 
 
 4A _ Trans Jogja
@@ -12359,7 +12449,7 @@ Tujuan / Destination =&gt; AA YKPN
 
 5B _ Trans Jogja
 
-Tujuan / Destination =&gt; Suroto
+Tujuan / Destination =&gt; Jl. Suroto
 
 
 8 _ Trans Jogja
@@ -12394,7 +12484,7 @@ Tujuan / Destination =&gt; Eks Menara Kopi - B</description>
 				<range>124.9776294473998</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin48</styleUrl>
+			<styleUrl>#msn_wht-pushpin1</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3753668197951,-7.787320558300743,0</coordinates>
@@ -12642,7 +12732,7 @@ Tujuan / Destination =&gt; STSRD Visi Tamansiswa</description>
 			<name>Lembah UGM - A</name>
 			<description>4A _ Trans Jogja
 
-Tujuan / Destination =&gt; Kosudgama - B</description>
+Tujuan / Destination =&gt; RS Panti Rapih</description>
 			<LookAt>
 				<longitude>110.3820612781548</longitude>
 				<latitude>-7.772334325839855</latitude>
@@ -12652,7 +12742,7 @@ Tujuan / Destination =&gt; Kosudgama - B</description>
 				<range>144.8589293393508</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin1400</styleUrl>
+			<styleUrl>#msn_wht-pushpin26</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3822829025151,-7.772457521885602,0</coordinates>
@@ -12692,7 +12782,7 @@ Tujuan / Destination =&gt; Kridosono</description>
 				<range>101.1033722240697</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin112</styleUrl>
+			<styleUrl>#msn_wht-pushpin16</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3735408200255,-7.790495493301218,0</coordinates>
@@ -12727,7 +12817,7 @@ Tujuan / Destination =&gt; Stasiun Lempuyangan</description>
 			<name>Letjen Suprapto</name>
 			<description>1B _ Trans Jogja
 
-Tujuan / Destination =&gt;  SD Gedong Tengen</description>
+Tujuan / Destination =&gt;  SDN Gedong Tengen</description>
 			<LookAt>
 				<longitude>110.3573963563138</longitude>
 				<latitude>-7.790768859383957</latitude>
@@ -12737,7 +12827,7 @@ Tujuan / Destination =&gt;  SD Gedong Tengen</description>
 				<range>92.47170280822692</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin161</styleUrl>
+			<styleUrl>#msn_wht-pushpin26</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3574368532155,-7.790841209618794,0</coordinates>
@@ -13056,7 +13146,7 @@ Tujuan / Destination =&gt; Malioboro 2</description>
 				<range>268.1945226758477</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin17</styleUrl>
+			<styleUrl>#msn_wht-pushpin174</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3661219733453,-7.790849355492073,0</coordinates>
@@ -13116,7 +13206,7 @@ Tujuan / Destination =&gt; Malioboro 3</description>
 				<range>276.0271634063338</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin17</styleUrl>
+			<styleUrl>#msn_wht-pushpin174</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3655917053972,-7.795218989194843,0</coordinates>
@@ -13330,7 +13420,7 @@ Tujuan / Destination =&gt; Mangkubumi 2</description>
 				<range>165.146542131834</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin30</styleUrl>
+			<styleUrl>#msn_wht-pushpin301</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3668631453825,-7.784762988708513,0</coordinates>
@@ -13615,7 +13705,7 @@ Tujuan / Destination =&gt; Tejokusuman</description>
 				<range>85.87472224538487</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin1</styleUrl>
+			<styleUrl>#msn_wht-pushpin10</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3509511223963,-7.807874951280417,0</coordinates>
@@ -13640,7 +13730,7 @@ Tujuan / Destination =&gt; SMP Muh 3 - B</description>
 				<range>66.3178086861944</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin2</styleUrl>
+			<styleUrl>#msn_wht-pushpin28</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.352263179975,-7.808111035677529,0</coordinates>
@@ -13859,10 +13949,30 @@ Tujuan / Destination =&gt; KHA Dahlan - B</description>
 				<range>120.4470261231375</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin9</styleUrl>
+			<styleUrl>#msn_wht-pushpin92</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3562356047293,-7.803719423352623,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nitikan</name>
+			<description>3B _ Trans Jogja
+
+Tujuan / Destination =&gt; Widya Wiwaha - B</description>
+			<LookAt>
+				<longitude>110.3798787662014</longitude>
+				<latitude>-7.82472683311933</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001240087331260898</heading>
+				<tilt>24.02396670414662</tilt>
+				<range>145.2080398123643</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin0013</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>110.3799829490513,-7.824797204452564,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -13879,7 +13989,7 @@ Tujuan / Destination =&gt; Universitas Aisyiyah</description>
 				<range>336.9110745406514</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin5</styleUrl>
+			<styleUrl>#msn_wht-pushpin54</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3332596413667,-7.772095524560919,0</coordinates>
@@ -14119,6 +14229,56 @@ Tujuan / Destination =&gt; Eks Stasiun Bantul</description>
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Pasar Gamping - A</name>
+			<description>6 _ Trans Jogja
+
+Tujuan / Destination =&gt; Universitas BSI - B
+
+
+10 _ Trans Jogja
+
+Tujuan / Destination =&gt; Pelem Gurih - A</description>
+			<LookAt>
+				<longitude>110.3240914974764</longitude>
+				<latitude>-7.800587599062182</latitude>
+				<altitude>0</altitude>
+				<heading>0.006585175366694365</heading>
+				<tilt>21.62754098966401</tilt>
+				<range>196.6654476784685</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>110.3238105498283,-7.800627092999474,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pasar Gamping - B</name>
+			<description>6 _ Trans Jogja
+
+Tujuan / Destination =&gt; Park and Ride Gamping
+
+
+10 _ Trans Jogja
+
+Tujuan / Destination =&gt; Park and Ride Gamping</description>
+			<LookAt>
+				<longitude>110.3236308649434</longitude>
+				<latitude>-7.800701212369427</latitude>
+				<altitude>0</altitude>
+				<heading>1.323568025156939</heading>
+				<tilt>26.04484453423123</tilt>
+				<range>203.2006040322537</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin7</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>110.3235507619767,-7.800741538173228,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Pasar Giwangan - A</name>
 			<description>3A _ Trans Jogja
 
@@ -14242,7 +14402,7 @@ Tujuan / Destination =&gt; RS Bhayangkara - B</description>
 				<range>229.5681874376031</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin54</styleUrl>
+			<styleUrl>#msn_wht-pushpin540</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4689930749949,-7.769912653769901,0</coordinates>
@@ -14252,7 +14412,7 @@ Tujuan / Destination =&gt; RS Bhayangkara - B</description>
 			<name>Pasar Kalasan - A</name>
 			<description>1A _ Trans Jogja
 
-Tujuan / Destination =&gt; KR - A</description>
+Tujuan / Destination =&gt; Cupuwatu</description>
 			<LookAt>
 				<longitude>110.4692729627897</longitude>
 				<latitude>-7.769698783739742</latitude>
@@ -14262,7 +14422,7 @@ Tujuan / Destination =&gt; KR - A</description>
 				<range>221.7916122590649</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin10001</styleUrl>
+			<styleUrl>#msn_wht-pushpin21</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4696318273989,-7.769382287646733,0</coordinates>
@@ -14342,7 +14502,7 @@ Tujuan / Destination =&gt; Jend. Sudirman - B</description>
 				<range>153.177704725004</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin18</styleUrl>
+			<styleUrl>#msn_wht-pushpin182</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3656590840098,-7.782844613090249,0</coordinates>
@@ -14497,7 +14657,7 @@ Tujuan / Destination =&gt; Nyutran Tamansiswa</description>
 				<range>207.679380390464</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin35</styleUrl>
+			<styleUrl>#msn_wht-pushpin351</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3803637113587,-7.816357807274519,0</coordinates>
@@ -14537,7 +14697,7 @@ Tujuan / Destination =&gt; SMP Muh 3 - A</description>
 				<range>134.1610423571013</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin0</styleUrl>
+			<styleUrl>#msn_wht-pushpin00</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3542346322114,-7.801111759921649,0</coordinates>
@@ -14562,7 +14722,7 @@ Tujuan / Destination =&gt; Ngabean</description>
 				<range>264.3971611937727</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin3</styleUrl>
+			<styleUrl>#msn_wht-pushpin30</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3531837281191,-7.800997701288461,0</coordinates>
@@ -14592,7 +14752,7 @@ Tujuan / Destination =&gt; Jogokariyan - A</description>
 			<name>Pasar Telo - B</name>
 			<description>11 _ Trans Jogja
 
-Tujuan / Destination =&gt; UAD Ring Road Selatan - B</description>
+Tujuan / Destination =&gt; Wojo - B</description>
 			<LookAt>
 				<longitude>110.3734783136836</longitude>
 				<latitude>-7.825496199039888</latitude>
@@ -14602,7 +14762,7 @@ Tujuan / Destination =&gt; UAD Ring Road Selatan - B</description>
 				<range>213.0012248688012</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin140</styleUrl>
+			<styleUrl>#msn_wht-pushpin0013</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.373470218022,-7.825691950199362,0</coordinates>
@@ -14714,6 +14874,26 @@ Tujuan / Destination =&gt; Teknik UGM - B</description>
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>PDIN</name>
+			<description>4B _ Trans Jogja
+
+Tujuan / Destination =&gt; Bulog</description>
+			<LookAt>
+				<longitude>110.3725752479478</longitude>
+				<latitude>-7.782114498902589</latitude>
+				<altitude>0</altitude>
+				<heading>145.7477864651737</heading>
+				<tilt>45.00062283118255</tilt>
+				<range>105.6206302341495</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin40</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>110.372528443687,-7.782018971329573,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Pegadaian</name>
 			<description>3B _ Trans Jogja
 
@@ -14757,7 +14937,7 @@ Tujuan / Destination =&gt; Bayeman - A</description>
 			<name>Pelem Gurih - B</name>
 			<description>10 _ Trans Jogja
 
-Tujuan / Destination =&gt; Park and Ride Gamping</description>
+Tujuan / Destination =&gt; Pasar Gamping - B</description>
 			<LookAt>
 				<longitude>110.3312528193389</longitude>
 				<latitude>-7.799689954705195</latitude>
@@ -14767,7 +14947,7 @@ Tujuan / Destination =&gt; Park and Ride Gamping</description>
 				<range>290.0906271250189</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin180</styleUrl>
+			<styleUrl>#msn_wht-pushpin26</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.330738481739,-7.799983199886683,0</coordinates>
@@ -14787,7 +14967,7 @@ Tujuan / Destination =&gt; Diklat PU</description>
 				<range>154.9165170104583</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin14</styleUrl>
+			<styleUrl>#msn_wht-pushpin140</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.392282967376,-7.818329470092474,0</coordinates>
@@ -14807,7 +14987,7 @@ Tujuan / Destination =&gt; Gambiran - B</description>
 				<range>170.7823472783724</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin14</styleUrl>
+			<styleUrl>#msn_wht-pushpin140</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3919318801638,-7.818310838385391,0</coordinates>
@@ -14867,7 +15047,7 @@ Tujuan / Destination =&gt; Demak Ijo - A</description>
 				<range>341.4618000575845</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin40</styleUrl>
+			<styleUrl>#msn_wht-pushpin400</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3361551718011,-7.763688657211908,0</coordinates>
@@ -14911,12 +15091,12 @@ Tujuan / Destination =&gt; Banguntapan - A</description>
 			<name>PKU Gamping</name>
 			<description>6 _ Trans Jogja
 
-Tujuan / Destination =&gt; Pasar Gamping
+Tujuan / Destination =&gt; Pasar Gamping - A
 
 
 10 _ Trans Jogja
 
-Tujuan / Destination =&gt; Pasar Gamping</description>
+Tujuan / Destination =&gt; Pasar Gamping - A</description>
 			<LookAt>
 				<longitude>110.316787634513</longitude>
 				<latitude>-7.801863219307346</latitude>
@@ -14926,7 +15106,7 @@ Tujuan / Destination =&gt; Pasar Gamping</description>
 				<range>90.77989694079221</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin3200</styleUrl>
+			<styleUrl>#msn_wht-pushpin15</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3167896535923,-7.801880444939693,0</coordinates>
@@ -14976,7 +15156,7 @@ Tujuan / Destination =&gt; Hotel Noola</description>
 				<range>87.60469274994297</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin28</styleUrl>
+			<styleUrl>#msn_wht-pushpin280</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3639008033919,-7.814170758045029,0</coordinates>
@@ -15528,7 +15708,7 @@ Tujuan / Destination =&gt; Dr. Yap
 
 5B _ Trans Jogja
 
-Tujuan / Destination =&gt; Kridosono</description>
+Tujuan / Destination =&gt; Bulog</description>
 			<LookAt>
 				<longitude>110.3782033482007</longitude>
 				<latitude>-7.782870247183726</latitude>
@@ -15538,7 +15718,7 @@ Tujuan / Destination =&gt; Kridosono</description>
 				<range>182.1896309022347</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin20</styleUrl>
+			<styleUrl>#msn_wht-pushpin12</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3780171349039,-7.783037414855128,0</coordinates>
@@ -15720,6 +15900,36 @@ Tujuan / Destination =&gt; Terminal Pakem</description>
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>RS Panti Rapih</name>
+			<description>2B _ Trans Jogja
+
+Tujuan / Destination =&gt; SMPN 1 - B
+
+
+4A _ Trans Jogja
+
+Tujuan / Destination =&gt; SMPN 1 - B
+
+
+12 _ Trans Jogja
+
+Tujuan / Destination =&gt; Vokasi UGM</description>
+			<LookAt>
+				<longitude>110.3780804293299</longitude>
+				<latitude>-7.776143692985225</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001267701628741458</heading>
+				<tilt>29.8829742322147</tilt>
+				<range>173.370506305261</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin3</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>110.378220285927,-7.776250787835195,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>RS Sardjito - A</name>
 			<description>3A _ Trans Jogja
 
@@ -15833,7 +16043,7 @@ Tujuan / Destination =&gt; SDN Selomulyo - B</description>
 			<name>Ruba Graha - A</name>
 			<description>11 _ Trans Jogja
 
-Tujuan / Destination =&gt; SMAN 7</description>
+Tujuan / Destination =&gt; Suryodiningratan - A</description>
 			<LookAt>
 				<longitude>110.3622474126061</longitude>
 				<latitude>-7.820781953662958</latitude>
@@ -15843,7 +16053,7 @@ Tujuan / Destination =&gt; SMAN 7</description>
 				<range>166.8776501878544</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin118</styleUrl>
+			<styleUrl>#msn_wht-pushpin0013</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3619944762736,-7.82088277753869,0</coordinates>
@@ -16133,6 +16343,26 @@ Tujuan / Destination =&gt; SMKN 1 Depok - Jl. Raya Tajem - B</description>
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>SDN Gedong Tengen</name>
+			<description>1B _ Trans Jogja
+
+Tujuan / Destination =&gt; KS Tubun</description>
+			<LookAt>
+				<longitude>110.357567370817</longitude>
+				<latitude>-7.792379611177384</latitude>
+				<altitude>0</altitude>
+				<heading>1.369688485055543</heading>
+				<tilt>28.24457896036964</tilt>
+				<range>336.4356345103715</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin26</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>110.3569330463859,-7.792654845865781,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>SDN Kintelan 1</name>
 			<description>2A _ Trans Jogja
 
@@ -16352,7 +16582,7 @@ Tujuan / Destination =&gt; TNI AL - B</description>
 				<range>195.914658216658</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin121</styleUrl>
+			<styleUrl>#msn_wht-pushpin1211</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3933762444618,-7.802161927973887,0</coordinates>
@@ -16811,7 +17041,7 @@ Tujuan / Destination =&gt; RS Kemasan - B</description>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Simpang Losari (Cozy) - A</name>
+			<name>Simpang Losari - A</name>
 			<description>14 _Trans Jogja
 
 Tujuan / Destination =&gt; SPBU Mindi - A</description>
@@ -16833,14 +17063,14 @@ Tujuan / Destination =&gt; SPBU Mindi - A</description>
 				<range>284.6568615956903</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin10020</styleUrl>
+			<styleUrl>#msn_wht-pushpin00110</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4330055169358,-7.704851279442943,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Simpang Losari (Cozy) - B</name>
+			<name>Simpang Losari - B</name>
 			<description>14 _Trans Jogja
 
 Tujuan / Destination =&gt; SMAN 2 Ngaglik - B</description>
@@ -16853,7 +17083,7 @@ Tujuan / Destination =&gt; SMAN 2 Ngaglik - B</description>
 				<range>272.1929733622097</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin2110</styleUrl>
+			<styleUrl>#msn_wht-pushpin00110</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4331447380306,-7.704803679896029,0</coordinates>
@@ -17069,7 +17299,7 @@ Tujuan / Destination =&gt; Druwo - A</description>
 				<range>88.176534618495</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin121</styleUrl>
+			<styleUrl>#msn_wht-pushpin1211</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3737759531005,-7.836372311507519,0</coordinates>
@@ -17199,7 +17429,7 @@ Tujuan / Destination =&gt; Terminal Palbapang</description>
 			<name>SMAN 2 Ngaglik - A</name>
 			<description>14 _Trans Jogja
  
-Tujuan / Destination =&gt; Simpang Losari (Cozy) - A</description>
+Tujuan / Destination =&gt; Simpang Losari - A</description>
 			<LookAt>
 				<longitude>110.4353542277437</longitude>
 				<latitude>-7.704724134272717</latitude>
@@ -17209,7 +17439,7 @@ Tujuan / Destination =&gt; Simpang Losari (Cozy) - A</description>
 				<range>287.7753736165028</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin10020</styleUrl>
+			<styleUrl>#msn_wht-pushpin00110</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4350102560816,-7.704858387966248,0</coordinates>
@@ -17411,7 +17641,7 @@ Tujuan / Destination =&gt; Binamarga</description>
 				<range>214.0427930234289</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin174</styleUrl>
+			<styleUrl>#msn_wht-pushpin1740</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4311030123088,-7.7664832692276,0</coordinates>
@@ -17436,7 +17666,7 @@ Tujuan / Destination =&gt; RS Panti Rapih</description>
 				<range>236.1297446669202</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin42</styleUrl>
+			<styleUrl>#msn_wht-pushpin420</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3668284308403,-7.77797882035933,0</coordinates>
@@ -17526,7 +17756,7 @@ Tujuan / Destination =&gt; Jl. Mataram</description>
 				<range>83.97826935504767</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin700</styleUrl>
+			<styleUrl>#msn_wht-pushpin7000</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3777844577984,-7.795696560817533,0</coordinates>
@@ -17551,7 +17781,7 @@ Tujuan / Destination =&gt; Mualimin - A</description>
 				<range>257.5221645288969</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin0</styleUrl>
+			<styleUrl>#msn_wht-pushpin00</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3514020068731,-7.802915646365857,0</coordinates>
@@ -17571,10 +17801,90 @@ Tujuan / Destination =&gt; Hotel Andika Putera</description>
 				<range>486.5910695554978</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin4</styleUrl>
+			<styleUrl>#msn_wht-pushpin410</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3505388518733,-7.806729532514925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SMPN 1 - A</name>
+			<description>2A _ Trans Jogja
+
+Tujuan / Destination =&gt; Kosudgama
+
+
+3B _ Trans Jogja
+
+Tujuan / Destination =&gt; Vokasi UGM
+
+
+4A _ Trans Jogja
+
+Tujuan / Destination =&gt; Vokasi UGM
+
+
+5B _ Trans Jogja
+
+Tujuan / Destination =&gt; SMPN 6
+
+
+11 _ Trans Jogja
+
+Tujuan / Destination =&gt; SMPN 1 - B</description>
+			<LookAt>
+				<longitude>110.3757797057396</longitude>
+				<latitude>-7.777541121462714</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002825759102656331</heading>
+				<tilt>25.10132974327226</tilt>
+				<range>169.2600282503139</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin42</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>110.3758107782883,-7.77746825657524,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SMPN 1 - B</name>
+			<description>2B _ Trans Jogja
+
+Tujuan / Destination =&gt; Cik Di Tiro
+
+
+3A _ Trans Jogja
+
+Tujuan / Destination =&gt; Cik Di Tiro
+
+
+4A _ Trans Jogja
+
+Tujuan / Destination =&gt; Cik Di Tiro
+
+
+5A _ Trans Jogja
+
+Tujuan / Destination =&gt; Cik Di Tiro
+
+
+11 _ Trans Jogja
+
+Tujuan / Destination =&gt; Cik Di Tiro</description>
+			<LookAt>
+				<longitude>110.3757991801962</longitude>
+				<latitude>-7.777504629488567</latitude>
+				<altitude>0</altitude>
+				<heading>-0.003359365781036536</heading>
+				<tilt>23.99559451686653</tilt>
+				<range>194.5716906194419</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>110.3758496606723,-7.777807424326472,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -17678,6 +17988,46 @@ Tujuan / Destination =&gt; Pasar Kranggan Selatan</description>
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>SMPN 2 Bantul - A</name>
+			<description>15 _ Trans Jogja
+
+Tujuan / Destination =&gt; Kantor Kal. Pendowoharjo - A</description>
+			<LookAt>
+				<longitude>110.3361473216855</longitude>
+				<latitude>-7.874597309860776</latitude>
+				<altitude>0</altitude>
+				<heading>1.043770562664724</heading>
+				<tilt>0</tilt>
+				<range>220.359019227162</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin23</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>110.3358229308734,-7.87433153514455,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SMPN 2 Bantul - B</name>
+			<description>15 _ Trans Jogja
+
+Tujuan / Destination =&gt; Kantor Kap. Bantul</description>
+			<LookAt>
+				<longitude>110.3362051620116</longitude>
+				<latitude>-7.874729405886111</latitude>
+				<altitude>0</altitude>
+				<heading>1.043762637186317</heading>
+				<tilt>0</tilt>
+				<range>220.3590192255043</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>110.3357432343284,-7.874908182520206,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>SMPN 2 Ngaglik - A</name>
 			<description>12 _ Trans Jogja
 
@@ -17736,7 +18086,7 @@ Tujuan / Destination =&gt; Dusun Kledokan - B</description>
 				<range>142.4062907824225</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin150</styleUrl>
+			<styleUrl>#msn_wht-pushpin1500</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4176423080247,-7.669214695216644,0</coordinates>
@@ -17821,26 +18171,6 @@ Tujuan / Destination =&gt; Basen</description>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Sorogenen, Nitikan</name>
-			<description>3B _ Trans Jogja
-
-Tujuan / Destination =&gt; Widya Wiwaha - B</description>
-			<LookAt>
-				<longitude>110.3798787662014</longitude>
-				<latitude>-7.82472683311933</latitude>
-				<altitude>0</altitude>
-				<heading>-0.001240087331260898</heading>
-				<tilt>24.02396670414662</tilt>
-				<range>145.2080398123643</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_wht-pushpin37</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>110.3799829490513,-7.824797204452564,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>Sosrowijayan</name>
 			<description>3B _ Trans Jogja
 
@@ -17864,7 +18194,7 @@ Tujuan / Destination =&gt; Stasiun Yogyakarta</description>
 				<range>102.2848147759404</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin21</styleUrl>
+			<styleUrl>#msn_wht-pushpin211</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3616177790528,-7.79206983246784,0</coordinates>
@@ -17889,7 +18219,7 @@ Tujuan / Destination =&gt; Terminal Condongcatur</description>
 				<range>273.5934373774062</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin10</styleUrl>
+			<styleUrl>#msn_wht-pushpin100</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3949352177448,-7.759984739990121,0</coordinates>
@@ -18033,7 +18363,7 @@ Tujuan / Destination =&gt; Lap. Klidon - A</description>
 			<name>SPBU Mindi - B</name>
 			<description>14 _Trans Jogja
 
-Tujuan / Destination =&gt; Simpang Losari (Cozy) - B</description>
+Tujuan / Destination =&gt; Simpang Losari - B</description>
 			<LookAt>
 				<gx:TimeSpan>
 					<begin>2024-09-30T09:50:12.6091105Z</begin>
@@ -18052,7 +18382,7 @@ Tujuan / Destination =&gt; Simpang Losari (Cozy) - B</description>
 				<range>202.9369989847409</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin2110</styleUrl>
+			<styleUrl>#msn_wht-pushpin00110</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.4311685991025,-7.704812633360296,0</coordinates>
@@ -18107,7 +18437,7 @@ Tujuan / Destination =&gt; Jlagran</description>
 				<range>134.1015740692526</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin21</styleUrl>
+			<styleUrl>#msn_wht-pushpin211</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3617238618521,-7.789651286974949,0</coordinates>
@@ -18294,6 +18624,46 @@ Tujuan / Destination =&gt; RS Bethesda</description>
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>Suryodiningratan - A</name>
+			<description>11 _ Trans Jogja
+
+Tujuan / Destination =&gt; SMAN 7</description>
+			<LookAt>
+				<longitude>110.3622389840324</longitude>
+				<latitude>-7.818502041488801</latitude>
+				<altitude>0</altitude>
+				<heading>-0.4811011428664957</heading>
+				<tilt>10.37324695026155</tilt>
+				<range>222.927646695807</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin0013</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>110.3621057857892,-7.818459555026094,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Suryodiningratan - B</name>
+			<description>11 _ Trans Jogja
+
+Tujuan / Destination =&gt; Ruba Graha - B</description>
+			<LookAt>
+				<longitude>110.3622389840324</longitude>
+				<latitude>-7.818502041488801</latitude>
+				<altitude>0</altitude>
+				<heading>-0.4811011428664957</heading>
+				<tilt>10.37324695026155</tilt>
+				<range>222.927646695807</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin0013</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>110.3621322982826,-7.81852236102576,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>Suryotomo</name>
 			<description>1A _ Trans Jogja
 
@@ -18327,7 +18697,7 @@ Tujuan / Destination =&gt; Jl. Mataram</description>
 				<range>324.538946312754</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin6</styleUrl>
+			<styleUrl>#msn_wht-pushpin61</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3693373157747,-7.799273487951733,0</coordinates>
@@ -18352,7 +18722,7 @@ Tujuan / Destination =&gt; Sanata Dharma</description>
 				<range>160.0437893797117</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin10</styleUrl>
+			<styleUrl>#msn_wht-pushpin100</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3921535801001,-7.766130424502836,0</coordinates>
@@ -18490,7 +18860,7 @@ Tujuan / Destination =&gt; Gereja Pugeran - B</description>
 				<range>198.1211066738506</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin28</styleUrl>
+			<styleUrl>#msn_wht-pushpin280</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3560081067103,-7.809838273228094,0</coordinates>
@@ -18640,7 +19010,7 @@ Tujuan / Destination =&gt; Gudang SGM - B</description>
 			<name>Tegal Turi - B</name>
 			<description>3B _ Trans Jogja
 
-Tujuan / Destination =&gt; Sorogenen, Nitikan</description>
+Tujuan / Destination =&gt; Nitikan</description>
 			<LookAt>
 				<longitude>110.3869468684671</longitude>
 				<latitude>-7.825391428495372</latitude>
@@ -18650,7 +19020,7 @@ Tujuan / Destination =&gt; Sorogenen, Nitikan</description>
 				<range>98.35269301866582</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin37</styleUrl>
+			<styleUrl>#msn_wht-pushpin0013</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3869333837433,-7.825416508908944,0</coordinates>
@@ -18700,7 +19070,7 @@ Tujuan / Destination =&gt; Ngabean</description>
 				<range>123.9280310682481</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin9</styleUrl>
+			<styleUrl>#msn_wht-pushpin92</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.356010947825,-7.807916217091707,0</coordinates>
@@ -19382,7 +19752,7 @@ Tujuan / Destination =&gt; Simpang Wojo
 
 11 _ Teman Bus / Trans Jogja
 
-Tujuan / Destination =&gt; Pasar Telo - A</description>
+Tujuan / Destination =&gt; Wojo - A</description>
 			<LookAt>
 				<longitude>110.3830247951635</longitude>
 				<latitude>-7.834762594613672</latitude>
@@ -19392,7 +19762,7 @@ Tujuan / Destination =&gt; Pasar Telo - A</description>
 				<range>219.036196953585</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin03</styleUrl>
+			<styleUrl>#msn_wht-pushpin0013</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.382909533974,-7.835133858612502,0</coordinates>
@@ -19514,6 +19884,31 @@ Tujuan / Destination =&gt; Gedung Wanita</description>
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>UKDW</name>
+			<description>2A _ Trans Jogja
+
+Tujuan / Destination =&gt; RS Bethesda
+
+
+4A _ Trans Jogja
+
+Tujuan / Destination =&gt; RS Bethesda</description>
+			<LookAt>
+				<longitude>110.3788509691111</longitude>
+				<latitude>-7.785493059094287</latitude>
+				<altitude>0</altitude>
+				<heading>-2.566735740922169</heading>
+				<tilt>11.90921644755564</tilt>
+				<range>242.7825144277194</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>110.3788426606391,-7.78552369956898,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<name>UMY - A</name>
 			<description>6 _ Trans Jogja
 
@@ -19597,7 +19992,7 @@ Tujuan / Destination =&gt; Lapangan Kasihan - B</description>
 			<name>Universitas BSI - A</name>
 			<description>6 _ Trans Jogja
 
-Tujuan / Destination =&gt; Park and Ride Gamping</description>
+Tujuan / Destination =&gt; Pasar Gamping - B</description>
 			<LookAt>
 				<longitude>110.3254809196534</longitude>
 				<latitude>-7.802005516583421</latitude>
@@ -19607,7 +20002,7 @@ Tujuan / Destination =&gt; Park and Ride Gamping</description>
 				<range>402.117146610836</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin16</styleUrl>
+			<styleUrl>#msn_wht-pushpin5</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3251809672964,-7.802699498985995,0</coordinates>
@@ -19627,7 +20022,7 @@ Tujuan / Destination =&gt; UMY - B</description>
 				<range>178.9187995232573</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin301</styleUrl>
+			<styleUrl>#msn_wht-pushpin3010</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3252648399789,-7.802875148950538,0</coordinates>
@@ -19730,7 +20125,7 @@ Tujuan / Destination =&gt; Plaza UNY</description>
 				<range>168.5136444658403</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin70</styleUrl>
+			<styleUrl>#msn_wht-pushpin700</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3866889214985,-7.777757135342892,0</coordinates>
@@ -19855,7 +20250,7 @@ Tujuan / Destination =&gt; XT Square</description>
 				<range>146.1832893267114</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin100</styleUrl>
+			<styleUrl>#msn_wht-pushpin1000</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3891386823229,-7.815227907596645,0</coordinates>
@@ -19935,7 +20330,7 @@ Tujuan / Destination =&gt; SPBU Kaliurang - B</description>
 			<name>Westlake - A</name>
 			<description>8 _ Trans Jogja
 
-Tujuan / Destination =&gt; RS Queen Latifa</description>
+Tujuan / Destination =&gt; Perumahan Nogotirto</description>
 			<LookAt>
 				<longitude>110.3410958890493</longitude>
 				<latitude>-7.749360998704924</latitude>
@@ -19945,7 +20340,7 @@ Tujuan / Destination =&gt; RS Queen Latifa</description>
 				<range>75.97871590399302</range>
 				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 			</LookAt>
-			<styleUrl>#msn_wht-pushpin40</styleUrl>
+			<styleUrl>#msn_wht-pushpin42</styleUrl>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3411115018298,-7.74923653170918,0</coordinates>
@@ -20029,6 +20424,46 @@ Tujuan / Destination =&gt; Tegal Turi - A</description>
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
 				<coordinates>110.3792472299712,-7.824775945025207,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wojo - A</name>
+			<description>11 _ Teman Bus / Trans Jogja
+
+Tujuan / Destination =&gt; Pasar Telo - A</description>
+			<LookAt>
+				<longitude>110.3739187942665</longitude>
+				<latitude>-7.831416022648926</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001546490724659444</heading>
+				<tilt>18.08728704311095</tilt>
+				<range>240.8444266477091</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin0013</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>110.3739187942665,-7.831416022648926,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wojo - B</name>
+			<description>11 _ Teman Bus / Trans Jogja
+
+Tujuan / Destination =&gt; UAD Ring Road Selatan - B</description>
+			<LookAt>
+				<longitude>110.3739244116926</longitude>
+				<latitude>-7.830128654416669</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001484512587045227</heading>
+				<tilt>20.57932363822741</tilt>
+				<range>188.4986332783148</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_wht-pushpin0013</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>110.3738475318203,-7.830194262421602,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
