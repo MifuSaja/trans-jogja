@@ -14,9 +14,18 @@ II. Penonaktifan jalur untuk:
 
 III. Penambahan perhentian bus untuk:
 * Atakrib Jl. Magelang
+* Batas Kota Jl. Monjali - A
+* Batas Kota Jl. Monjali - B
 * Daytrans Jl. Magelang
+* Fisipol UGM - A
+* Fisipol UGM - B
+* Hokben Jakal - A
+* Hokben Jakal - B
 * Indogrosir
 * Kricak
+* Pasar Angkasa
+* SMAN 1 Kasihan - A
+* SMAN 1 Kasihan - B
 * SPBU Monjali - A
 * SPBU Monjali - B
 
@@ -43,9 +52,18 @@ II. Deactivated routes:
 
 III. Added bus stops:
 * Atakrib Jl. Magelang
+* Batas Kota Jl. Monjali - A
+* Batas Kota Jl. Monjali - B
 * Daytrans Jl. Magelang
+* Fisipol UGM - A
+* Fisipol UGM - B
+* Hokben Jakal - A
+* Hokben Jakal - B
 * Indogrosir
 * Kricak
+* Pasar Angkasa
+* SMAN 1 Kasihan - A
+* SMAN 1 Kasihan - B
 * SPBU Monjali - A
 * SPBU Monjali - B
 
