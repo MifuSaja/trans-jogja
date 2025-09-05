@@ -33,6 +33,8 @@ IV. Perubahan perhentian bus untuk:
 * Atakrib => Atakrib Kyai Mojo
 * Hotel Utara => Hotel Utara - B
 * Perpusda => Badran
+* SPBU Dukuh - A => Dukuh - A
+* SPBU Dukuh - B => Dukuh - B
 * Wojo - A => Wojo (Randubelang) - A
 * Wojo - B => Wojo (Randubelang) - B
 
@@ -71,6 +73,8 @@ IV. Changed bus stops:
 * Atakrib => Atakrib Kyai Mojo
 * Hotel Utara => Hotel Utara - B
 * Perpusda => Badran
+* SPBU Dukuh - A => Dukuh - A
+* SPBU Dukuh - B => Dukuh - 
 * Wojo - A => Wojo (Randubelang) - A
 * Wojo - B => Wojo (Randubelang) - B
 
