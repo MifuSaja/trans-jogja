@@ -1,0 +1,1135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><Style id="Bus_Stops_style_normal"><IconStyle><color>ff852414</color><scale>0.3333333333333333</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon></IconStyle><LabelStyle><color>ff852414</color><scale>0.8</scale></LabelStyle></Style><Style id="Bus_Stops_style_highlight"><IconStyle><color>ff852414</color><scale>0.39999999999999997</scale><Icon><href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon></IconStyle><LabelStyle><color>ff852414</color><scale>0.8</scale></LabelStyle></Style><StyleMap id="Bus_Stops_style_map"><Pair><key>normal</key><styleUrl>#Bus_Stops_style_normal</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#Bus_Stops_style_highlight</styleUrl></Pair></StyleMap><Folder><name>Bus_Stops</name><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Terminal Prambanan</name><description>Tujuan / Destination:
+
+1. Edotel Kalasan - A = 1A
+</description><Point><coordinates>110.489843030451,-7.75565703041169</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Edotel Kalasan - B</name><description>Tujuan / Destination:
+
+1. Terminal Prambanan = 1A</description><Point><coordinates>110.482621623016,-7.75666729207225</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Edotel Kalasan - A</name><description>Tujuan / Destination:
+
+1. RS Bhayangkara - A= 1A</description><Point><coordinates>110.482642990912,-7.75674855855872</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>RS Bhayangkara - B</name><description>Tujuan / Destination:
+
+1. Edotel Kalasan - B = 1A</description><Point><coordinates>110.471765234131,-7.76674098798486</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>RS Bhayangkara - A</name><description>Tujuan / Destination:
+
+1. Pasar Kalasan - A = 1A</description><Point><coordinates>110.471500879134,-7.76719411148989</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Kalasan - A</name><description>Tujuan / Destination:
+
+1. Cupuwatu = 1A</description><Point><coordinates>110.469623312543,-7.76937118410272</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Kalasan - B</name><description>Tujuan / Destination:
+
+1. RS Bhayangkara - B = 1A</description><Point><coordinates>110.469018996283,-7.76993027150326</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>BPD Kalasan</name><description>Tujuan / Destination:
+
+1. Pasar Kalasan - B = 1A</description><Point><coordinates>110.456090417102,-7.7786174024452</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Cupuwatu</name><description>Tujuan / Destination:
+
+1. KR - A = 1A</description><Point><coordinates>110.456194830819,-7.7786414938818</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>KR - A</name><description>Tujuan / Destination:
+
+1. Bandara Adisujtipto = 1A</description><Point><coordinates>110.450519023825,-7.78171798820572</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>KR - B</name><description>Tujuan / Destination:
+
+1. BPD Kalasan = 1A</description><Point><coordinates>110.448753501817,-7.78260684746563</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Makam Sorogenen</name><description>Tujuan / Destination:
+
+1. KR - B = 1A</description><Point><coordinates>110.44125102439,-7.78347208328506</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Bandara Adisujtipto</name><description>Tujuan / Destination:
+
+1. Makam Sorogenen = 1A
+2. KKP Yogyakarta = 3A, 14
+3. Hyundai = 1A, 1B, 3A, 3B , 5B</description><Point><coordinates>110.435707090744,-7.78448224034886</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Maguwo Sambilegi</name><description>Tujuan / Destination:
+
+1. Bandara Adisujtipto = 1A, 1B, 3A, 3B, 5B, 14</description><Point><coordinates>110.430990339336,-7.78345042648516</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Hyundai</name><description>Tujuan / Destination:
+
+1. Jayakarta = 1A, 1B, 3B, 5B</description><Point><coordinates>110.428348693567,-7.78350477192048</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kanwil DJPb</name><description>Tujuan / Destination:
+
+1. Maguwo Sambilegi = 1A, 1B, 3A, 5B</description><Point><coordinates>110.424011362669,-7.78336828483192</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Jayakarta</name><description>Tujuan / Destination:
+
+1. Janti Selatan = 1A, 5B
+2. Janti Utara = 1B
+3. RS Hardjolukito = 3B</description><Point><coordinates>110.419395141898,-7.78338424525826</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Transmart</name><description>Tujuan / Destination:
+
+1. Kanwil DJPb = 1A, 1B, 3A, 5B</description><Point><coordinates>110.42018257456,-7.78331855318535</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Mirota Babarsari</name><description>Tujuan / Destination:
+
+1. Transmart = 1A, 1B, 3, 5B</description><Point><coordinates>110.414670425634,-7.7832881756289</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Janti Utara</name><description>Tujuan / Destination:
+
+1. Mirota Babarsari = 1A, 1B, 3A 
+2. Sahid J-Walk = 1B, 5A</description><Point><coordinates>110.411656502452,-7.78327767478026</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Janti Selatan</name><description>Tujuan / Destination:
+
+1. Ambarukmo - A = 1A, 5B
+2. Janti Utara = 5A</description><Point><coordinates>110.410455204729,-7.78577340185059</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Ambarukmo - B</name><description>Tujuan / Destination:
+
+1. Janti Selatan = 1A, 5A</description><Point><coordinates>110.402405261293,-7.78319380063171</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Ambarukmo - A</name><description>Tujuan / Destination:
+
+1. Gedung Wanita = 1A, 5B</description><Point><coordinates>110.401770545511,-7.78326864117171</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>De Britto</name><description>Tujuan / Destination:
+
+1. Ambarukmo - B = 1A, 5A
+2. UIN Sunan Kalijaga - A = 4A</description><Point><coordinates>110.39389418541,-7.78311840372603</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Gedung Wanita</name><description>Tujuan / Destination:
+
+1. LPP = 1A, 4B, 5B</description><Point><coordinates>110.392677378715,-7.78318484726922</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Demangan</name><description>Tujuan / Destination:
+
+1. De Britto = 1A, 4A, 5A</description><Point><coordinates>110.388701622813,-7.78307240446406</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>LPP</name><description>Tujuan / Destination:
+
+1. Superindo Urip Sumoharjo = 1A, 5B</description><Point><coordinates>110.386128092793,-7.78312485053277</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Superindo Urip Sumoharjo</name><description>Tujuan / Destination:
+
+1. RS Bethesda = 1A, 5B</description><Point><coordinates>110.382305758113,-7.78309035666062</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>RS Bethesda</name><description>Tujuan / Destination:
+
+1. Bulog = 5B
+2. Dr. Yap = 2A, 4A
+3. Jend. Sudirman - A = 1A</description><Point><coordinates>110.3779718624,-7.78305124630785</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Jend. Sudirman - A</name><description>Tujuan / Destination:
+
+1. Diponegoro = 11
+2. Mangkubumi 1 = 1A</description><Point><coordinates>110.369512823709,-7.78297490943804</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Jend. Sudirman - B</name><description>Tujuan / Destination:
+
+1. Dr. Yap = 3B, 11
+2. Bulog = 13</description><Point><coordinates>110.368817680118,-7.78290054484</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Mangkubumi 1</name><description>Tujuan / Destination:
+
+1. Mangkubumi 2 = 1A, 2A, 8, L-1</description><Point><coordinates>110.366819796294,-7.78475921023507</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Mangkubumi 2</name><description>Tujuan / Destination:
+
+1. Eks Menara Kopi - A = 1A, 2A, 8, L-1</description><Point><coordinates>110.366484283254,-7.78766803266617</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Eks Menara Kopi - B</name><description>Tujuan / Destination:
+
+1. Malioboro 1 = 1A,, 2A, 3A, 8, 13, L-1</description><Point><coordinates>110.370057034592,-7.78936003661639</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Eks Menara Kopi - A</name><description>Tujuan / Destination:
+
+1. Kridosono = 1A, 2A, 8, 10, L-1</description><Point><coordinates>110.370139864858,-7.78925239270076</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kridosono</name><description>Tujuan / Destination:
+
+1. AA YKPN = 1A, 5A
+2. Eks Menara Kopi - B = 1A, 2A, 3A, 8, 13, L-1
+3. Lempuyangan = 2B, 4B, 10
+4. UKDW = 2A, 4A</description><Point><coordinates>110.375294897192,-7.78731115921099</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Malioboro 1</name><description>Tujuan / Destination:
+
+1. Malioboro 2 = 1A, 2A, 3A, 6, 8, 10, 13, L-1, 15</description><Point><coordinates>110.366034633313,-7.79083678301114</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Malioboro 2</name><description>Tujuan / Destination:
+
+1. Malioboro 3 = 1A, 2A, 3A, 6, 8, 10, 13, L-1, 15</description><Point><coordinates>110.365496158815,-7.79522178923715</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Malioboro 3</name><description>Tujuan / Destination:
+
+1. Bhayangkara = L-1
+2. KHA Dahlan - A = 3A, 6, 8, 10, 13, 15
+3. Taman Pintar = 1A, 2A</description><Point><coordinates>110.364925453575,-7.799869212717</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Taman Pintar</name><description>Tujuan / Destination:
+
+1. Jogjatronik = 2A
+2. Pakualaman = 1B
+3. Suryotomo = 1A, 6, 10, 15</description><Point><coordinates>110.367154566586,-7.80144466850947</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Senopati</name><description>Tujuan / Destination:
+
+1. KHA Dahlan - A = 2B</description><Point><coordinates>110.367022872013,-7.80152664299746</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Suryotomo</name><description>Tujuan / Destination:
+
+1. Progo = 1A, 1B, 6, 10, 15</description><Point><coordinates>110.369320642188,-7.79925002938115</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Progo</name><description>Tujuan / Destination:
+
+1. Jl. Mataram = 1A, 1B, 6, 10, 15</description><Point><coordinates>110.369333405127,-7.7979763016163</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Jl. Mataram</name><description>Tujuan / Destination:
+
+1. Teras 2 = 1A, 1B, 6, 10, 15</description><Point><coordinates>110.368058747001,-7.79423333177595</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Teras 2</name><description>Tujuan / Destination:
+
+1. Abu Bakar Ali = 1B
+2. Eks Menara Kopi - A = 1A, 10
+3. Malioboro 1 = 6, 10, 15</description><Point><coordinates>110.367564515754,-7.79181624519636</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>AA YKPN</name><description>Tujuan / Destination:
+
+1. Demangan = 1A, 5A</description><Point><coordinates>110.38347093302,-7.78615996991184</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Sahid J-Walk</name><description>Tujuan / Destination:
+
+1. Dishub DIY - A = 1B, 5A</description><Point><coordinates>110.41469348156,-7.77958689093221</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Dishub DIY - B</name><description>Tujuan / Destination:
+
+1. Mirota Babarsari = 5B</description><Point><coordinates>110.41506078347,-7.77804661240304</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Dishub DIY - A</name><description>Tujuan / Destination:
+
+1. Babarsari - A = 1B, 5A</description><Point><coordinates>110.415142582005,-7.7775318410147</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Babarsari - B</name><description>Tujuan / Destination:
+
+1. Dishub DIY - B = 5B</description><Point><coordinates>110.412098290227,-7.77392529225348</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Babarsari - A</name><description>Tujuan / Destination:
+
+1. Kledokan = 1B
+2. STIE YKPN - A = 5A</description><Point><coordinates>110.412152881757,-7.77395394903298</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>STIE YKPN - B</name><description>Tujuan / Destination:
+
+1. Babarsari - B = 5B</description><Point><coordinates>110.410151773458,-7.76844962437429</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>STIE YKPN - A</name><description>Tujuan / Destination:
+
+1. UPN Veteran = 5A</description><Point><coordinates>110.410334506438,-7.76734898721798</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>UPN Veteran</name><description>Tujuan / Destination:
+
+1. Pakuwon Mall - A = 3A, 5A</description><Point><coordinates>110.408040378793,-7.76060573114379</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Stikes Guna Bangsa</name><description>Tujuan / Destination:
+
+1. Polsek Depok Timur - B = 3B
+2. STIE YKPN - B = 5B</description><Point><coordinates>110.40894601621,-7.76079434445093</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>RS JIH</name><description>Tujuan / Destination:
+
+1. Stikes Guna Bangsa = 3B, 5B</description><Point><coordinates>110.403036553148,-7.75891869268334</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pakuwon Mall - A</name><description>Tujuan / Destination:
+
+1. Terminal Condongcatur = 3A, 5A</description><Point><coordinates>110.399494953917,-7.75816031420271</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pakuwon Mall - B</name><description>Tujuan / Destination:
+
+1. RS JIH = 3B, 5B</description><Point><coordinates>110.399346038705,-7.75808317759487</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Terminal Condongcatur</name><description>Tujuan / Destination:
+
+1. Manggung = 2A, 3A, 4B, 5A
+2. Pakuwon Mall - B = 3B, 5B
+3. SPBU Concat - B = 2B, 4A, 12</description><Point><coordinates>110.395921862548,-7.75663606667213</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kledokan</name><description>Tujuan / Destination:
+
+1. Pasar Angkasa = 1B</description><Point><coordinates>110.4085211915,-7.77832710646975</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Angkasa</name><description>Tujuan / Destination:
+
+1. RS Hardjolukito = 1B, 3B</description><Point><coordinates>110.410166265876,-7.79205909204467</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>RS Hardjolukito</name><description>Tujuan / Destination:
+
+1. Wonocatur = 1B, 3B</description><Point><coordinates>110.409969027721,-7.7973605357144</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Blok O</name><description>Tujuan / Destination:
+
+1. Janti Utara = 1B, 3A</description><Point><coordinates>110.409914257657,-7.79722076033399</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Wonocatur</name><description>Tujuan / Destination:
+
+1. BKPM = 1B, 3B</description><Point><coordinates>110.4064287371,-7.79863761975133</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>JEC</name><description>Tujuan / Destination:
+
+1. Blok O = 1B, 3A</description><Point><coordinates>110.402901424714,-7.79862206804179</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>BKPM</name><description>Tujuan / Destination:
+
+1. Banguntapan - B = 3B
+2. Gembira Loka - B = 1B</description><Point><coordinates>110.402321321063,-7.8003749704239</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Gembira Loka - A</name><description>Tujuan / Destination:
+
+1. Banguntapan - B = 2B
+ 2. JEC = 1B
+</description><Point><coordinates>110.399968483851,-7.80227968156453</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Gembira Loka - B</name><description>Tujuan / Destination:
+
+1. SGM Kusumanegara - B = 1B, 2A</description><Point><coordinates>110.398804191886,-7.80228157192281</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SGM Kusumanegara - B</name><description>Tujuan / Destination:
+
+1. Makam Gajah - B = 1B, 2A
+2. UTY Glagahsari - A = 4A
+3. Timoho - B = 10</description><Point><coordinates>110.39342212429,-7.80214661428099</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SGM Kusumanegara - A</name><description>Tujuan / Destination:
+
+1. Gembira Loka - A = 1B
+2. SMKN 5 - B = 4B
+</description><Point><coordinates>110.39306360029,-7.80210637761911</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Makam Gajah - B</name><description>Tujuan / Destination:
+
+1. KPPN = 2A
+2. Taman Makam Pahlawan - B = 1B</description><Point><coordinates>110.387400728926,-7.80199562517091</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Makam Gajah - A</name><description>Tujuan / Destination:
+
+1. SGM Kusumanegara - A = 1B, 2B</description><Point><coordinates>110.387502342517,-7.80196679694907</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Taman Makam Pahlawan - A</name><description>Tujuan / Destination:
+
+1. Makam Gajah - A = 1B</description><Point><coordinates>110.383460469625,-7.80186535092515</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Taman Makam Pahlawan - B</name><description>Tujuan / Destination:
+
+1. Pasar Sentul  = 1B</description><Point><coordinates>110.382195723807,-7.80186510735768</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pakualaman</name><description>Tujuan / Destination:
+
+1. Lapas Wirogunan - B = 4B
+2. Taman Makam Pahlawan - A = 1B</description><Point><coordinates>110.37577939072,-7.8016604008684</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Museum Biologi</name><description>Tujuan / Destination:
+
+1. Hayam Wuruk - A = 4A
+2. Suryotomo = 1B</description><Point><coordinates>110.374125206014,-7.80163900760244</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Abu Bakar Ali</name><description>Tujuan / Destination:
+
+1. Hotel Abadi = 1B</description><Point><coordinates>110.366324316875,-7.79000173814221</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Hotel Abadi</name><description>Tujuan / Destination:
+
+1. Stasiun Yogyakarta = 1B</description><Point><coordinates>110.36318383705,-7.79001590421569</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Stasiun Yogyakarta</name><description>Tujuan / Destination:
+
+1. Jlagran = 1B, 3B, 8, L-1</description><Point><coordinates>110.361747967286,-7.78967218231789</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Jlagran</name><description>Tujuan / Destination:
+
+1. Badran = 3B, 8, L-1
+2. Letjen Suprapto = 1B</description><Point><coordinates>110.358804641925,-7.7894806919356</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Letjen Suprapto</name><description>Tujuan / Destination:
+
+1. SDN Gedong Tengen = 1B</description><Point><coordinates>110.357388924305,-7.79083466012607</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SDN Gedong Tengen</name><description>Tujuan / Destination:
+
+1. KS Tubun = 1B</description><Point><coordinates>110.356936459087,-7.79258151489173</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>KS Tubun</name><description>Tujuan / Destination:
+
+1. Ngabean = 1B</description><Point><coordinates>110.356393435827,-7.79869679097324</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Ngabean</name><description>Tujuan / Destination:
+
+1. KHA Dahlan - B = 1B, 3B, 6, 8, 10, 15
+2. Mualimin - B = 6, 10
+3. Pasar Serangan - A = 2B, 9, 11, 13
+4. Tamansari = 3A, 9, 11, 15</description><Point><coordinates>110.356232683687,-7.80369941285067</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>KHA Dahlan - A</name><description>Tujuan / Destination:
+
+1. Ngabean = 2B, 3A, 6, 8, 10, 13, 15</description><Point><coordinates>110.360108755682,-7.80129262855251</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>KHA Dahlan - B</name><description>Tujuan / Destination:
+
+1. Bhayangkara = 3B, 8
+2. Taman Pintar = 1B, 6, 10, 15
+</description><Point><coordinates>110.360391775756,-7.80124915422302</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Bhayangkara</name><description>Tujuan / Destination:
+
+1. Pasar Pathuk = 3B, 8, L-1</description><Point><coordinates>110.362056420848,-7.79930312525034</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Pathuk</name><description>Tujuan / Destination:
+
+1. Sosrowijayan = 3B, 8, L-1</description><Point><coordinates>110.361833805031,-7.79600424111502</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Sosrowijayan</name><description>Tujuan / Destination:
+
+1. Stasiun Yogyakarta = 3B, 8, L-1</description><Point><coordinates>110.361589823077,-7.79206875356223</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Badran</name><description>Tujuan / Destination:
+
+1. SMPN 14 = 2B, 3B, 8, 9, 11, L-1</description><Point><coordinates>110.358009660278,-7.78807889811057</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Samsat</name><description>Tujuan / Destination:
+
+1. Saudagaran = 9, 11</description><Point><coordinates>110.359725142469,-7.78714144769999</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMPN 14</name><description>Tujuan / Destination:
+
+1. Hotel Utara - B = 2B, 9, L-1
+2. Pasar Kranggan Selatan = 3B, 11
+3. Pasar Pingit - B = 8</description><Point><coordinates>110.359949851878,-7.7865511744083</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Diponegoro</name><description>Tujuan / Destination:
+
+1. Samsat = 11</description><Point><coordinates>110.362523277719,-7.78288783416755</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Kranggan Selatan</name><description>Tujuan / Destination:
+
+1. Jend. Sudirman - B = 3B, 11, 13
+2. Mangkubumi 1 = 8, L-1</description><Point><coordinates>110.365650999652,-7.78285747174765</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Manggung</name><description>Tujuan / Destination:
+
+1. Hokben Jakal - A = 3A, 4B, 5A
+2. Monjali - B = 2A</description><Point><coordinates>110.386496025402,-7.75805942053487</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kentungan</name><description>Tujuan / Destination:
+
+1. Terminal Condongcatur = 2B, 3B, 4A, 5B</description><Point><coordinates>110.384600599853,-7.75612164667785</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Monjali - B</name><description>Tujuan / Destination:
+
+1. Terminal Jombor = 2A, 2B, 5A</description><Point><coordinates>110.368764335469,-7.75078412368949</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Monjali - A</name><description>Tujuan / Destination:
+
+1. Kentungan = 2B
+2. PDAM Monjali - A = 2A, 5B</description><Point><coordinates>110.367643245893,-7.75060299384181</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Terminal Jombor</name><description>Tujuan / Destination:
+
+1. Indogrosir = 5, 9, L-1
+2. Monjali - A = 2A, 2B, 5B
+3. UTY Ring Road Utara - A = 8</description><Point><coordinates>110.361256745544,-7.74734411722655</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>PDAM Monjali - A</name><description>Tujuan / Destination:
+
+1. SPBU Monjali - A = 2A, 5B</description><Point><coordinates>110.369845429037,-7.75600171795298</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>PDAM Monjali - B</name><description>Tujuan / Destination:
+
+1. Monjali - B = 2B, 5A</description><Point><coordinates>110.369828641954,-7.75573934443193</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SPBU Monjali - B</name><description>Tujuan / Destination:
+
+1. PDAM Monjali - B = 2B,, 5A</description><Point><coordinates>110.369403538341,-7.7602164740172</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SPBU Monjali - A</name><description>Tujuan / Destination:
+
+1. Karangjati - A = 2A
+2. Teknik UGM - B = 5B</description><Point><coordinates>110.369462523451,-7.76013433719994</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Karangjati - A</name><description>Tujuan / Destination:
+
+1. Batas Kota Jl. Monjali - A = 2A</description><Point><coordinates>110.36920407016,-7.76406754667632</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Karangjati - B</name><description>Tujuan / Destination:
+
+1. SPBU Monjali - B = 2B</description><Point><coordinates>110.369130245735,-7.76446667505166</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Batas Kota Jl. Monjali - A</name><description>Tujuan / Destination:
+
+1. AM Sangaji - A = 2A</description><Point><coordinates>110.368498099839,-7.77053108959707</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Batas Kota Jll. Monjali - B</name><description>Tujuan / Destination:
+
+1. Karangjati - B = 2B</description><Point><coordinates>110.368457980875,-7.77067874278666</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>AM Sangaji - B</name><description>Tujuan / Destination:
+
+1. Batas Kota Jll. Monjali - B = 2B</description><Point><coordinates>110.367673203547,-7.77733763242993</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>AM Sangaji - A</name><description>Tujuan / Destination:
+
+1. Pasar Kranggan Timur = 2A</description><Point><coordinates>110.367883488947,-7.77580121870974</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Kranggan Timur</name><description>Tujuan / Destination:
+
+1. Mangkubumi 1 = 2A</description><Point><coordinates>110.367188231851,-7.78174723737055</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Katamso</name><description>Tujuan / Destination:
+
+1. Senopati = 2B</description><Point><coordinates>110.369171809618,-7.80269085623592</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Jogjatronik</name><description>Tujuan / Destination:
+
+1. Purawisata - A = 2A</description><Point><coordinates>110.369272749912,-7.80587651275632</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Purawisata - A</name><description>Tujuan / Destination:
+
+1. SDN Kintelan 1 = 2A</description><Point><coordinates>110.369087241304,-7.80874094734727</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Purawisata - B</name><description>Tujuan / Destination:
+
+1. Katamso = 2B</description><Point><coordinates>110.369066622593,-7.80810188516537</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SDN Kintelan 1</name><description>Tujuan / Destination:
+
+1. Pujokusuman = 2A</description><Point><coordinates>110.368876867715,-7.81198929782425</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pujokusuman</name><description>Tujuan / Destination:
+
+1. Lowanu - A = 3A
+2. STIE Kerjasama = 2A</description><Point><coordinates>110.370039380542,-7.81482025001621</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Museum Perjuangan</name><description>Tujuan / Destination:
+
+1. Jokteng Wetan = 3B
+2. Purawisata - B = 2B</description><Point><coordinates>110.371845404561,-7.81517587118213</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Sepeda</name><description>Tujuan / Destination:
+
+1. Museum Perjuangan = 2B
+2. STSRD Visi Tamansiswa - A = 4A</description><Point><coordinates>110.380417512853,-7.81639796880541</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>STIE Kerjasama</name><description>Tujuan / Destination:
+
+1. RS Hidayatullah = 2A
+2. Polsek Umbulharjo = 4B</description><Point><coordinates>110.382875228739,-7.81667360553957</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>XT Square</name><description>Tujuan / Destination:
+
+1. Pasar Sepeda = 2B
+2. Polsek Umbulharjo = 4A</description><Point><coordinates>110.385956897093,-7.81623018208434</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pandeyan</name><description>Tujuan / Destination:
+
+1. Kemantren Umbulharjo - B = 4B</description><Point><coordinates>110.386379364824,-7.81574052732144</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>RS Hidayatullah</name><description>Tujuan / Destination:
+
+1. Gambiran - A = 2A</description><Point><coordinates>110.387783540631,-7.81560635067155</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Veteran</name><description>Tujuan / Destination:
+
+1. XT Square = 2B</description><Point><coordinates>110.389165196547,-7.81523156466092</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Gambiran - B</name><description>Tujuan / Destination:
+
+1. Veteran = 2B</description><Point><coordinates>110.390954071787,-7.81698828424869</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Gambiran - A</name><description>Tujuan / Destination:
+
+1. Perintis Kemerdekaan - A = 2A</description><Point><coordinates>110.39102049516,-7.81692949107673</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Perintis Kemerdekaan - B</name><description>Tujuan / Destination:
+
+1. Gambiran - B = 2B</description><Point><coordinates>110.391943641302,-7.81832126203107</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Perintis Kemerdekaan - A</name><description>Tujuan / Destination:
+
+1. Diklat PU = 2A</description><Point><coordinates>110.392407927548,-7.81838214813947</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Basen</name><description>Tujuan / Destination:
+
+1. Perintis Kemerdekaan - B = 2B</description><Point><coordinates>110.395095939164,-7.81911816228784</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Diklat PU</name><description>Tujuan / Destination:
+
+1. SMPN 9 - A = 2A</description><Point><coordinates>110.395111396618,-7.81906580750362</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMPN 9 - B</name><description>Tujuan / Destination:
+
+1. Basen = 2B</description><Point><coordinates>110.398037293284,-7.8198617346369</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMPN 9 - A</name><description>Tujuan / Destination:
+
+1. Kehutanan - A = 2A</description><Point><coordinates>110.397991368936,-7.81979410017568</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kehutanan - A</name><description>Tujuan / Destination:
+
+1. Pilar = 2A, 3A</description><Point><coordinates>110.401207362514,-7.81957419069795</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kehutanan - B</name><description>Tujuan / Destination:
+
+1. Pegadaian = 3B
+2. SMPN 9 - B = 2B</description><Point><coordinates>110.401791526787,-7.81813204373816</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Poltekkes BSI</name><description>Tujuan / Destination:
+
+1. Kehutanan - B = 2B, 3B</description><Point><coordinates>110.402094086778,-7.81439768349616</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pilar</name><description>Tujuan / Destination:
+
+1. Banguntapan - A = 2A, 3A</description><Point><coordinates>110.402062995358,-7.81325984625223</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Banguntapan - A</name><description>Tujuan / Destination:
+
+1. Gembira Loka - B = 2A
+2. JEC = 3A</description><Point><coordinates>110.402152554781,-7.80780881648241</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Banguntapan - B</name><description>Tujuan / Destination:
+
+1. Poltekkes BSI = 2B, 3B</description><Point><coordinates>110.402217692347,-7.80731857561195</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>KPPN</name><description>Tujuan / Destination:
+
+1. Among Rogo - A = 2A</description><Point><coordinates>110.384290806226,-7.80115323069694</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Among Rogo - A</name><description>Tujuan / Destination:
+
+1. Mandala Krida - A = 2A</description><Point><coordinates>110.384808685164,-7.79847766745726</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Among Rogo - B</name><description>Tujuan / Destination:
+
+1. Makam Gajah - A = 2B</description><Point><coordinates>110.384870201053,-7.79851401782336</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Mandala Krida - A</name><description>Tujuan / Destination:
+
+1. SMP Kanisius Gayam - A = 2A</description><Point><coordinates>110.383207425259,-7.79752639788468</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Mandala Krida - B</name><description>Tujuan / Destination:
+
+1. Among Rogo - B = 2B</description><Point><coordinates>110.383361942379,-7.79748492131397</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMP Kanisius Gayam - A</name><description>Tujuan / Destination:
+
+1. Eks Bioskop Mataram = 2A</description><Point><coordinates>110.377710943005,-7.79578341299679</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMP Kanisius Gayam - B</name><description>Tujuan / Destination:
+
+1. Bausasran = 10
+2. Mandala Krida - B = 2B</description><Point><coordinates>110.37774158561,-7.79569234506929</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Eks Bioskop Mataram</name><description>Tujuan / Destination:
+
+1. Atmosukarto = 2A</description><Point><coordinates>110.377864182116,-7.79224950200553</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Flyover Lempuyangan</name><description>Tujuan / Destination:
+
+1. SMP Kanisius Gayam - B = 2B, 10</description><Point><coordinates>110.378003062136,-7.79076888006876</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Stasiun Lempuyangan</name><description>Tujuan / Destination:
+
+1. Atmosukarto = 4A
+2. Flyover Lempuyangan = 2B
+3. Tarumartani - A = 10</description><Point><coordinates>110.377323775047,-7.79022033235556</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Lempuyangan</name><description>Tujuan / Destination:
+
+1. Hayam Wuruk - B = 4B
+2. Stasiun Lempuyangan = 2B, 10</description><Point><coordinates>110.373647367308,-7.79050019755543</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Sentul </name><description>Tujuan / Destination:
+
+1. Museum Biologi = 1B, 4A</description><Point><coordinates>110.376729202756,-7.80172047017236</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>UKDW</name><description>Tujuan / Destination:
+
+1. RS Bethesda =2A, 4A</description><Point><coordinates>110.378782068903,-7.78564056706171</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Dr. Yap</name><description>Tujuan / Destination:
+
+1. SMPN 1 - A = 2A, 3B, 4A, 5B, 11</description><Point><coordinates>110.375159403555,-7.78120326417638</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Cik Di Tiro</name><description>Tujuan / Destination:
+
+1. Bulog = 2B, 3A, 5A, 11</description><Point><coordinates>110.375052461118,-7.78234056581809</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMPN 1 - A</name><description>Tujuan / Destination:
+
+1. Fisipol UGM - B = 5B
+2. Kosudgama = 2A
+3. SMPN 1 - B = 11
+4. Vokasi UGM = 3B, 4A
+</description><Point><coordinates>110.375770753773,-7.77747999606267</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMPN 1 - B</name><description>Tujuan / Destination:
+
+1. Cik Di Tiro = 2B, 3A, 5A, 11</description><Point><coordinates>110.375801666045,-7.77779917732721</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>RS Panti Rapih</name><description>Tujuan / Destination:
+
+1. SMPN 1 - B = 2B
+2. Vokasi UGM = 12</description><Point><coordinates>110.378189863563,-7.7762327633108</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kosudgama</name><description>Tujuan / Destination:
+
+1. UNY Colombo = 2A, 12</description><Point><coordinates>110.378589672637,-7.77620570524173</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>UNY Colombo</name><description>Tujuan / Destination:
+
+1. Plaza UNY = 2A, 12</description><Point><coordinates>110.386711422241,-7.77778740654329</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Samirono</name><description>Tujuan / Destination:
+
+1. RS Panti Rapih = 2B, 12</description><Point><coordinates>110.38749254689,-7.77764825050023</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Sanata Dharma</name><description>Tujuan / Destination:
+
+1. Pasar Demangan = 4A
+2. Samirono = 2B, 12</description><Point><coordinates>110.389243760318,-7.77508596101914</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Plaza UNY</name><description>Tujuan / Destination:
+
+1. Ombudsman = 2A, 4B, 12</description><Point><coordinates>110.389163918491,-7.77514299321922</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Makam Santrean</name><description>Tujuan / Destination:
+
+1. Sanata Dharma = 2B, 4A, 12</description><Point><coordinates>110.390641702507,-7.7697045758203</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Ombudsman</name><description>Tujuan / Destination:
+
+1. Santren = 2A, 4B, 12</description><Point><coordinates>110.390654035304,-7.769486496647</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Santren</name><description>Tujuan / Destination:
+
+1. Prayan - A = 2A, 4B, 12</description><Point><coordinates>110.391990393452,-7.76634792771381</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Susteran Novisiat</name><description>Tujuan / Destination:
+
+1. Makam Santrean = 2B, 4A, 12</description><Point><coordinates>110.392187042742,-7.76605410408018</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Prayan - A</name><description>Tujuan / Destination:
+
+1. SPBU Concat - A = 2A, 4A, 12</description><Point><coordinates>110.393606768507,-7.7634872008174</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Prayan - B</name><description>Tujuan / Destination:
+
+1. Susteran Novisiat = 2B, 4A, 12</description><Point><coordinates>110.393620607674,-7.76356308703247</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SPBU Concat - A</name><description>Tujuan / Destination:
+
+1. Terminal Condongcatur = 2A, 4B, 12</description><Point><coordinates>110.394917345164,-7.75999121420043</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SPBU Concat - B</name><description>Tujuan / Destination:
+
+1. Prayan - B = 2B, 4A, 12</description><Point><coordinates>110.395170050475,-7.75971394282409</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Demangan</name><description>Tujuan / Destination:
+
+1. Demangan = 4A</description><Point><coordinates>110.388390100329,-7.77952778096065</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>RRI Gejayan</name><description>Tujuan / Destination:
+
+1. Plaza UNY = 4B</description><Point><coordinates>110.388329214907,-7.77951954118441</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>MAN 1</name><description>Tujuan / Destination:
+
+1. PDIN = 4B</description><Point><coordinates>110.373878818314,-7.77723774228336</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>PDIN</name><description>Tujuan / Destination:
+
+1. Bulog = 4B</description><Point><coordinates>110.372496818324,-7.78204735137316</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kotabaru</name><description>Tujuan / Destination:
+
+1. Jend. Sudirman - A = 11</description><Point><coordinates>110.371356071243,-7.78462860992519</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Jl. Suroto</name><description>Tujuan / Destination:
+
+1. Dr. Yap = 5B</description><Point><coordinates>110.37460731263,-7.78456680172312</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Bulog</name><description>Tujuan / Destination:
+
+1. Kridosono = 2B, 3A, 4B, 5A, 5B, 11, 13</description><Point><coordinates>110.374616176113,-7.7849851329413</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Atmosukarto</name><description>Tujuan / Destination:
+
+1. Kridosono = 2A, 4A</description><Point><coordinates>110.376697848733,-7.78858176814794</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Serangan - A</name><description>Tujuan / Destination:
+
+1. SMAN 1 - A = 2B, 9, 11, 13</description><Point><coordinates>110.354210642569,-7.80111023978716</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Serangan - B</name><description>Tujuan / Destination:
+
+1. Ngabean = 9, 11</description><Point><coordinates>110.353114661213,-7.80103659344261</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMAN 1 - A</name><description>Tujuan / Destination:
+
+1. SMPN 11 = 2B, 9, 11, 13</description><Point><coordinates>110.352077301265,-7.79934140015283</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMAN 1 - B</name><description>Tujuan / Destination:
+
+1. Pasar Serangan - B = 9, 11</description><Point><coordinates>110.352194545107,-7.79910759909012</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMPN 11</name><description>Tujuan / Destination:
+
+1. Badran = 2B, 9, 11
+2. Mirota Godean - B = 13</description><Point><coordinates>110.35337000673,-7.79296312377431</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Saudagaran</name><description>Tujuan / Destination:
+
+1. SMAN 1 - B = 9, 11</description><Point><coordinates>110.353515119212,-7.79250490746518</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Hotel Utara - B</name><description>Tujuan / Destination:
+
+1. Borobudur Plaza = 2B
+2. Kricak = 9, L-1</description><Point><coordinates>110.360869634286,-7.78039323362377</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Hotel Utara - A</name><description>Tujuan / Destination:
+
+1. Samsat = 9, L-1</description><Point><coordinates>110.360961728124,-7.77973059179496</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Borobudur Plaza</name><description>Tujuan / Destination:
+
+1. SMKN 3 = 2B, 5A</description><Point><coordinates>110.361989346724,-7.77883769189136</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMKN 3</name><description>Tujuan / Destination:
+
+1. AM Sangaji - B = 2B
+2. Fisipol UGM - A = 5A</description><Point><coordinates>110.366782833132,-7.77799732572156</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMPN 6</name><description>Tujuan / Destination:
+
+1. Kricak = 5B</description><Point><coordinates>110.366957814222,-7.77808276716863</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Terminal Giwangan</name><description>Tujuan / Destination:
+
+1. Pasar Giwangan - A = 3A, 3B, 4A, 4B
+2. UAD Ring Road Selatan - A = 9, 11</description><Point><coordinates>110.392763098905,-7.83465264531599</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Giwangan - B</name><description>Tujuan / Destination:
+
+1. Terminal Giwangan = 3A, 3B, 4A, 4B</description><Point><coordinates>110.390159613724,-7.83246234899936</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Giwangan - A</name><description>Tujuan / Destination:
+
+1. Gudang SGM - A = 3A, 3B, 4A, 4B</description><Point><coordinates>110.390026705228,-7.83152515885766</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Gudang SGM - B</name><description>Tujuan / Destination:
+
+1. Pasar Giwangan - B = 3A, 3B, 4A, 4B</description><Point><coordinates>110.390037943982,-7.82725263106421</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Gudang SGM - A</name><description>Tujuan / Destination:
+
+1. SMK Muh 3 = 4A, 4B
+2. Tegal Gendu - A = 3A
+3. Tegal Turi - B  = 3B</description><Point><coordinates>110.38999595042,-7.82707657673456</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Tegal Gendu - A</name><description>Tujuan / Destination:
+
+1. Lap. Karang - A = 3A</description><Point><coordinates>110.39176766969,-7.82604125623748</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Tegal Gendu - B</name><description>Tujuan / Destination:
+
+1. Gudang SGM - B = 3B</description><Point><coordinates>110.391362473199,-7.82584290306026</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Lap. Karang - B</name><description>Tujuan / Destination:
+
+1. Tegal Gendu - B = 3B</description><Point><coordinates>110.396570654159,-7.82237862739046</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Lap. Karang - A</name><description>Tujuan / Destination:
+
+1. SMA N 5 = 3A</description><Point><coordinates>110.396520470318,-7.8223726860488</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMA N 5</name><description>Tujuan / Destination:
+
+1. Kehutanan - A = 3A</description><Point><coordinates>110.399137075288,-7.82254596818599</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pegadaian</name><description>Tujuan / Destination:
+
+1. Lap. Karang - B = 3B</description><Point><coordinates>110.400157673176,-7.82277509264964</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>KKP Yogyakarta</name><description>Tujuan / Destination:
+
+1. Disnakertrans - A = 3A, 14</description><Point><coordinates>110.429890775937,-7.78204324212009</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Binamarga</name><description>Tujuan / Destination:
+
+1. Maguwo Sambilegi = 3B, 14</description><Point><coordinates>110.430689423559,-7.77448551463201</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Selokan Mataram Maguwo</name><description>Tujuan / Destination:
+
+1. Binamarga = 3B, 14</description><Point><coordinates>110.431022278675,-7.7709752924355</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Disnakertrans - A</name><description>Tujuan / Destination:
+
+1. Instiper - A = 14
+
+2. SMKN 1 Depok - Jl. Raya Tajem - A = 3A</description><Point><coordinates>110.431162992398,-7.76935791840462</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Disnakertrans - B</name><description>Tujuan / Destination:
+
+1. Selokan Mataram Maguwo = 3B, 14</description><Point><coordinates>110.431452143273,-7.76785591552003</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMKN 1 Depok - Ring Road Utara</name><description>Tujuan / Destination:
+
+1. Disnakertrans - B = 3B</description><Point><coordinates>110.431025545085,-7.7665379745957</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Instiper - B</name><description>Tujuan / Destination:
+
+1. SMKN 1 Depok - Ring Road Utara = 3B</description><Point><coordinates>110.423534622753,-7.76434332673288</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Instiper - A</name><description>Tujuan / Destination:
+
+1. Polsek Depok Timur - A = 3A</description><Point><coordinates>110.423617574192,-7.76447199797011</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Polsek Depok Timur - B</name><description>Tujuan / Destination:
+
+1. Instiper - B = 3B</description><Point><coordinates>110.415227387413,-7.76239516087379</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Polsek Depok Timur - A</name><description>Tujuan / Destination:
+
+1. UPN Veteran = 3A</description><Point><coordinates>110.415507631497,-7.76257004510808</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Hokben Jakal - B</name><description>Tujuan / Destination:
+
+1. Kentungan = 3B, 4A, 5B
+2. Superindo Jakal - A = 12</description><Point><coordinates>110.381957070677,-7.75758638730978</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Hokben Jakal - A</name><description>Tujuan / Destination:
+
+1. McD Jakal = 3A, 4B, 5A, 12</description><Point><coordinates>110.381871108564,-7.75792881118211</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Hotel Vidi</name><description>Tujuan / Destination:
+
+1. Hokben Jakal - B = 3B, 4A, 5B, 12</description><Point><coordinates>110.380176293694,-7.76185048663399</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>McD Jakal</name><description>Tujuan / Destination:
+
+1. Biologi UGM = 3A, 4B, 12
+2. GSP UGM - A = 5A</description><Point><coordinates>110.379849079337,-7.76277609871863</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>MM UGM</name><description>Tujuan / Destination:
+
+1. Hotel Vidi = 3B, 4A, 12</description><Point><coordinates>110.377063391387,-7.76509378261271</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Biologi UGM</name><description>Tujuan / Destination:
+
+1. RS Sardjito - A = 3A, 4B, 12</description><Point><coordinates>110.376923573862,-7.76515609281652</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>RS Sardjito - A</name><description>Tujuan / Destination:
+
+1. FKG UGM - A = 3A, 4B, 5B, 12</description><Point><coordinates>110.374241342133,-7.76776446783491</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>RS Sardjito - B</name><description>Tujuan / Destination:
+
+1. MM UGM = 3B, 4A, 12
+2. Teknik UGM - A = 5A</description><Point><coordinates>110.374172470121,-7.76778310378024</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>FKG UGM - A</name><description>Tujuan / Destination:
+
+1. GSP UGM - B = 5B
+2. Kopma UGM = 3A, 4B, 12</description><Point><coordinates>110.375115601288,-7.77136390513478</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>FKG UGM - B</name><description>Tujuan / Destination:
+
+1. RS Sardjito - B = 3B,, 4A, 5A, 12</description><Point><coordinates>110.37529219348,-7.77148336625278</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>GSP UGM - B</name><description>Tujuan / Destination:
+
+1. Hotel Vidi = 5B</description><Point><coordinates>110.376924660591,-7.76969301153085</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>GSP UGM - A</name><description>Tujuan / Destination:
+
+1. FKG UGM - B = 5A</description><Point><coordinates>110.377008790522,-7.76964549347768</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Vokasi UGM</name><description>Tujuan / Destination:
+
+1. FKG UGM - B = 3B, 4A, 12</description><Point><coordinates>110.374930191846,-7.77451720980772</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kopma UGM</name><description>Tujuan / Destination:
+
+1. Kosudgama = 12
+2. MAN 1 = 4B
+3. SMPN 1 - B = 3A</description><Point><coordinates>110.375094991734,-7.77432366986293</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Fisipol UGM - A</name><description>Tujuan / Destination:
+
+1. SMPN 1 - B = 5A</description><Point><coordinates>110.372432596194,-7.77589421975507</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Fisipol UGM - B</name><description>Tujuan / Destination:
+
+1. SMPN 6 = 5B</description><Point><coordinates>110.372476103757,-7.77588492136988</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Lempuyangan</name><description>Tujuan / Destination:
+
+1. Stasiun Lempuyangan = 4A</description><Point><coordinates>110.373442298704,-7.79233738173355</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Hayam Wuruk - B</name><description>Tujuan / Destination:
+
+1. Pakualaman = 4B</description><Point><coordinates>110.372709906162,-7.79462446406931</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Hayam Wuruk - A</name><description>Tujuan / Destination:
+
+1. Pasar Lempuyangan = 4A</description><Point><coordinates>110.372619766536,-7.79566234588659</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Tejokusuman</name><description>Tujuan / Destination:
+
+1. Ngabean = 3B, 6, 9, 10, 11, 15</description><Point><coordinates>110.356004134848,-7.80789372560714</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Tamansari</name><description>Tujuan / Destination:
+
+1. Gereja Pugeran - B = 15
+2. Jokteng Kulon = 3A, 9, 11
+</description><Point><coordinates>110.355971501117,-7.80984115605225</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Jokteng Kulon</name><description>Tujuan / Destination:
+
+1. Plengkung Gading - A = 3A, 9
+2. Suryodiningratan - B = 11
+</description><Point><coordinates>110.357337664227,-7.81326715427161</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMAN 7</name><description>Tujuan / Destination:
+
+1. Tejokusuman = 3B, 9, 11</description><Point><coordinates>110.358207319731,-7.81343901160778</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Plengkung Gading - A</name><description>Tujuan / Destination:
+
+1. Hotel Noola = 3A
+2. Pujokusuman = 9</description><Point><coordinates>110.363907401136,-7.81416387121442</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Plengkung Gading - B</name><description>Tujuan / Destination:
+
+1. SMAN 7 = 3B, 9</description><Point><coordinates>110.364263789721,-7.8142798947286</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Jokteng Wetan</name><description>Tujuan / Destination:
+
+1. Plengkung Gading - B = 3B, 9</description><Point><coordinates>110.367212499467,-7.81468929435335</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Lowanu - B</name><description>Tujuan / Destination:
+
+1. Museum Perjuangan = 3B</description><Point><coordinates>110.376003954149,-7.81680126161048</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Lowanu - A</name><description>Tujuan / Destination:
+
+1. UNU = 3A</description><Point><coordinates>110.376008553462,-7.81701922150679</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>UNU</name><description>Tujuan / Destination:
+
+1. Widya Wiwaha - A = 3A</description><Point><coordinates>110.376448459134,-7.81976767979475</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Widya Wiwaha - A</name><description>Tujuan / Destination:
+
+1. Wirosaban = 3A</description><Point><coordinates>110.377615726346,-7.82270296014311</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Widya Wiwaha - B</name><description>Tujuan / Destination:
+
+1. Lowanu - B = 3B</description><Point><coordinates>110.377515330364,-7.82261051736598</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Wirosaban</name><description>Tujuan / Destination:
+
+1. Tegal Turi - A = 3A</description><Point><coordinates>110.379228975095,-7.82477649645195</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Nitikan</name><description>Tujuan / Destination:
+
+1. Widya Wiwaha - B = 3B</description><Point><coordinates>110.379972585234,-7.82480603272535</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Tegal Turi - A</name><description>Tujuan / Destination:
+
+1. Gudang SGM - B = 3A</description><Point><coordinates>110.387081586652,-7.8254100505247</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Tegal Turi - B</name><description>Tujuan / Destination:
+
+1. Nitikan = 3B</description><Point><coordinates>110.386917079969,-7.82543329407882</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMK Muh 3</name><description>Tujuan / Destination:
+
+1. Pramuka = 4A, 4B</description><Point><coordinates>110.389648719868,-7.82254979747337</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>UAD Jl. Pramuka</name><description>Tujuan / Destination:
+
+1. Gudang SGM - B = 4A, 4B</description><Point><coordinates>110.388600318721,-7.8205502854039</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pramuka</name><description>Tujuan / Destination:
+
+1. Pandeyan = 4B
+2. Pasar Sepeda = 4A
+</description><Point><coordinates>110.387369998077,-7.8184824572314</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Polsek Umbulharjo</name><description>Tujuan / Destination:
+
+1. UAD Jl. Pramuka = 4A, 4B</description><Point><coordinates>110.385085002146,-7.81699057929978</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kemantren Umbulharjo - A</name><description>Tujuan / Destination:
+
+1. XT Square = 4A</description><Point><coordinates>110.387456031497,-7.80952294240948</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kemantren Umbulharjo - B</name><description>Tujuan / Destination:
+
+1. UTY Glagahsari - B = 4B</description><Point><coordinates>110.387416773682,-7.80958132212008</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Makam Prajurit</name><description>Tujuan / Destination:
+
+1. Kemantren Umbulharjo - A = 4A</description><Point><coordinates>110.38792765664,-7.80738808349302</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>UTY Glagahsari - A</name><description>Tujuan / Destination:
+
+1. Makam Prajurit = 4A</description><Point><coordinates>110.388395650988,-7.8055517230136</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Olive Glagahsari</name><description>Tujuan / Destination:
+
+1. SGM Kusumanegara - A = 4B</description><Point><coordinates>110.388726289616,-7.80420345871054</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>UTY Glagahsari - B</name><description>Tujuan / Destination:
+
+1. Olive Glagahsari = 4B</description><Point><coordinates>110.388317871072,-7.80566484708191</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMKN 5 - A</name><description>Tujuan / Destination:
+
+1. SGM Kusumanegara - B = 4A, 10</description><Point><coordinates>110.395048115326,-7.80037419933524</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMKN 5 - B</name><description>Tujuan / Destination:
+
+1. Timoho - B = 4B</description><Point><coordinates>110.394522920533,-7.80026156264018</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Timoho - B</name><description>Tujuan / Destination:
+
+1. APMD - B = 4B
+2. TNI AL - B = 10</description><Point><coordinates>110.392575630216,-7.79685545023132</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Timoho - A</name><description>Tujuan / Destination:
+
+1. SMKN 5 - A = 4A, 10</description><Point><coordinates>110.392815255636,-7.79531154803435</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>TNI AL - B</name><description>Tujuan / Destination:
+
+1. Brimob Baciro - B = 10</description><Point><coordinates>110.392312917671,-7.79255547768072</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>TNI AL - A</name><description>Tujuan / Destination:
+
+1. Timoho - A = 10</description><Point><coordinates>110.390919334133,-7.79230977194753</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Brimob Baciro - B</name><description>Tujuan / Destination:
+
+1. Tarumartani - B = 10</description><Point><coordinates>110.385348397943,-7.79123922035619</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Brimob Baciro - A</name><description>Tujuan / Destination:
+
+1. TNI AL - A = 10</description><Point><coordinates>110.385289634706,-7.79118643788876</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Tarumartani - B</name><description>Tujuan / Destination:
+
+1. Flyover Lempuyangan = 10</description><Point><coordinates>110.381979899978,-7.79055259247554</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Tarumartani - A</name><description>Tujuan / Destination:
+
+1. Brimob Baciro - A = 10</description><Point><coordinates>110.381981627951,-7.79051718265695</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>APMD - B</name><description>Tujuan / Destination:
+
+1. UIN Sunan Kalijaga - B = 4B</description><Point><coordinates>110.39324346612,-7.79159872586786</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>APMD - A</name><description>Tujuan / Destination:
+
+1. Timoho - A = 4A</description><Point><coordinates>110.393350625816,-7.7910513666426</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>UIN Sunan Kalijaga - A</name><description>Tujuan / Destination:
+
+1. Gedung Wanita = 4B</description><Point><coordinates>110.39483398717,-7.7861715291121</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>UIN Sunan Kalijaga - B</name><description>Tujuan / Destination:
+
+1. APMD - A = 4A</description><Point><coordinates>110.394779762946,-7.78589084101481</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Lapas Wirogunan - A</name><description>Tujuan / Destination:
+
+1. Pasar Sentul = 4A</description><Point><coordinates>110.378209724541,-7.80392018790972</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Lapas Wirogunan - B</name><description>Tujuan / Destination:
+
+1. Nyutran - B = 4B</description><Point><coordinates>110.378202292133,-7.80418647825439</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Nyutran - A</name><description>Tujuan / Destination:
+
+1. Lapas Wirogunan - A = 4A</description><Point><coordinates>110.376913593445,-7.81093694897568</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Nyutran - B</name><description>Tujuan / Destination:
+
+1. STSRD Visi Tamansiswa - B = 4B</description><Point><coordinates>110.376970927821,-7.81085679846903</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>STSRD Visi Tamansiswa - A</name><description>Tujuan / Destination:
+
+1. Nyutran - A = 4A</description><Point><coordinates>110.376527684363,-7.81336751917397</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>STSRD Visi Tamansiswa - B</name><description>Tujuan / Destination:
+
+1. STIE Kerjasama = 4B</description><Point><coordinates>110.37652614364,-7.81369476049239</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Indogrosir</name><description>Tujuan / Destination:
+
+1. Jogja City Mall - A = 5A, 9, L-1</description><Point><coordinates>110.362358839502,-7.75086711210892</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>MMTC Yogyakarta</name><description>Tujuan / Destination:
+
+1. Terminal Jombor = 5B, 9, L-1</description><Point><coordinates>110.362222304531,-7.75065871658972</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Atakrib Jl. Magelang</name><description>Tujuan / Destination:
+
+1. TVRI - A = 5A, 9, L-1</description><Point><coordinates>110.362067701498,-7.75633946495872</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Daytrans Jl. Magelang</name><description>Tujuan / Destination:
+
+1. Jogja City Mall - B = 5B, 9, L-1</description><Point><coordinates>110.361963154755,-7.75634168162557</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Jogja City Mall - A</name><description>Tujuan / Destination:
+
+1. Atakrib Jl. Magelang = 5A, 9, L-1</description><Point><coordinates>110.362226459079,-7.75335539924519</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Jogja City Mall - B</name><description>Tujuan / Destination:
+
+1. MMTC Yogyakarta = 5B, 9, L-1</description><Point><coordinates>110.362112592152,-7.75306463819142</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>TVRI - A</name><description>Tujuan / Destination:
+
+1. Karangwaru - A = 5A, 9, L-1</description><Point><coordinates>110.361622804309,-7.76525986834521</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>TVRI - B</name><description>Tujuan / Destination:
+
+1. Daytrans Jl. Magelang = 5B, 9, L-1</description><Point><coordinates>110.361551438949,-7.76536084750119</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Karangwaru - B</name><description>Tujuan / Destination:
+
+1. TVRI - B = 5B, 9, L-1</description><Point><coordinates>110.361259009885,-7.77175846716355</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Karangwaru - A</name><description>Tujuan / Destination:
+
+1. Borobudur Plaza = 9, L-1
+2. Hotel Utara - A = 5A</description><Point><coordinates>110.361302160773,-7.77229957617955</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kricak</name><description>Tujuan / Destination:
+
+1. Karangwaru - B = 5B, 9, L-1</description><Point><coordinates>110.361145852334,-7.77423404640534</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Teknik UGM - B</name><description>Tujuan / Destination:
+
+1. RS Sardjito - A = 5B</description><Point><coordinates>110.374649763485,-7.76418847779063</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Teknik UGM - A</name><description>Tujuan / Destination:
+
+1. SPBU Monjali - B = 5A</description><Point><coordinates>110.374555549996,-7.76422109381854</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Park and Ride Gamping</name><description>Tujuan / Destination:
+
+1. PKU Gamping = 6, 10</description><Point><coordinates>110.314873101147,-7.80243016268649</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>PKU Gamping</name><description>Tujuan / Destination:
+
+1. Pasar Gamping - A = 6, 10</description><Point><coordinates>110.316788875472,-7.80188608562943</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>BPD Gamping</name><description>Tujuan / Destination:
+
+1. Park and Ride Gamping = 6, 10</description><Point><coordinates>110.318684613205,-7.80161506012193</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Gamping - B</name><description>Tujuan / Destination:
+
+1. BPD Gamping = 6, 10</description><Point><coordinates>110.323542153577,-7.80075377556876</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Gamping - A</name><description>Tujuan / Destination:
+
+1. Pelem Gurih - A = 10
+2. Universitas BSI - B = 6</description><Point><coordinates>110.323805232642,-7.80063704459113</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Universitas BSI - A</name><description>Tujuan / Destination:
+
+1. Pasar Gamping - B = 6</description><Point><coordinates>110.325146778529,-7.80269305750801</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Universitas BSI - B</name><description>Tujuan / Destination:
+
+1. UMY - B = 6</description><Point><coordinates>110.325244313245,-7.80287896463053</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>UMY - A</name><description>Tujuan / Destination:
+
+1. Universitas BSI - A = 6</description><Point><coordinates>110.324500273184,-7.81072772276467</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>UMY - B</name><description>Tujuan / Destination:
+
+1. Tamantirto - B = 6</description><Point><coordinates>110.324570981963,-7.81091716752496</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Tamantirto - A</name><description>Tujuan / Destination:
+
+1. UMY - A = 6</description><Point><coordinates>110.324280476103,-7.81449604367421</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Tamantirto - B</name><description>Tujuan / Destination:
+
+1. Universitas Alma Ata = 6</description><Point><coordinates>110.324280005403,-7.81607051272632</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Universitas Alma Ata</name><description>Tujuan / Destination:
+
+1. Lap. Kasihan - B = 6</description><Point><coordinates>110.324158199229,-7.81822774410447</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Lap. Kasihan - A</name><description>Tujuan / Destination:
+
+1. Tamantirto - A = 6</description><Point><coordinates>110.328124273139,-7.8250315592545</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Lap. Kasihan - B</name><description>Tujuan / Destination:
+
+1. Simpang Diklat DIY - B = 6</description><Point><coordinates>110.328960824783,-7.82627027104143</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Diklat DIY - B</name><description>Tujuan / Destination:
+
+1. Madukismo - B = 6</description><Point><coordinates>110.331616110568,-7.82860084784505</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Diklat DIY - A</name><description>Tujuan / Destination:
+
+1. Lap. Kasihan - A = 6</description><Point><coordinates>110.332492206367,-7.82883320316962</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Madukismo - B</name><description>Tujuan / Destination:
+
+1. Lap. Kasihan - A = 6</description><Point><coordinates>110.344338092825,-7.82848747795819</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Madukismo - A</name><description>Tujuan / Destination:
+
+1. Simpang Diklat DIY - A = 6</description><Point><coordinates>110.344306313537,-7.82882852482297</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMAN 1 Kasihan - B</name><description>Tujuan / Destination:
+
+1. SMK Seni - B = 6</description><Point><coordinates>110.348208093392,-7.81840356831284</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMAN 1 Kasihan - A</name><description>Tujuan / Destination:
+
+1. Madukismo - A = 6</description><Point><coordinates>110.34822796806,-7.81839665489984</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMK Seni - B</name><description>Tujuan / Destination:
+
+1. Pasar Legi - B = 6</description><Point><coordinates>110.348767712442,-7.81533901722416</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMK Seni - A</name><description>Tujuan / Destination:
+
+1. Madukismo - A = 6</description><Point><coordinates>110.348983546392,-7.81446756016048</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Legi - B</name><description>Tujuan / Destination:
+
+1. Mualimin - A = 6</description><Point><coordinates>110.349661313465,-7.81095414782693</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Legi - A</name><description>Tujuan / Destination:
+
+1. SMK Seni - A = 6</description><Point><coordinates>110.350071295729,-7.80912714354169</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Mualimin - A</name><description>Tujuan / Destination:
+
+1. Tejokusuman = 6, 10</description><Point><coordinates>110.350942493759,-7.80789421416829</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Mualimin - B</name><description>Tujuan / Destination:
+
+1. Pasar Legi - A = 6
+2. SMA Muh 3 = 10</description><Point><coordinates>110.352250290733,-7.808118273566</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMA Muh 3</name><description>Tujuan / Destination:
+
+1. Hotel Andika Putera = 10</description><Point><coordinates>110.350538417338,-7.80670536777066</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>GKJ Wirobrajan</name><description>Tujuan / Destination:
+
+1. Mualimin - A = 10</description><Point><coordinates>110.350725459435,-7.80626106720941</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMP Muh 3</name><description>Tujuan / Destination:
+
+1. GKJ Wirobrajan = 10</description><Point><coordinates>110.351401092955,-7.80293867569501</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Hotel Andika Putera</name><description>Tujuan / Destination:
+
+1. Museum Bahari = 10</description><Point><coordinates>110.351520841018,-7.80198507507345</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Museum Bahari</name><description>Tujuan / Destination:
+
+1. Bayeman - B = 10</description><Point><coordinates>110.349281995991,-7.80099595134409</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Eks Hotel Nataputra</name><description>Tujuan / Destination:
+
+1. SMP Muh 3 = 10</description><Point><coordinates>110.348894891193,-7.80092262812435</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Bayeman - B</name><description>Tujuan / Destination:
+
+1. Pelem Gurih - B = 10</description><Point><coordinates>110.337013625782,-7.80040040946989</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Bayeman - A</name><description>Tujuan / Destination:
+
+1. Eks Hotel Nataputra = 10</description><Point><coordinates>110.337150049558,-7.80034322268137</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pelem Gurih - B</name><description>Tujuan / Destination:
+
+1. Pasar Gamping - B = 10</description><Point><coordinates>110.330741298136,-7.79999750139075</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pelem Gurih - A</name><description>Tujuan / Destination:
+
+1. Bayeman - A = 10</description><Point><coordinates>110.330615885446,-7.79991304907177</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>UTY Ring Road Utara - A</name><description>Tujuan / Destination:
+
+1. Dusun Ngawen = 8</description><Point><coordinates>110.356562133258,-7.74724295174611</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>UTY Ring Road Utara - B</name><description>Tujuan / Destination:
+
+1. Terminal Jombor = 8</description><Point><coordinates>110.356567379706,-7.74712349380452</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Dusun Ngawen</name><description>Tujuan / Destination:
+
+1. Westlake - A = 8</description><Point><coordinates>110.34385046939,-7.74486127136096</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Westlake - B</name><description>Tujuan / Destination:
+
+1. UTY Ring Road Utara - B = 8</description><Point><coordinates>110.340813297833,-7.74961519036956</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Westlake - A</name><description>Tujuan / Destination:
+
+1. Pasar Jambon = 8</description><Point><coordinates>110.341087254597,-7.74925998904249</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Jambon</name><description>Tujuan / Destination:
+
+1. Perumahan Nogotirto = 8</description><Point><coordinates>110.338753000833,-7.75584906105582</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SPBU Trihanggo</name><description>Tujuan / Destination:
+
+1. Westlake - B = 8</description><Point><coordinates>110.338889576379,-7.75514977910357</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Perumahan Nogotirto</name><description>Tujuan / Destination:
+
+1. Demak Ijo - A = 8</description><Point><coordinates>110.336143583208,-7.76367335546667</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Universitas Aisyiyah</name><description>Tujuan / Destination:
+
+1. SPBU Trihanggo = 8</description><Point><coordinates>110.334532201808,-7.76825389328832</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Nogosaren</name><description>Tujuan / Destination:
+
+1. Universitas Aisyiyah = 8</description><Point><coordinates>110.333262056993,-7.77207357580934</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Demak Ijo - B</name><description>Tujuan / Destination:
+
+1. Nogosaren = 8</description><Point><coordinates>110.332028656215,-7.77576483769699</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Demak Ijo - A</name><description>Tujuan / Destination:
+
+1. Metro Nogotirto - A = 8</description><Point><coordinates>110.331932826149,-7.77649631057643</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kompi Senapan-C</name><description>Tujuan / Destination:
+
+1. Demak Ijo - B = 8
+2. Toko Saerah - B =  13</description><Point><coordinates>110.332963244869,-7.77748806119142</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Metro Nogotirto - A</name><description>Tujuan / Destination:
+
+1. Kantor Pos Demak Ijo - A = 8, 13</description><Point><coordinates>110.334347807913,-7.77773772126802</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Metro Nogotirto - B</name><description>Tujuan / Destination:
+
+1. Kompi Senapan-C = 8, 13</description><Point><coordinates>110.334205091807,-7.77775496227151</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kantor Pos Demak Ijo - A</name><description>Tujuan / Destination:
+
+1. SDN 1 Demak Ijo - A = 8, 13</description><Point><coordinates>110.335964621059,-7.77808348974196</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kantor Pos Demak Ijo - B</name><description>Tujuan / Destination:
+
+1. Metro Nogotirto - B = 8, 13</description><Point><coordinates>110.335912076426,-7.77812183171432</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SDN 1 Demak Ijo - A</name><description>Tujuan / Destination:
+
+1. Pasar Tlogorejo - A = 8, 13</description><Point><coordinates>110.336795070191,-7.77826108784608</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SDN 1 Demak Ijo - B</name><description>Tujuan / Destination:
+
+1. Kantor Pos Demak Ijo - B = 8, 13</description><Point><coordinates>110.336757489809,-7.77830352997355</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Tlogorejo - B</name><description>Tujuan / Destination:
+
+1. SDN 1 Demak Ijo - B = 8, 13</description><Point><coordinates>110.339317995445,-7.77885383946774</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Tlogorejo - A</name><description>Tujuan / Destination:
+
+1. McD = 8, 13</description><Point><coordinates>110.33947901719,-7.77883507059082</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>McD</name><description>Tujuan / Destination:
+
+1. Mirota Godean - A = 8, 13</description><Point><coordinates>110.342128643687,-7.77940171286101</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Dentes Godean</name><description>Tujuan / Destination:
+
+1. Pasar Tlogorejo - B = 8, 13</description><Point><coordinates>110.343726798424,-7.77980138739371</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Mirota Godean - A</name><description>Tujuan / Destination:
+
+1. BKD - A = 8, 13</description><Point><coordinates>110.349729710062,-7.78102725300997</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Mirota Godean - B</name><description>Tujuan / Destination:
+
+1. Dentes Godean = 8, 13</description><Point><coordinates>110.350408330017,-7.78123739019099</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>BKD - A</name><description>Tujuan / Destination:
+
+1. Pasar Pingit - A = 8, 13</description><Point><coordinates>110.356222141533,-7.7824759017478</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>BKD - B</name><description>Tujuan / Destination:
+
+1. Mirota Godean - B = 8</description><Point><coordinates>110.355866215155,-7.78245819974136</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Pingit - A</name><description>Tujuan / Destination:
+
+1. Pasar Kranggan Selatan = 8, 13</description><Point><coordinates>110.358758245172,-7.78278194387497</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Pingit - B</name><description>Tujuan / Destination:
+
+1. BKD - B = 8</description><Point><coordinates>110.359049287691,-7.78286641994913</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>UAD Ring Road Selatan - A</name><description>Tujuan / Destination:
+
+1. Simpang Wojo = 11
+2. Wojo (Randubelang) - A = 9</description><Point><coordinates>110.382900770813,-7.83511343216214</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>UAD Ring Road Selatan - B</name><description>Tujuan / Destination:
+
+1. Terminal Giwangan = 9, 11</description><Point><coordinates>110.383233845736,-7.83491007948902</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Wojo (Randubelang) - A</name><description>Tujuan / Destination:
+
+1. Pasar Telo - A = 11</description><Point><coordinates>110.37386027421,-7.83095458474367</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Wojo (Randubelang) - B</name><description>Tujuan / Destination:
+
+1. UAD Ring Road Selatan - B = 11</description><Point><coordinates>110.373810042656,-7.82996228819698</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Telo - B</name><description>Tujuan / Destination:
+
+1. Wojo (Randubelang) - B = 11</description><Point><coordinates>110.373456725382,-7.82570849835079</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Telo - A</name><description>Tujuan / Destination:
+
+1. Jogokariyan - A = 11</description><Point><coordinates>110.373290815868,-7.8243862573925</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Jogokariyan - A</name><description>Tujuan / Destination:
+
+1. Hotel Pramesthi = 11
+2. Pasar Prawirotaman - A = 9</description><Point><coordinates>110.36773720816,-7.82333020838339</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Jogokariyan - B</name><description>Tujuan / Destination:
+
+1. Druwo - B = 9
+2. Pasar Telo - B = 11</description><Point><coordinates>110.367793166666,-7.8232404214109</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Wojo</name><description>Tujuan / Destination:
+
+1. Druwo - A = 9</description><Point><coordinates>110.373769330221,-7.83639402429799</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Druwo - A</name><description>Tujuan / Destination:
+
+1. Jogokariyan - A = 9</description><Point><coordinates>110.366414501417,-7.83388452507756</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Druwo - B</name><description>Tujuan / Destination:
+
+1. UAD Ring Road Selatan - B = 9</description><Point><coordinates>110.36659613523,-7.83362751038544</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Hotel Pramesthi</name><description>Tujuan / Destination:
+
+1. Ruba Graha - A = 11</description><Point><coordinates>110.36536717583,-7.82160138367943</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Ruba Graha - A</name><description>Tujuan / Destination:
+
+1. Suryodiningratan - A = 11</description><Point><coordinates>110.361969128793,-7.82091838159177</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Ruba Graha - B</name><description>Tujuan / Destination:
+
+1. Jogokariyan - B = 11</description><Point><coordinates>110.362279843582,-7.82094878057517</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Suryodiningratan - A</name><description>Tujuan / Destination:
+
+1. SMAN 7 = 11</description><Point><coordinates>110.362033517908,-7.81871730660911</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Suryodiningratan - B</name><description>Tujuan / Destination:
+
+1. Ruba Graha - B = 11</description><Point><coordinates>110.362104415918,-7.81856911515528</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Prawirotaman - A</name><description>Tujuan / Destination:
+
+1. Jokteng Wetan = 9</description><Point><coordinates>110.368011114774,-7.8197678783702</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Prawirotaman - B</name><description>Tujuan / Destination:
+
+1. Jogokariyan - B = 9</description><Point><coordinates>110.368058415947,-7.81981716628929</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Hotel Noola</name><description>Tujuan / Destination:
+
+1. Pasar Prawirotaman - B = 9</description><Point><coordinates>110.368378567744,-7.81568531268712</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Terminal Palbapang</name><description>Tujuan / Destination:
+
+1. SMAN 1 Bantul - A = 15</description><Point><coordinates>110.318594106119,-7.90531999545557</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMAN 1 Bantul - B</name><description>Tujuan / Destination:
+
+1. Terminal Palbapang = 15</description><Point><coordinates>110.322731924947,-7.89817910876068</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMAN 1 Bantul - A</name><description>Tujuan / Destination:
+
+1. SD Unggulan Aisyiyah - A = 15</description><Point><coordinates>110.323028588636,-7.89737980583022</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SD Unggulan Aisyiyah - A</name><description>Tujuan / Destination:
+
+1. Simpang Gose - A = 15</description><Point><coordinates>110.324031337521,-7.89503405782593</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SD Unggulan Aisyiyah - B</name><description>Tujuan / Destination:
+
+1. SMAN 1 Bantul - B = 15</description><Point><coordinates>110.323866107275,-7.89557266111627</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Gose - A</name><description>Tujuan / Destination:
+
+1. Tugu Adipura = 15</description><Point><coordinates>110.325391483861,-7.89185222241962</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Gose - B</name><description>Tujuan / Destination:
+
+1. SD Unggulan Aisyiyah - B = 15</description><Point><coordinates>110.325452413614,-7.89192716638071</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Tugu Adipura</name><description>Tujuan / Destination:
+
+1. Pasar Bantul - A = 15</description><Point><coordinates>110.326844074333,-7.88936150934774</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Polres Bantul</name><description>Tujuan / Destination:
+
+1. Simpang Gose - B = 15</description><Point><coordinates>110.326587323951,-7.88977654263868</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Eks Stasiun Bantul</name><description>Tujuan / Destination:
+
+1. Polres Bantul = 15</description><Point><coordinates>110.329313142178,-7.88738953620769</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Bantul - A</name><description>Tujuan / Destination:
+
+1. BRI Bantul = 15</description><Point><coordinates>110.33101127561,-7.88523845971485</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Bantul - B</name><description>Tujuan / Destination:
+
+1. Eks Stasiun Bantul = 15</description><Point><coordinates>110.331178608109,-7.8851076343187</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kantor Kap. Bantul</name><description>Tujuan / Destination:
+
+1. Pasar Bantul - B = 15</description><Point><coordinates>110.331802956118,-7.88358315042258</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>BRI Bantul</name><description>Tujuan / Destination:
+
+1. SMPN 2 Bantul - A = 15</description><Point><coordinates>110.33229757878,-7.8820122457185</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMPN 2 Bantul - B</name><description>Tujuan / Destination:
+
+1. Kantor Kap. Bantul = 15</description><Point><coordinates>110.335725043087,-7.87493592399106</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMPN 2 Bantul - A</name><description>Tujuan / Destination:
+
+1. Kantor Kal. Pendowoharjo - A = 15</description><Point><coordinates>110.335818502988,-7.87430806072354</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kantor Kal. Pendowoharjo - A</name><description>Tujuan / Destination:
+
+1. Kantor Kesbangpol - A = 15</description><Point><coordinates>110.339518384638,-7.86335401234749</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kantor Kal. Pendowoharjo - B</name><description>Tujuan / Destination:
+
+1. SMPN 2 Bantul - B = 15</description><Point><coordinates>110.339476525537,-7.86368550907454</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kantor Kesbangpol - B</name><description>Tujuan / Destination:
+
+1. Kantor Kal. Pendowoharjo - B = 15</description><Point><coordinates>110.341347627941,-7.85676760932054</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kantor Kesbangpol - A</name><description>Tujuan / Destination:
+
+1. Simpang Kasongan - A = 15</description><Point><coordinates>110.341391692024,-7.85631743368664</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Kasongan - B</name><description>Tujuan / Destination:
+
+1. Kantor Kesbangpol - B = 15</description><Point><coordinates>110.343467791348,-7.84861950265382</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Kasongan - A</name><description>Tujuan / Destination:
+
+1. Pasar Niten - A = 15</description><Point><coordinates>110.344543672159,-7.84633646982957</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Niten - A</name><description>Tujuan / Destination:
+
+1. Dongkelan - A = 15</description><Point><coordinates>110.350519706496,-7.83879770063624</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Niten - B</name><description>Tujuan / Destination:
+
+1. Simpang Kasongan - B =  15</description><Point><coordinates>110.351180608421,-7.83808810317338</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Dongkelan - A</name><description>Tujuan / Destination:
+
+1. Pasty - A = 15</description><Point><coordinates>110.353781477999,-7.83020227931897</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Dongkelan - B</name><description>Tujuan / Destination:
+
+1. Pasar Niten - B = 15</description><Point><coordinates>110.353950488227,-7.8292043638376</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasty - A</name><description>Tujuan / Destination:
+
+1. Dukuh - A = 15</description><Point><coordinates>110.35445277943,-7.82572977084278</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasty - B</name><description>Tujuan / Destination:
+
+1. Dongkelan - B = 15</description><Point><coordinates>110.354500033815,-7.82571410053457</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Dukuh - A</name><description>Tujuan / Destination:
+
+1. Gereja Pugeran - A = 15</description><Point><coordinates>110.355163407058,-7.82168914342236</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Dukuh - B</name><description>Tujuan / Destination:
+
+1. Pasty - B = 15</description><Point><coordinates>110.355340246791,-7.82095187310113</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Gereja Pugeran - A</name><description>Tujuan / Destination:
+
+1. Tejokusuman = 15</description><Point><coordinates>110.355888288757,-7.8165803559866</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Gereja Pugeran - B</name><description>Tujuan / Destination:
+
+1. Dukuh - B = 15</description><Point><coordinates>110.355924349435,-7.81676729585652</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Stadion TGP</name><description>Tujuan / Destination:
+
+1. SMK Negeri 2 Godean = 13</description><Point><coordinates>110.292935318805,-7.75708817183385</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMPN 1 Godean</name><description>Tujuan / Destination:
+
+1. Stadion TGP = 15</description><Point><coordinates>110.290955687287,-7.76241145400931</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMK Negeri 2 Godean</name><description>Tujuan / Destination:
+
+1. Pasar Induk Godean - A = 13</description><Point><coordinates>110.291144915575,-7.76206398697759</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Induk Godean - A</name><description>Tujuan / Destination:
+
+1. Pasar Belut Godean - A = 13</description><Point><coordinates>110.290805989417,-7.76659740845102</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Induk Godean - B</name><description>Tujuan / Destination:
+
+1. SMPN 1 Godean = 13</description><Point><coordinates>110.29117585865,-7.76677816951563</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Belut Godean - A</name><description>Tujuan / Destination:
+
+1. Kantor Kap. Godean - A = 13</description><Point><coordinates>110.293578811587,-7.767526745342</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Belut Godean - B</name><description>Tujuan / Destination:
+
+1. Pasar Induk Godean - B = 13</description><Point><coordinates>110.29361072176,-7.76760168217568</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kantor Kap. Godean - A</name><description>Tujuan / Destination:
+
+1. Simpang Mandungan (Iwak Kalen) - A = 13</description><Point><coordinates>110.300204537293,-7.76936956648483</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kantor Kap. Godean - B</name><description>Tujuan / Destination:
+
+1. Pasar Belut Godean - B = 13</description><Point><coordinates>110.300118283087,-7.76939458119361</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Mandungan (Iwak Kalen) - A</name><description>Tujuan / Destination:
+
+1. Koramil Godean - A = 13</description><Point><coordinates>110.303011356445,-7.7700806623334</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Mandungan (Iwak Kalen) - B</name><description>Tujuan / Destination:
+
+1. Kantor Kap. Godean - B = 13</description><Point><coordinates>110.303021391815,-7.77012600449156</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Koramil Godean - B</name><description>Tujuan / Destination:
+
+1. Simpang Mandungan (Iwak Kalen) - B = 13</description><Point><coordinates>110.306937159818,-7.77111256006195</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Koramil Godean - A</name><description>Tujuan / Destination:
+
+1. Polsek Godean - A = 13</description><Point><coordinates>110.306945987685,-7.77107748261207</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Polsek Godean - B</name><description>Tujuan / Destination:
+
+1. Koramil Godean - B = 13</description><Point><coordinates>110.308997744247,-7.77163395345023</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Polsek Godean - A</name><description>Tujuan / Destination:
+
+1. Neutron Godean - A = 13</description><Point><coordinates>110.309020847241,-7.77160549717835</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Neutron Godean - B</name><description>Tujuan / Destination:
+
+1. Polsek Godean - B = 13</description><Point><coordinates>110.310467158989,-7.77202333452178</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Neutron Godean - A</name><description>Tujuan / Destination:
+
+1. Indomaret Klajuran - A = 13</description><Point><coordinates>110.310257745531,-7.77193515826951</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Indomaret Klajuran - B</name><description>Tujuan / Destination:
+
+1. Neutron Godean - B = 13</description><Point><coordinates>110.31179387022,-7.77237490019614</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Indomaret Klajuran - A</name><description>Tujuan / Destination:
+
+1. Simpang Gesikan - A = 13</description><Point><coordinates>110.311738971512,-7.7723299378206</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Gesikan - A</name><description>Tujuan / Destination:
+
+1. Simpang Munggur - A = 13</description><Point><coordinates>110.31644315339,-7.77360995916412</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Gesikan - B</name><description>Tujuan / Destination:
+
+1. Indomaret Klajuran - B = 13</description><Point><coordinates>110.316544290759,-7.77368611050262</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Munggur - B</name><description>Tujuan / Destination:
+
+1. Simpang Gesikan - B = 13</description><Point><coordinates>110.318194327241,-7.77399360033849</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Munggur - A</name><description>Tujuan / Destination:
+
+1. Simpang Bantulan - A = 13</description><Point><coordinates>110.318273243335,-7.77396924867117</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Bantulan - A</name><description>Tujuan / Destination:
+
+1. Kantor Kal. Sidoarum - A = 13</description><Point><coordinates>110.322742888761,-7.77497385995072</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Bantulan - B</name><description>Tujuan / Destination:
+
+1. Simpang Munggur - B = 13</description><Point><coordinates>110.322434297747,-7.77493021708888</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kantor Kal. Sidoarum - A</name><description>Tujuan / Destination:
+
+1. Toko Saerah - A = 13</description><Point><coordinates>110.325379370649,-7.77562380078074</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kantor Kal. Sidoarum - B</name><description>Tujuan / Destination:
+
+1. Simpang Bantulan - B = 13</description><Point><coordinates>110.325253441493,-7.77562628833846</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Toko Saerah - A</name><description>Tujuan / Destination:
+
+1. Metro Nogotirto - A = 13</description><Point><coordinates>110.327793526484,-7.77623547286421</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Toko Saerah - B</name><description>Tujuan / Destination:
+
+1. Kantor Kal. Sidoarum - B = 13</description><Point><coordinates>110.327852087473,-7.77631121628463</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Superindo Jakal - B</name><description>Tujuan / Destination:
+
+1. Hokben Jakal - A = 12</description><Point><coordinates>110.384683046052,-7.75264250693718</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Superindo Jakal - A</name><description>Tujuan / Destination:
+
+1. Pasar Kolombo - A = 12</description><Point><coordinates>110.384651755604,-7.75256685053757</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Kolombo - A</name><description>Tujuan / Destination:
+
+1. Gardu PLN - A = 12</description><Point><coordinates>110.388896575347,-7.74531513032606</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Kolombo - B</name><description>Tujuan / Destination:
+
+1. Superindo Jakal - B = 12</description><Point><coordinates>110.388962751991,-7.74527487700176</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Gardu PLN - A</name><description>Tujuan / Destination:
+
+1. Simpang Palem Raya - A = 12</description><Point><coordinates>110.392487685841,-7.73923965891678</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Gardu PLN - B</name><description>Tujuan / Destination:
+
+1. Pasar Kolombo - B = 12</description><Point><coordinates>110.392755282845,-7.73886423527745</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Palem Raya - B</name><description>Tujuan / Destination:
+
+1. Gardu PLN - B = 12</description><Point><coordinates>110.397648879378,-7.73044512381169</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Palem Raya - A</name><description>Tujuan / Destination:
+
+1. Kantor Kap. Ngaglik = 12</description><Point><coordinates>110.397586652251,-7.73050098104695</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kantor Kap. Ngaglik</name><description>Tujuan / Destination:
+
+1. Puskesmas Ngaglik - A = 12</description><Point><coordinates>110.401285787597,-7.7241049603383</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>TK BIAS</name><description>Tujuan / Destination:
+
+1. Simpang Palem Raya - B = 12</description><Point><coordinates>110.401258248208,-7.7242557366339</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Puskesmas Ngaglik - A</name><description>Tujuan / Destination:
+
+1. Pasar Gentan - A = 12</description><Point><coordinates>110.402586223846,-7.721853561086</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Puskesmas Ngaglik - B</name><description>Tujuan / Destination:
+
+1. TK BIAS = 12</description><Point><coordinates>110.402525969812,-7.72205628180572</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Gentan - B</name><description>Tujuan / Destination:
+
+1. Puskesmas Ngaglik - B = 12</description><Point><coordinates>110.404122829907,-7.71927672929728</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Gentan - A</name><description>Tujuan / Destination:
+
+1. SMPN 2 Ngaglik - A = 12</description><Point><coordinates>110.404287368354,-7.71889534883902</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMPN 2 Ngaglik - B</name><description>Tujuan / Destination:
+
+1. Pasar Gentan - B = 12</description><Point><coordinates>110.405973227377,-7.71605583759283</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMPN 2 Ngaglik - A</name><description>Tujuan / Destination:
+
+1. SPBU Kaliurang - A = 12</description><Point><coordinates>110.406045593682,-7.71583220377611</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SPBU Kaliurang - A</name><description>Tujuan / Destination:
+
+1. Wedangan Kampoeng - A = 12</description><Point><coordinates>110.408914291512,-7.71083436806196</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SPBU Kaliurang - B</name><description>Tujuan / Destination:
+
+1. SMPN 2 Ngaglik - B = 12</description><Point><coordinates>110.408890895999,-7.71097715205293</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Wedangan Kampoeng - A</name><description>Tujuan / Destination:
+
+1. Simpang Besi Jakal - A = 12</description><Point><coordinates>110.413570848468,-7.70274039212158</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Wedangan Kampoeng - B</name><description>Tujuan / Destination:
+
+1. SPBU Kaliurang - B = 12</description><Point><coordinates>110.413569095617,-7.70283419242677</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Besi Jakal - B</name><description>Tujuan / Destination:
+
+1. RSU Gramedika - B = 14
+2. Wedangan Kampoeng - B = 12</description><Point><coordinates>110.415830152315,-7.69953874262742</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Besi Jakal - A</name><description>Tujuan / Destination:
+
+1. YAKKUM - A = 12, 14</description><Point><coordinates>110.415730127751,-7.69963778948951</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>YAKKUM - A</name><description>Tujuan / Destination:
+
+1. Boulevard UII = 12, 14</description><Point><coordinates>110.417989943539,-7.69558702509164</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>YAKKUM - B</name><description>Tujuan / Destination:
+
+1. Simpang Besi Jakal - B = 12, 14</description><Point><coordinates>110.418065615349,-7.69552691288185</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>UII (Timur Jalan)</name><description>Tujuan / Destination:
+
+1. YAKKUM - B = 12, 14</description><Point><coordinates>110.418798117462,-7.68778462756474</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>UII (Barat Jalan)</name><description>Tujuan / Destination:
+
+1. Simpang Degolan - A = 12, 14</description><Point><coordinates>110.418762020287,-7.68734357521028</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Boulevard UII</name><description>Tujuan / Destination:
+
+1. UII (Barat Jalan) = 12, 14
+2. UII (Timur Jalan) = 12, 14</description><Point><coordinates>110.417154436195,-7.68741462804193</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Degolan - A</name><description>Tujuan / Destination:
+
+1. Raminten - A = 12, 14</description><Point><coordinates>110.419322343609,-7.68356557857522</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Degolan - B</name><description>Tujuan / Destination:
+
+1. Boulevard UII = 12, 14</description><Point><coordinates>110.419343460816,-7.68359752359439</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Raminten - B</name><description>Tujuan / Destination:
+
+1. Simpang Degolan - B = 12, 14</description><Point><coordinates>110.417292466233,-7.6761602288789</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Raminten - A</name><description>Tujuan / Destination:
+
+1. Dusun Kledokan - A = 12, 14</description><Point><coordinates>110.417241320477,-7.67598443002627</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Dusun Kledokan - B</name><description>Tujuan / Destination:
+
+1. Raminten - B = 12, 14</description><Point><coordinates>110.417366510387,-7.67308080687795</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Dusun Kledokan - A</name><description>Tujuan / Destination:
+
+1. RS Panti Nugroho = 12, 14</description><Point><coordinates>110.417355966457,-7.67263331895508</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>RS Panti Nugroho</name><description>Tujuan / Destination:
+
+1. Terminal Pakem = 12, 14</description><Point><coordinates>110.417578188735,-7.66925281966219</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMPN 4 Pakem</name><description>Tujuan / Destination:
+
+1. Dusun Kledokan - B = 12, 14</description><Point><coordinates>110.417623758651,-7.66924043572876</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SDN Percobaan 3 Pakem</name><description>Tujuan / Destination:
+
+1. SMPN 4 Pakem = 12, 14</description><Point><coordinates>110.417680994831,-7.66838597169434</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Terminal Pakem</name><description>Tujuan / Destination:
+
+1. SDN Percobaan 3 Pakem = 12, 14</description><Point><coordinates>110.419971121642,-7.66688699728972</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>RSU Gramedika - A</name><description>Tujuan / Destination:
+
+1. Simpang Besi Jakal - A = 14</description><Point><coordinates>110.416973334283,-7.70115839315815</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>RSU Gramedika - B</name><description>Tujuan / Destination:
+
+1. SDN Selomulyo - B = 14</description><Point><coordinates>110.416983151648,-7.70112242423001</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SDN Selomulyo - B</name><description>Tujuan / Destination:
+
+1. Kantor Kal. Sukoharjo = 14</description><Point><coordinates>110.420439351075,-7.70226591453805</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SDN Selomulyo - A</name><description>Tujuan / Destination:
+
+1. RSU Gramedika - A = 14</description><Point><coordinates>110.420704621727,-7.70240820474692</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kantor Kal. Sukoharjo</name><description>Tujuan / Destination:
+
+1. Lap. Klidon - B = 14</description><Point><coordinates>110.425147974659,-7.7038257632585</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Lap. Klidon - B</name><description>Tujuan / Destination:
+
+1. SPBU Mindi - B = 14</description><Point><coordinates>110.426443316485,-7.70418800466734</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Lap. Klidon - A</name><description>Tujuan / Destination:
+
+1. SDN Selomulyo - A = 14</description><Point><coordinates>110.426579775494,-7.7042495506463</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SPBU Mindi - B</name><description>Tujuan / Destination:
+
+1. Simpang Losari - B = 14</description><Point><coordinates>110.431162360713,-7.70484663491888</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SPBU Mindi - A</name><description>Tujuan / Destination:
+
+1. Lap. Klidon - A = 14</description><Point><coordinates>110.431011831666,-7.70487371027491</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Losari - B</name><description>Tujuan / Destination:
+
+1. SMAN 2 Ngaglik - B = 14</description><Point><coordinates>110.433159235457,-7.70483515224556</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Losari - A</name><description>Tujuan / Destination:
+
+1. SPBU Mindi - A = 14</description><Point><coordinates>110.433026205183,-7.70485785037078</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMAN 2 Ngaglik - B</name><description>Tujuan / Destination:
+
+1. Timur Jembatan Yapah - B = 14</description><Point><coordinates>110.434958587795,-7.70484864720375</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMAN 2 Ngaglik - A</name><description>Tujuan / Destination:
+
+1. Simpang Losari - A = 14</description><Point><coordinates>110.435056376369,-7.70487453125563</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Timur Jembatan Yapah - A</name><description>Tujuan / Destination:
+
+1. SMAN 2 Ngaglik - A = 14</description><Point><coordinates>110.439170847522,-7.70506514476868</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Timur Jembatan Yapah - B</name><description>Tujuan / Destination:
+
+1. Tugu Batas Desa Yapah - B = 14</description><Point><coordinates>110.439313648859,-7.70505146849972</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Tugu Batas Desa Yapah - B</name><description>Tujuan / Destination:
+
+1. Puskesmas Ngemplak - B = 14</description><Point><coordinates>110.442662169213,-7.7037671567717</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Tugu Batas Desa Yapah - A</name><description>Tujuan / Destination:
+
+1. Timur Jembatan Yapah - A = 14</description><Point><coordinates>110.442153024814,-7.70403943150588</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Puskesmas Ngemplak - A</name><description>Tujuan / Destination:
+
+1. Tugu Batas Desa Yapah - A = 14</description><Point><coordinates>110.444694953772,-7.70295807955854</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Puskesmas Ngemplak - B</name><description>Tujuan / Destination:
+
+1. Pasar Jangkang - B = 14</description><Point><coordinates>110.444565835046,-7.70298524542142</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Jangkang - A</name><description>Tujuan / Destination:
+
+1. Puskesmas Ngemplak - A = 14</description><Point><coordinates>110.447337184517,-7.70211736723279</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Pasar Jangkang - B</name><description>Tujuan / Destination:
+
+1. Dusun Kenthi - B = 14</description><Point><coordinates>110.447445260264,-7.70207218215812</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Dusun Kenthi - B</name><description>Tujuan / Destination:
+
+1. RS Kemasan - B = 14</description><Point><coordinates>110.448764200322,-7.71153223503232</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Dusun Kenthi - A</name><description>Tujuan / Destination:
+
+1. Pasar Jangkang - A = 14</description><Point><coordinates>110.448765339707,-7.71139237626858</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>RS Kemasan - A</name><description>Tujuan / Destination:
+
+1. Dusun Kenthi - A = 14</description><Point><coordinates>110.448052324598,-7.71324763989935</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>RS Kemasan - B</name><description>Tujuan / Destination:
+
+1. Jl. Raya Kabunan - B = 14</description><Point><coordinates>110.447840680456,-7.71374120346094</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Jl. Raya Kabunan - A</name><description>Tujuan / Destination:
+
+1. RS Kemasan - A = 14</description><Point><coordinates>110.442838637125,-7.71323807611012</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Jl. Raya Kabunan - B</name><description>Tujuan / Destination:
+
+1. Simpang Kabunan - B = 14</description><Point><coordinates>110.441913347036,-7.71456121558654</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Kabunan - A</name><description>Tujuan / Destination:
+
+1. Jl. Raya Kabunan - A = 14</description><Point><coordinates>110.438624615546,-7.71859828251843</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Kabunan - B</name><description>Tujuan / Destination:
+
+1. Simpang Selomartani - B = 14</description><Point><coordinates>110.438206945259,-7.71948501065359</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Selomartani - A</name><description>Tujuan / Destination:
+
+1. Simpang Kabunan - A = 14</description><Point><coordinates>110.438121278557,-7.72234262030188</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Selomartani - B</name><description>Tujuan / Destination:
+
+1. Simpang Babadan - B = 14</description><Point><coordinates>110.437981396288,-7.72240715615206</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Babadan - B</name><description>Tujuan / Destination:
+
+1. Kantor Kal. Wedomartani - B = 14</description><Point><coordinates>110.435447375624,-7.72329757004594</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Simpang Babadan - A</name><description>Tujuan / Destination:
+
+1. Simpang Selomartani - A = 14</description><Point><coordinates>110.435479296911,-7.72314339257022</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kantor Kal. Wedomartani - B</name><description>Tujuan / Destination:
+
+1. Indomaret Pokoh Sambiroto - B = 14</description><Point><coordinates>110.434855377734,-7.73125775704455</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Kantor Kal. Wedomartani - A</name><description>Tujuan / Destination:
+
+1. Simpang Babadan - A = 14</description><Point><coordinates>110.434814702087,-7.73151764080972</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Indomaret Pokoh Sambiroto - A</name><description>Tujuan / Destination:
+
+1. Kantor Kal. Wedomartani - A = 14</description><Point><coordinates>110.434606512541,-7.73555708293046</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Indomaret Pokoh Sambiroto - B</name><description>Tujuan / Destination:
+
+1. Budi Mulia Dua - B = 14</description><Point><coordinates>110.434612788698,-7.73608142789707</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Budi Mulia Dua - A</name><description>Tujuan / Destination:
+
+1. Indomaret Pokoh Sambiroto - A = 14</description><Point><coordinates>110.434186668045,-7.74294805351371</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Budi Mulia Dua - B</name><description>Tujuan / Destination:
+
+1. UNRIYO - B = 14</description><Point><coordinates>110.434199659025,-7.74318264151038</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>UNRIYO - A</name><description>Tujuan / Destination:
+
+1. Budi Mulia Dua - A = 14</description><Point><coordinates>110.434164370538,-7.74633226892047</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>UNRIYO - B</name><description>Tujuan / Destination:
+
+1. MAN 2 Sleman - B = 14</description><Point><coordinates>110.434188889272,-7.7462995095782</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>MAN 2 Sleman - A</name><description>Tujuan / Destination:
+
+1. UNRIYO - A = 14</description><Point><coordinates>110.434524568035,-7.75037025577812</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>MAN 2 Sleman - B</name><description>Tujuan / Destination:
+
+1. KUA Depok - B = 14</description><Point><coordinates>110.434544678919,-7.75042512981504</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>KUA Depok - A</name><description>Tujuan / Destination:
+
+1. MAN 2 Sleman - A = 14</description><Point><coordinates>110.433779263278,-7.7555394838221</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>KUA Depok - B</name><description>Tujuan / Destination:
+
+1. SDN 1 Depok - B = 14</description><Point><coordinates>110.43383134757,-7.75547539758741</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SDN 1 Depok - A</name><description>Tujuan / Destination:
+
+1. KUA Depok - A = 14</description><Point><coordinates>110.432918064882,-7.76073645435788</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SDN 1 Depok - B</name><description>Tujuan / Destination:
+
+1. SMKN 1 Depok - Jl. Raya Tajem - B = 14</description><Point><coordinates>110.4329185922,-7.76089410696286</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMKN 1 Depok - Jl. Raya Tajem - A</name><description>Tujuan / Destination:
+
+1. SDN 1 Depok - A = 14</description><Point><coordinates>110.431503529789,-7.76525572539145</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>SMKN 1 Depok - Jl. Raya Tajem - B</name><description>Tujuan / Destination:
+
+1. Disnakertrans - B = 14</description><Point><coordinates>110.431545346453,-7.76526802461861</coordinates></Point></Placemark><Placemark><styleUrl>#Bus_Stops_style_map</styleUrl><name>Bausasran</name><description>Tujuan / Destination:
+
+1. Jl. Mataram = 14</description><Point><coordinates>110.374950960907,-7.79704026900408</coordinates></Point></Placemark></Folder></Document></kml>
